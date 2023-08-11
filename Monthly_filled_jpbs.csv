@@ -1,0 +1,1777 @@
+﻿ResourceID,Geo,Period,Label1,Label2,Label3,Value,Unit,Measure,Multiplier
+CPEMP11,,2004-01-31,All industries,Actual,,1617748,Number,Number of filled jobs,0
+CPEMP11,,2004-01-31,All industries,Seasonally adjusted,,1649055,Number,Number of filled jobs,0
+CPEMP11,,2004-01-31,Goods-producing industries,Actual,,337116,Number,Number of filled jobs,0
+CPEMP11,,2004-01-31,Goods-producing industries,Seasonally adjusted,,334264,Number,Number of filled jobs,0
+CPEMP11,,2004-01-31,Primary industries,Actual,,97825,Number,Number of filled jobs,0
+CPEMP11,,2004-01-31,Primary industries,Seasonally adjusted,,88975,Number,Number of filled jobs,0
+CPEMP11,,2004-01-31,Service industries,Actual,,1182807,Number,Number of filled jobs,0
+CPEMP11,,2004-01-31,Service industries,Seasonally adjusted,,1225634,Number,Number of filled jobs,0
+CPEMP11,,2004-02-29,All industries,Actual,,1632372,Number,Number of filled jobs,0
+CPEMP11,,2004-02-29,All industries,Seasonally adjusted,,1648027,Number,Number of filled jobs,0
+CPEMP11,,2004-02-29,Goods-producing industries,Actual,,340369,Number,Number of filled jobs,0
+CPEMP11,,2004-02-29,Goods-producing industries,Seasonally adjusted,,335209,Number,Number of filled jobs,0
+CPEMP11,,2004-02-29,Primary industries,Actual,,93345,Number,Number of filled jobs,0
+CPEMP11,,2004-02-29,Primary industries,Seasonally adjusted,,87431,Number,Number of filled jobs,0
+CPEMP11,,2004-02-29,Service industries,Actual,,1198658,Number,Number of filled jobs,0
+CPEMP11,,2004-02-29,Service industries,Seasonally adjusted,,1225132,Number,Number of filled jobs,0
+CPEMP11,,2004-03-31,All industries,Actual,,1670621,Number,Number of filled jobs,0
+CPEMP11,,2004-03-31,All industries,Seasonally adjusted,,1656774,Number,Number of filled jobs,0
+CPEMP11,,2004-03-31,Goods-producing industries,Actual,,341583,Number,Number of filled jobs,0
+CPEMP11,,2004-03-31,Goods-producing industries,Seasonally adjusted,,336909,Number,Number of filled jobs,0
+CPEMP11,,2004-03-31,Primary industries,Actual,,93658,Number,Number of filled jobs,0
+CPEMP11,,2004-03-31,Primary industries,Seasonally adjusted,,87906,Number,Number of filled jobs,0
+CPEMP11,,2004-03-31,Service industries,Actual,,1235380,Number,Number of filled jobs,0
+CPEMP11,,2004-03-31,Service industries,Seasonally adjusted,,1232097,Number,Number of filled jobs,0
+CPEMP11,,2004-04-30,All industries,Actual,,1677579,Number,Number of filled jobs,0
+CPEMP11,,2004-04-30,All industries,Seasonally adjusted,,1668271,Number,Number of filled jobs,0
+CPEMP11,,2004-04-30,Goods-producing industries,Actual,,342008,Number,Number of filled jobs,0
+CPEMP11,,2004-04-30,Goods-producing industries,Seasonally adjusted,,338850,Number,Number of filled jobs,0
+CPEMP11,,2004-04-30,Primary industries,Actual,,89369,Number,Number of filled jobs,0
+CPEMP11,,2004-04-30,Primary industries,Seasonally adjusted,,89419,Number,Number of filled jobs,0
+CPEMP11,,2004-04-30,Service industries,Actual,,1246202,Number,Number of filled jobs,0
+CPEMP11,,2004-04-30,Service industries,Seasonally adjusted,,1239862,Number,Number of filled jobs,0
+CPEMP11,,2004-05-31,All industries,Actual,,1677043,Number,Number of filled jobs,0
+CPEMP11,,2004-05-31,All industries,Seasonally adjusted,,1667184,Number,Number of filled jobs,0
+CPEMP11,,2004-05-31,Goods-producing industries,Actual,,341915,Number,Number of filled jobs,0
+CPEMP11,,2004-05-31,Goods-producing industries,Seasonally adjusted,,339404,Number,Number of filled jobs,0
+CPEMP11,,2004-05-31,Primary industries,Actual,,84401,Number,Number of filled jobs,0
+CPEMP11,,2004-05-31,Primary industries,Seasonally adjusted,,88677,Number,Number of filled jobs,0
+CPEMP11,,2004-05-31,Service industries,Actual,,1250727,Number,Number of filled jobs,0
+CPEMP11,,2004-05-31,Service industries,Seasonally adjusted,,1239344,Number,Number of filled jobs,0
+CPEMP11,,2004-06-30,All industries,Actual,,1672407,Number,Number of filled jobs,0
+CPEMP11,,2004-06-30,All industries,Seasonally adjusted,,1675551,Number,Number of filled jobs,0
+CPEMP11,,2004-06-30,Goods-producing industries,Actual,,339793,Number,Number of filled jobs,0
+CPEMP11,,2004-06-30,Goods-producing industries,Seasonally adjusted,,341084,Number,Number of filled jobs,0
+CPEMP11,,2004-06-30,Primary industries,Actual,,80589,Number,Number of filled jobs,0
+CPEMP11,,2004-06-30,Primary industries,Seasonally adjusted,,89041,Number,Number of filled jobs,0
+CPEMP11,,2004-06-30,Service industries,Actual,,1252025,Number,Number of filled jobs,0
+CPEMP11,,2004-06-30,Service industries,Seasonally adjusted,,1245491,Number,Number of filled jobs,0
+CPEMP11,,2004-07-31,All industries,Actual,,1670124,Number,Number of filled jobs,0
+CPEMP11,,2004-07-31,All industries,Seasonally adjusted,,1680933,Number,Number of filled jobs,0
+CPEMP11,,2004-07-31,Goods-producing industries,Actual,,339778,Number,Number of filled jobs,0
+CPEMP11,,2004-07-31,Goods-producing industries,Seasonally adjusted,,343826,Number,Number of filled jobs,0
+CPEMP11,,2004-07-31,Primary industries,Actual,,81849,Number,Number of filled jobs,0
+CPEMP11,,2004-07-31,Primary industries,Seasonally adjusted,,89278,Number,Number of filled jobs,0
+CPEMP11,,2004-07-31,Service industries,Actual,,1248497,Number,Number of filled jobs,0
+CPEMP11,,2004-07-31,Service industries,Seasonally adjusted,,1247879,Number,Number of filled jobs,0
+CPEMP11,,2004-08-31,All industries,Actual,,1669389,Number,Number of filled jobs,0
+CPEMP11,,2004-08-31,All industries,Seasonally adjusted,,1677306,Number,Number of filled jobs,0
+CPEMP11,,2004-08-31,Goods-producing industries,Actual,,338434,Number,Number of filled jobs,0
+CPEMP11,,2004-08-31,Goods-producing industries,Seasonally adjusted,,344528,Number,Number of filled jobs,0
+CPEMP11,,2004-08-31,Primary industries,Actual,,81968,Number,Number of filled jobs,0
+CPEMP11,,2004-08-31,Primary industries,Seasonally adjusted,,87368,Number,Number of filled jobs,0
+CPEMP11,,2004-08-31,Service industries,Actual,,1248987,Number,Number of filled jobs,0
+CPEMP11,,2004-08-31,Service industries,Seasonally adjusted,,1245245,Number,Number of filled jobs,0
+CPEMP11,,2004-09-30,All industries,Actual,,1686050,Number,Number of filled jobs,0
+CPEMP11,,2004-09-30,All industries,Seasonally adjusted,,1689063,Number,Number of filled jobs,0
+CPEMP11,,2004-09-30,Goods-producing industries,Actual,,340024,Number,Number of filled jobs,0
+CPEMP11,,2004-09-30,Goods-producing industries,Seasonally adjusted,,346649,Number,Number of filled jobs,0
+CPEMP11,,2004-09-30,Primary industries,Actual,,83555,Number,Number of filled jobs,0
+CPEMP11,,2004-09-30,Primary industries,Seasonally adjusted,,88572,Number,Number of filled jobs,0
+CPEMP11,,2004-09-30,Service industries,Actual,,1262471,Number,Number of filled jobs,0
+CPEMP11,,2004-09-30,Service industries,Seasonally adjusted,,1254046,Number,Number of filled jobs,0
+CPEMP11,,2004-10-31,All industries,Actual,,1689451,Number,Number of filled jobs,0
+CPEMP11,,2004-10-31,All industries,Seasonally adjusted,,1690138,Number,Number of filled jobs,0
+CPEMP11,,2004-10-31,Goods-producing industries,Actual,,340459,Number,Number of filled jobs,0
+CPEMP11,,2004-10-31,Goods-producing industries,Seasonally adjusted,,346162,Number,Number of filled jobs,0
+CPEMP11,,2004-10-31,Primary industries,Actual,,84839,Number,Number of filled jobs,0
+CPEMP11,,2004-10-31,Primary industries,Seasonally adjusted,,87696,Number,Number of filled jobs,0
+CPEMP11,,2004-10-31,Service industries,Actual,,1264153,Number,Number of filled jobs,0
+CPEMP11,,2004-10-31,Service industries,Seasonally adjusted,,1256346,Number,Number of filled jobs,0
+CPEMP11,,2004-11-30,All industries,Actual,,1717538,Number,Number of filled jobs,0
+CPEMP11,,2004-11-30,All industries,Seasonally adjusted,,1700415,Number,Number of filled jobs,0
+CPEMP11,,2004-11-30,Goods-producing industries,Actual,,348027,Number,Number of filled jobs,0
+CPEMP11,,2004-11-30,Goods-producing industries,Seasonally adjusted,,348323,Number,Number of filled jobs,0
+CPEMP11,,2004-11-30,Primary industries,Actual,,93005,Number,Number of filled jobs,0
+CPEMP11,,2004-11-30,Primary industries,Seasonally adjusted,,89810,Number,Number of filled jobs,0
+CPEMP11,,2004-11-30,Service industries,Actual,,1276506,Number,Number of filled jobs,0
+CPEMP11,,2004-11-30,Service industries,Seasonally adjusted,,1262349,Number,Number of filled jobs,0
+CPEMP11,,2004-12-31,All industries,Actual,,1729619,Number,Number of filled jobs,0
+CPEMP11,,2004-12-31,All industries,Seasonally adjusted,,1706087,Number,Number of filled jobs,0
+CPEMP11,,2004-12-31,Goods-producing industries,Actual,,355409,Number,Number of filled jobs,0
+CPEMP11,,2004-12-31,Goods-producing industries,Seasonally adjusted,,349898,Number,Number of filled jobs,0
+CPEMP11,,2004-12-31,Primary industries,Actual,,99630,Number,Number of filled jobs,0
+CPEMP11,,2004-12-31,Primary industries,Seasonally adjusted,,89609,Number,Number of filled jobs,0
+CPEMP11,,2004-12-31,Service industries,Actual,,1274580,Number,Number of filled jobs,0
+CPEMP11,,2004-12-31,Service industries,Seasonally adjusted,,1266600,Number,Number of filled jobs,0
+CPEMP11,,2005-01-31,All industries,Actual,,1664695,Number,Number of filled jobs,0
+CPEMP11,,2005-01-31,All industries,Seasonally adjusted,,1696228,Number,Number of filled jobs,0
+CPEMP11,,2005-01-31,Goods-producing industries,Actual,,350918,Number,Number of filled jobs,0
+CPEMP11,,2005-01-31,Goods-producing industries,Seasonally adjusted,,348040,Number,Number of filled jobs,0
+CPEMP11,,2005-01-31,Primary industries,Actual,,96389,Number,Number of filled jobs,0
+CPEMP11,,2005-01-31,Primary industries,Seasonally adjusted,,87763,Number,Number of filled jobs,0
+CPEMP11,,2005-01-31,Service industries,Actual,,1217388,Number,Number of filled jobs,0
+CPEMP11,,2005-01-31,Service industries,Seasonally adjusted,,1260297,Number,Number of filled jobs,0
+CPEMP11,,2005-02-28,All industries,Actual,,1720276,Number,Number of filled jobs,0
+CPEMP11,,2005-02-28,All industries,Seasonally adjusted,,1737182,Number,Number of filled jobs,0
+CPEMP11,,2005-02-28,Goods-producing industries,Actual,,358877,Number,Number of filled jobs,0
+CPEMP11,,2005-02-28,Goods-producing industries,Seasonally adjusted,,353600,Number,Number of filled jobs,0
+CPEMP11,,2005-02-28,Primary industries,Actual,,98565,Number,Number of filled jobs,0
+CPEMP11,,2005-02-28,Primary industries,Seasonally adjusted,,92128,Number,Number of filled jobs,0
+CPEMP11,,2005-02-28,Service industries,Actual,,1262834,Number,Number of filled jobs,0
+CPEMP11,,2005-02-28,Service industries,Seasonally adjusted,,1290859,Number,Number of filled jobs,0
+CPEMP11,,2005-03-31,All industries,Actual,,1748183,Number,Number of filled jobs,0
+CPEMP11,,2005-03-31,All industries,Seasonally adjusted,,1734197,Number,Number of filled jobs,0
+CPEMP11,,2005-03-31,Goods-producing industries,Actual,,360700,Number,Number of filled jobs,0
+CPEMP11,,2005-03-31,Goods-producing industries,Seasonally adjusted,,355804,Number,Number of filled jobs,0
+CPEMP11,,2005-03-31,Primary industries,Actual,,97220,Number,Number of filled jobs,0
+CPEMP11,,2005-03-31,Primary industries,Seasonally adjusted,,91657,Number,Number of filled jobs,0
+CPEMP11,,2005-03-31,Service industries,Actual,,1290263,Number,Number of filled jobs,0
+CPEMP11,,2005-03-31,Service industries,Seasonally adjusted,,1287088,Number,Number of filled jobs,0
+CPEMP11,,2005-04-30,All industries,Actual,,1732730,Number,Number of filled jobs,0
+CPEMP11,,2005-04-30,All industries,Seasonally adjusted,,1722730,Number,Number of filled jobs,0
+CPEMP11,,2005-04-30,Goods-producing industries,Actual,,357701,Number,Number of filled jobs,0
+CPEMP11,,2005-04-30,Goods-producing industries,Seasonally adjusted,,354389,Number,Number of filled jobs,0
+CPEMP11,,2005-04-30,Primary industries,Actual,,89764,Number,Number of filled jobs,0
+CPEMP11,,2005-04-30,Primary industries,Seasonally adjusted,,89962,Number,Number of filled jobs,0
+CPEMP11,,2005-04-30,Service industries,Actual,,1285265,Number,Number of filled jobs,0
+CPEMP11,,2005-04-30,Service industries,Seasonally adjusted,,1278332,Number,Number of filled jobs,0
+CPEMP11,,2005-05-31,All industries,Actual,,1736823,Number,Number of filled jobs,0
+CPEMP11,,2005-05-31,All industries,Seasonally adjusted,,1726849,Number,Number of filled jobs,0
+CPEMP11,,2005-05-31,Goods-producing industries,Actual,,357932,Number,Number of filled jobs,0
+CPEMP11,,2005-05-31,Goods-producing industries,Seasonally adjusted,,355218,Number,Number of filled jobs,0
+CPEMP11,,2005-05-31,Primary industries,Actual,,85009,Number,Number of filled jobs,0
+CPEMP11,,2005-05-31,Primary industries,Seasonally adjusted,,89395,Number,Number of filled jobs,0
+CPEMP11,,2005-05-31,Service industries,Actual,,1293882,Number,Number of filled jobs,0
+CPEMP11,,2005-05-31,Service industries,Seasonally adjusted,,1282195,Number,Number of filled jobs,0
+CPEMP11,,2005-06-30,All industries,Actual,,1730397,Number,Number of filled jobs,0
+CPEMP11,,2005-06-30,All industries,Seasonally adjusted,,1733958,Number,Number of filled jobs,0
+CPEMP11,,2005-06-30,Goods-producing industries,Actual,,355119,Number,Number of filled jobs,0
+CPEMP11,,2005-06-30,Goods-producing industries,Seasonally adjusted,,356596,Number,Number of filled jobs,0
+CPEMP11,,2005-06-30,Primary industries,Actual,,80452,Number,Number of filled jobs,0
+CPEMP11,,2005-06-30,Primary industries,Seasonally adjusted,,88841,Number,Number of filled jobs,0
+CPEMP11,,2005-06-30,Service industries,Actual,,1294826,Number,Number of filled jobs,0
+CPEMP11,,2005-06-30,Service industries,Seasonally adjusted,,1288438,Number,Number of filled jobs,0
+CPEMP11,,2005-07-31,All industries,Actual,,1723957,Number,Number of filled jobs,0
+CPEMP11,,2005-07-31,All industries,Seasonally adjusted,,1734751,Number,Number of filled jobs,0
+CPEMP11,,2005-07-31,Goods-producing industries,Actual,,351073,Number,Number of filled jobs,0
+CPEMP11,,2005-07-31,Goods-producing industries,Seasonally adjusted,,355310,Number,Number of filled jobs,0
+CPEMP11,,2005-07-31,Primary industries,Actual,,82004,Number,Number of filled jobs,0
+CPEMP11,,2005-07-31,Primary industries,Seasonally adjusted,,89240,Number,Number of filled jobs,0
+CPEMP11,,2005-07-31,Service industries,Actual,,1290880,Number,Number of filled jobs,0
+CPEMP11,,2005-07-31,Service industries,Seasonally adjusted,,1290145,Number,Number of filled jobs,0
+CPEMP11,,2005-08-31,All industries,Actual,,1727241,Number,Number of filled jobs,0
+CPEMP11,,2005-08-31,All industries,Seasonally adjusted,,1736400,Number,Number of filled jobs,0
+CPEMP11,,2005-08-31,Goods-producing industries,Actual,,348514,Number,Number of filled jobs,0
+CPEMP11,,2005-08-31,Goods-producing industries,Seasonally adjusted,,354950,Number,Number of filled jobs,0
+CPEMP11,,2005-08-31,Primary industries,Actual,,84011,Number,Number of filled jobs,0
+CPEMP11,,2005-08-31,Primary industries,Seasonally adjusted,,89387,Number,Number of filled jobs,0
+CPEMP11,,2005-08-31,Service industries,Actual,,1294716,Number,Number of filled jobs,0
+CPEMP11,,2005-08-31,Service industries,Seasonally adjusted,,1291856,Number,Number of filled jobs,0
+CPEMP11,,2005-09-30,All industries,Actual,,1739712,Number,Number of filled jobs,0
+CPEMP11,,2005-09-30,All industries,Seasonally adjusted,,1741591,Number,Number of filled jobs,0
+CPEMP11,,2005-09-30,Goods-producing industries,Actual,,348011,Number,Number of filled jobs,0
+CPEMP11,,2005-09-30,Goods-producing industries,Seasonally adjusted,,354652,Number,Number of filled jobs,0
+CPEMP11,,2005-09-30,Primary industries,Actual,,84913,Number,Number of filled jobs,0
+CPEMP11,,2005-09-30,Primary industries,Seasonally adjusted,,89691,Number,Number of filled jobs,0
+CPEMP11,,2005-09-30,Service industries,Actual,,1306788,Number,Number of filled jobs,0
+CPEMP11,,2005-09-30,Service industries,Seasonally adjusted,,1297463,Number,Number of filled jobs,0
+CPEMP11,,2005-10-31,All industries,Actual,,1738123,Number,Number of filled jobs,0
+CPEMP11,,2005-10-31,All industries,Seasonally adjusted,,1739533,Number,Number of filled jobs,0
+CPEMP11,,2005-10-31,Goods-producing industries,Actual,,349577,Number,Number of filled jobs,0
+CPEMP11,,2005-10-31,Goods-producing industries,Seasonally adjusted,,355299,Number,Number of filled jobs,0
+CPEMP11,,2005-10-31,Primary industries,Actual,,86182,Number,Number of filled jobs,0
+CPEMP11,,2005-10-31,Primary industries,Seasonally adjusted,,89153,Number,Number of filled jobs,0
+CPEMP11,,2005-10-31,Service industries,Actual,,1302364,Number,Number of filled jobs,0
+CPEMP11,,2005-10-31,Service industries,Seasonally adjusted,,1295169,Number,Number of filled jobs,0
+CPEMP11,,2005-11-30,All industries,Actual,,1762030,Number,Number of filled jobs,0
+CPEMP11,,2005-11-30,All industries,Seasonally adjusted,,1743912,Number,Number of filled jobs,0
+CPEMP11,,2005-11-30,Goods-producing industries,Actual,,355608,Number,Number of filled jobs,0
+CPEMP11,,2005-11-30,Goods-producing industries,Seasonally adjusted,,355447,Number,Number of filled jobs,0
+CPEMP11,,2005-11-30,Primary industries,Actual,,92042,Number,Number of filled jobs,0
+CPEMP11,,2005-11-30,Primary industries,Seasonally adjusted,,88847,Number,Number of filled jobs,0
+CPEMP11,,2005-11-30,Service industries,Actual,,1314380,Number,Number of filled jobs,0
+CPEMP11,,2005-11-30,Service industries,Seasonally adjusted,,1299734,Number,Number of filled jobs,0
+CPEMP11,,2005-12-31,All industries,Actual,,1771012,Number,Number of filled jobs,0
+CPEMP11,,2005-12-31,All industries,Seasonally adjusted,,1747361,Number,Number of filled jobs,0
+CPEMP11,,2005-12-31,Goods-producing industries,Actual,,360502,Number,Number of filled jobs,0
+CPEMP11,,2005-12-31,Goods-producing industries,Seasonally adjusted,,355005,Number,Number of filled jobs,0
+CPEMP11,,2005-12-31,Primary industries,Actual,,98292,Number,Number of filled jobs,0
+CPEMP11,,2005-12-31,Primary industries,Seasonally adjusted,,88618,Number,Number of filled jobs,0
+CPEMP11,,2005-12-31,Service industries,Actual,,1312218,Number,Number of filled jobs,0
+CPEMP11,,2005-12-31,Service industries,Seasonally adjusted,,1303952,Number,Number of filled jobs,0
+CPEMP11,,2006-01-31,All industries,Actual,,1703175,Number,Number of filled jobs,0
+CPEMP11,,2006-01-31,All industries,Seasonally adjusted,,1734546,Number,Number of filled jobs,0
+CPEMP11,,2006-01-31,Goods-producing industries,Actual,,356551,Number,Number of filled jobs,0
+CPEMP11,,2006-01-31,Goods-producing industries,Seasonally adjusted,,353632,Number,Number of filled jobs,0
+CPEMP11,,2006-01-31,Primary industries,Actual,,95371,Number,Number of filled jobs,0
+CPEMP11,,2006-01-31,Primary industries,Seasonally adjusted,,86886,Number,Number of filled jobs,0
+CPEMP11,,2006-01-31,Service industries,Actual,,1251253,Number,Number of filled jobs,0
+CPEMP11,,2006-01-31,Service industries,Seasonally adjusted,,1294107,Number,Number of filled jobs,0
+CPEMP11,,2006-02-28,All industries,Actual,,1724715,Number,Number of filled jobs,0
+CPEMP11,,2006-02-28,All industries,Seasonally adjusted,,1741453,Number,Number of filled jobs,0
+CPEMP11,,2006-02-28,Goods-producing industries,Actual,,359263,Number,Number of filled jobs,0
+CPEMP11,,2006-02-28,Goods-producing industries,Seasonally adjusted,,354077,Number,Number of filled jobs,0
+CPEMP11,,2006-02-28,Primary industries,Actual,,93511,Number,Number of filled jobs,0
+CPEMP11,,2006-02-28,Primary industries,Seasonally adjusted,,87185,Number,Number of filled jobs,0
+CPEMP11,,2006-02-28,Service industries,Actual,,1271941,Number,Number of filled jobs,0
+CPEMP11,,2006-02-28,Service industries,Seasonally adjusted,,1299782,Number,Number of filled jobs,0
+CPEMP11,,2006-03-31,All industries,Actual,,1759739,Number,Number of filled jobs,0
+CPEMP11,,2006-03-31,All industries,Seasonally adjusted,,1746123,Number,Number of filled jobs,0
+CPEMP11,,2006-03-31,Goods-producing industries,Actual,,359673,Number,Number of filled jobs,0
+CPEMP11,,2006-03-31,Goods-producing industries,Seasonally adjusted,,354963,Number,Number of filled jobs,0
+CPEMP11,,2006-03-31,Primary industries,Actual,,92203,Number,Number of filled jobs,0
+CPEMP11,,2006-03-31,Primary industries,Seasonally adjusted,,87212,Number,Number of filled jobs,0
+CPEMP11,,2006-03-31,Service industries,Actual,,1307863,Number,Number of filled jobs,0
+CPEMP11,,2006-03-31,Service industries,Seasonally adjusted,,1304707,Number,Number of filled jobs,0
+CPEMP11,,2006-04-30,All industries,Actual,,1760048,Number,Number of filled jobs,0
+CPEMP11,,2006-04-30,All industries,Seasonally adjusted,,1749675,Number,Number of filled jobs,0
+CPEMP11,,2006-04-30,Goods-producing industries,Actual,,357454,Number,Number of filled jobs,0
+CPEMP11,,2006-04-30,Goods-producing industries,Seasonally adjusted,,354237,Number,Number of filled jobs,0
+CPEMP11,,2006-04-30,Primary industries,Actual,,86906,Number,Number of filled jobs,0
+CPEMP11,,2006-04-30,Primary industries,Seasonally adjusted,,87165,Number,Number of filled jobs,0
+CPEMP11,,2006-04-30,Service industries,Actual,,1315688,Number,Number of filled jobs,0
+CPEMP11,,2006-04-30,Service industries,Seasonally adjusted,,1308223,Number,Number of filled jobs,0
+CPEMP11,,2006-05-31,All industries,Actual,,1764603,Number,Number of filled jobs,0
+CPEMP11,,2006-05-31,All industries,Seasonally adjusted,,1754879,Number,Number of filled jobs,0
+CPEMP11,,2006-05-31,Goods-producing industries,Actual,,357884,Number,Number of filled jobs,0
+CPEMP11,,2006-05-31,Goods-producing industries,Seasonally adjusted,,355176,Number,Number of filled jobs,0
+CPEMP11,,2006-05-31,Primary industries,Actual,,83342,Number,Number of filled jobs,0
+CPEMP11,,2006-05-31,Primary industries,Seasonally adjusted,,87764,Number,Number of filled jobs,0
+CPEMP11,,2006-05-31,Service industries,Actual,,1323377,Number,Number of filled jobs,0
+CPEMP11,,2006-05-31,Service industries,Seasonally adjusted,,1311769,Number,Number of filled jobs,0
+CPEMP11,,2006-06-30,All industries,Actual,,1754125,Number,Number of filled jobs,0
+CPEMP11,,2006-06-30,All industries,Seasonally adjusted,,1758071,Number,Number of filled jobs,0
+CPEMP11,,2006-06-30,Goods-producing industries,Actual,,353954,Number,Number of filled jobs,0
+CPEMP11,,2006-06-30,Goods-producing industries,Seasonally adjusted,,355451,Number,Number of filled jobs,0
+CPEMP11,,2006-06-30,Primary industries,Actual,,80525,Number,Number of filled jobs,0
+CPEMP11,,2006-06-30,Primary industries,Seasonally adjusted,,88839,Number,Number of filled jobs,0
+CPEMP11,,2006-06-30,Service industries,Actual,,1319646,Number,Number of filled jobs,0
+CPEMP11,,2006-06-30,Service industries,Seasonally adjusted,,1313656,Number,Number of filled jobs,0
+CPEMP11,,2006-07-31,All industries,Actual,,1748518,Number,Number of filled jobs,0
+CPEMP11,,2006-07-31,All industries,Seasonally adjusted,,1758935,Number,Number of filled jobs,0
+CPEMP11,,2006-07-31,Goods-producing industries,Actual,,351129,Number,Number of filled jobs,0
+CPEMP11,,2006-07-31,Goods-producing industries,Seasonally adjusted,,355432,Number,Number of filled jobs,0
+CPEMP11,,2006-07-31,Primary industries,Actual,,81846,Number,Number of filled jobs,0
+CPEMP11,,2006-07-31,Primary industries,Seasonally adjusted,,88913,Number,Number of filled jobs,0
+CPEMP11,,2006-07-31,Service industries,Actual,,1315543,Number,Number of filled jobs,0
+CPEMP11,,2006-07-31,Service industries,Seasonally adjusted,,1314511,Number,Number of filled jobs,0
+CPEMP11,,2006-08-31,All industries,Actual,,1779472,Number,Number of filled jobs,0
+CPEMP11,,2006-08-31,All industries,Seasonally adjusted,,1789915,Number,Number of filled jobs,0
+CPEMP11,,2006-08-31,Goods-producing industries,Actual,,353773,Number,Number of filled jobs,0
+CPEMP11,,2006-08-31,Goods-producing industries,Seasonally adjusted,,360487,Number,Number of filled jobs,0
+CPEMP11,,2006-08-31,Primary industries,Actual,,87126,Number,Number of filled jobs,0
+CPEMP11,,2006-08-31,Primary industries,Seasonally adjusted,,92612,Number,Number of filled jobs,0
+CPEMP11,,2006-08-31,Service industries,Actual,,1338573,Number,Number of filled jobs,0
+CPEMP11,,2006-08-31,Service industries,Seasonally adjusted,,1336604,Number,Number of filled jobs,0
+CPEMP11,,2006-09-30,All industries,Actual,,1780533,Number,Number of filled jobs,0
+CPEMP11,,2006-09-30,All industries,Seasonally adjusted,,1782382,Number,Number of filled jobs,0
+CPEMP11,,2006-09-30,Goods-producing industries,Actual,,352815,Number,Number of filled jobs,0
+CPEMP11,,2006-09-30,Goods-producing industries,Seasonally adjusted,,359537,Number,Number of filled jobs,0
+CPEMP11,,2006-09-30,Primary industries,Actual,,87683,Number,Number of filled jobs,0
+CPEMP11,,2006-09-30,Primary industries,Seasonally adjusted,,92453,Number,Number of filled jobs,0
+CPEMP11,,2006-09-30,Service industries,Actual,,1340035,Number,Number of filled jobs,0
+CPEMP11,,2006-09-30,Service industries,Seasonally adjusted,,1330693,Number,Number of filled jobs,0
+CPEMP11,,2006-10-31,All industries,Actual,,1764079,Number,Number of filled jobs,0
+CPEMP11,,2006-10-31,All industries,Seasonally adjusted,,1765353,Number,Number of filled jobs,0
+CPEMP11,,2006-10-31,Goods-producing industries,Actual,,351875,Number,Number of filled jobs,0
+CPEMP11,,2006-10-31,Goods-producing industries,Seasonally adjusted,,357363,Number,Number of filled jobs,0
+CPEMP11,,2006-10-31,Primary industries,Actual,,86030,Number,Number of filled jobs,0
+CPEMP11,,2006-10-31,Primary industries,Seasonally adjusted,,88964,Number,Number of filled jobs,0
+CPEMP11,,2006-10-31,Service industries,Actual,,1326174,Number,Number of filled jobs,0
+CPEMP11,,2006-10-31,Service industries,Seasonally adjusted,,1319095,Number,Number of filled jobs,0
+CPEMP11,,2006-11-30,All industries,Actual,,1790434,Number,Number of filled jobs,0
+CPEMP11,,2006-11-30,All industries,Seasonally adjusted,,1771753,Number,Number of filled jobs,0
+CPEMP11,,2006-11-30,Goods-producing industries,Actual,,359150,Number,Number of filled jobs,0
+CPEMP11,,2006-11-30,Goods-producing industries,Seasonally adjusted,,358659,Number,Number of filled jobs,0
+CPEMP11,,2006-11-30,Primary industries,Actual,,92081,Number,Number of filled jobs,0
+CPEMP11,,2006-11-30,Primary industries,Seasonally adjusted,,88903,Number,Number of filled jobs,0
+CPEMP11,,2006-11-30,Service industries,Actual,,1339203,Number,Number of filled jobs,0
+CPEMP11,,2006-11-30,Service industries,Seasonally adjusted,,1324336,Number,Number of filled jobs,0
+CPEMP11,,2006-12-31,All industries,Actual,,1793717,Number,Number of filled jobs,0
+CPEMP11,,2006-12-31,All industries,Seasonally adjusted,,1770205,Number,Number of filled jobs,0
+CPEMP11,,2006-12-31,Goods-producing industries,Actual,,364247,Number,Number of filled jobs,0
+CPEMP11,,2006-12-31,Goods-producing industries,Seasonally adjusted,,358657,Number,Number of filled jobs,0
+CPEMP11,,2006-12-31,Primary industries,Actual,,97268,Number,Number of filled jobs,0
+CPEMP11,,2006-12-31,Primary industries,Seasonally adjusted,,87809,Number,Number of filled jobs,0
+CPEMP11,,2006-12-31,Service industries,Actual,,1332202,Number,Number of filled jobs,0
+CPEMP11,,2006-12-31,Service industries,Seasonally adjusted,,1323903,Number,Number of filled jobs,0
+CPEMP11,,2007-01-31,All industries,Actual,,1745237,Number,Number of filled jobs,0
+CPEMP11,,2007-01-31,All industries,Seasonally adjusted,,1776925,Number,Number of filled jobs,0
+CPEMP11,,2007-01-31,Goods-producing industries,Actual,,362596,Number,Number of filled jobs,0
+CPEMP11,,2007-01-31,Goods-producing industries,Seasonally adjusted,,359632,Number,Number of filled jobs,0
+CPEMP11,,2007-01-31,Primary industries,Actual,,97111,Number,Number of filled jobs,0
+CPEMP11,,2007-01-31,Primary industries,Seasonally adjusted,,88627,Number,Number of filled jobs,0
+CPEMP11,,2007-01-31,Service industries,Actual,,1285530,Number,Number of filled jobs,0
+CPEMP11,,2007-01-31,Service industries,Seasonally adjusted,,1328577,Number,Number of filled jobs,0
+CPEMP11,,2007-02-28,All industries,Actual,,1764687,Number,Number of filled jobs,0
+CPEMP11,,2007-02-28,All industries,Seasonally adjusted,,1780849,Number,Number of filled jobs,0
+CPEMP11,,2007-02-28,Goods-producing industries,Actual,,364741,Number,Number of filled jobs,0
+CPEMP11,,2007-02-28,Goods-producing industries,Seasonally adjusted,,359591,Number,Number of filled jobs,0
+CPEMP11,,2007-02-28,Primary industries,Actual,,95522,Number,Number of filled jobs,0
+CPEMP11,,2007-02-28,Primary industries,Seasonally adjusted,,88958,Number,Number of filled jobs,0
+CPEMP11,,2007-02-28,Service industries,Actual,,1304424,Number,Number of filled jobs,0
+CPEMP11,,2007-02-28,Service industries,Seasonally adjusted,,1331984,Number,Number of filled jobs,0
+CPEMP11,,2007-03-31,All industries,Actual,,1788842,Number,Number of filled jobs,0
+CPEMP11,,2007-03-31,All industries,Seasonally adjusted,,1775276,Number,Number of filled jobs,0
+CPEMP11,,2007-03-31,Goods-producing industries,Actual,,363918,Number,Number of filled jobs,0
+CPEMP11,,2007-03-31,Goods-producing industries,Seasonally adjusted,,359302,Number,Number of filled jobs,0
+CPEMP11,,2007-03-31,Primary industries,Actual,,93769,Number,Number of filled jobs,0
+CPEMP11,,2007-03-31,Primary industries,Seasonally adjusted,,88829,Number,Number of filled jobs,0
+CPEMP11,,2007-03-31,Service industries,Actual,,1331155,Number,Number of filled jobs,0
+CPEMP11,,2007-03-31,Service industries,Seasonally adjusted,,1327845,Number,Number of filled jobs,0
+CPEMP11,,2007-04-30,All industries,Actual,,1792192,Number,Number of filled jobs,0
+CPEMP11,,2007-04-30,All industries,Seasonally adjusted,,1780761,Number,Number of filled jobs,0
+CPEMP11,,2007-04-30,Goods-producing industries,Actual,,363475,Number,Number of filled jobs,0
+CPEMP11,,2007-04-30,Goods-producing industries,Seasonally adjusted,,360201,Number,Number of filled jobs,0
+CPEMP11,,2007-04-30,Primary industries,Actual,,88478,Number,Number of filled jobs,0
+CPEMP11,,2007-04-30,Primary industries,Seasonally adjusted,,88665,Number,Number of filled jobs,0
+CPEMP11,,2007-04-30,Service industries,Actual,,1340239,Number,Number of filled jobs,0
+CPEMP11,,2007-04-30,Service industries,Seasonally adjusted,,1331824,Number,Number of filled jobs,0
+CPEMP11,,2007-05-31,All industries,Actual,,1800975,Number,Number of filled jobs,0
+CPEMP11,,2007-05-31,All industries,Seasonally adjusted,,1791875,Number,Number of filled jobs,0
+CPEMP11,,2007-05-31,Goods-producing industries,Actual,,363839,Number,Number of filled jobs,0
+CPEMP11,,2007-05-31,Goods-producing industries,Seasonally adjusted,,361160,Number,Number of filled jobs,0
+CPEMP11,,2007-05-31,Primary industries,Actual,,84625,Number,Number of filled jobs,0
+CPEMP11,,2007-05-31,Primary industries,Seasonally adjusted,,89213,Number,Number of filled jobs,0
+CPEMP11,,2007-05-31,Service industries,Actual,,1352511,Number,Number of filled jobs,0
+CPEMP11,,2007-05-31,Service industries,Seasonally adjusted,,1341349,Number,Number of filled jobs,0
+CPEMP11,,2007-06-30,All industries,Actual,,1788902,Number,Number of filled jobs,0
+CPEMP11,,2007-06-30,All industries,Seasonally adjusted,,1793579,Number,Number of filled jobs,0
+CPEMP11,,2007-06-30,Goods-producing industries,Actual,,359021,Number,Number of filled jobs,0
+CPEMP11,,2007-06-30,Goods-producing industries,Seasonally adjusted,,360595,Number,Number of filled jobs,0
+CPEMP11,,2007-06-30,Primary industries,Actual,,80491,Number,Number of filled jobs,0
+CPEMP11,,2007-06-30,Primary industries,Seasonally adjusted,,88717,Number,Number of filled jobs,0
+CPEMP11,,2007-06-30,Service industries,Actual,,1349390,Number,Number of filled jobs,0
+CPEMP11,,2007-06-30,Service industries,Seasonally adjusted,,1344058,Number,Number of filled jobs,0
+CPEMP11,,2007-07-31,All industries,Actual,,1784702,Number,Number of filled jobs,0
+CPEMP11,,2007-07-31,All industries,Seasonally adjusted,,1794527,Number,Number of filled jobs,0
+CPEMP11,,2007-07-31,Goods-producing industries,Actual,,356581,Number,Number of filled jobs,0
+CPEMP11,,2007-07-31,Goods-producing industries,Seasonally adjusted,,360933,Number,Number of filled jobs,0
+CPEMP11,,2007-07-31,Primary industries,Actual,,81329,Number,Number of filled jobs,0
+CPEMP11,,2007-07-31,Primary industries,Seasonally adjusted,,88101,Number,Number of filled jobs,0
+CPEMP11,,2007-07-31,Service industries,Actual,,1346792,Number,Number of filled jobs,0
+CPEMP11,,2007-07-31,Service industries,Seasonally adjusted,,1345332,Number,Number of filled jobs,0
+CPEMP11,,2007-08-31,All industries,Actual,,1794772,Number,Number of filled jobs,0
+CPEMP11,,2007-08-31,All industries,Seasonally adjusted,,1806439,Number,Number of filled jobs,0
+CPEMP11,,2007-08-31,Goods-producing industries,Actual,,355337,Number,Number of filled jobs,0
+CPEMP11,,2007-08-31,Goods-producing industries,Seasonally adjusted,,362253,Number,Number of filled jobs,0
+CPEMP11,,2007-08-31,Primary industries,Actual,,84618,Number,Number of filled jobs,0
+CPEMP11,,2007-08-31,Primary industries,Seasonally adjusted,,89980,Number,Number of filled jobs,0
+CPEMP11,,2007-08-31,Service industries,Actual,,1354817,Number,Number of filled jobs,0
+CPEMP11,,2007-08-31,Service industries,Seasonally adjusted,,1353821,Number,Number of filled jobs,0
+CPEMP11,,2007-09-30,All industries,Actual,,1802907,Number,Number of filled jobs,0
+CPEMP11,,2007-09-30,All industries,Seasonally adjusted,,1805460,Number,Number of filled jobs,0
+CPEMP11,,2007-09-30,Goods-producing industries,Actual,,355922,Number,Number of filled jobs,0
+CPEMP11,,2007-09-30,Goods-producing industries,Seasonally adjusted,,362760,Number,Number of filled jobs,0
+CPEMP11,,2007-09-30,Primary industries,Actual,,85708,Number,Number of filled jobs,0
+CPEMP11,,2007-09-30,Primary industries,Seasonally adjusted,,90362,Number,Number of filled jobs,0
+CPEMP11,,2007-09-30,Service industries,Actual,,1361277,Number,Number of filled jobs,0
+CPEMP11,,2007-09-30,Service industries,Seasonally adjusted,,1352566,Number,Number of filled jobs,0
+CPEMP11,,2007-10-31,All industries,Actual,,1815228,Number,Number of filled jobs,0
+CPEMP11,,2007-10-31,All industries,Seasonally adjusted,,1816171,Number,Number of filled jobs,0
+CPEMP11,,2007-10-31,Goods-producing industries,Actual,,358861,Number,Number of filled jobs,0
+CPEMP11,,2007-10-31,Goods-producing industries,Seasonally adjusted,,364261,Number,Number of filled jobs,0
+CPEMP11,,2007-10-31,Primary industries,Actual,,87507,Number,Number of filled jobs,0
+CPEMP11,,2007-10-31,Primary industries,Seasonally adjusted,,90519,Number,Number of filled jobs,0
+CPEMP11,,2007-10-31,Service industries,Actual,,1368860,Number,Number of filled jobs,0
+CPEMP11,,2007-10-31,Service industries,Seasonally adjusted,,1361472,Number,Number of filled jobs,0
+CPEMP11,,2007-11-30,All industries,Actual,,1835531,Number,Number of filled jobs,0
+CPEMP11,,2007-11-30,All industries,Seasonally adjusted,,1816276,Number,Number of filled jobs,0
+CPEMP11,,2007-11-30,Goods-producing industries,Actual,,364451,Number,Number of filled jobs,0
+CPEMP11,,2007-11-30,Goods-producing industries,Seasonally adjusted,,363733,Number,Number of filled jobs,0
+CPEMP11,,2007-11-30,Primary industries,Actual,,93231,Number,Number of filled jobs,0
+CPEMP11,,2007-11-30,Primary industries,Seasonally adjusted,,90081,Number,Number of filled jobs,0
+CPEMP11,,2007-11-30,Service industries,Actual,,1377849,Number,Number of filled jobs,0
+CPEMP11,,2007-11-30,Service industries,Seasonally adjusted,,1362613,Number,Number of filled jobs,0
+CPEMP11,,2007-12-31,All industries,Actual,,1842846,Number,Number of filled jobs,0
+CPEMP11,,2007-12-31,All industries,Seasonally adjusted,,1818997,Number,Number of filled jobs,0
+CPEMP11,,2007-12-31,Goods-producing industries,Actual,,368819,Number,Number of filled jobs,0
+CPEMP11,,2007-12-31,Goods-producing industries,Seasonally adjusted,,363066,Number,Number of filled jobs,0
+CPEMP11,,2007-12-31,Primary industries,Actual,,98853,Number,Number of filled jobs,0
+CPEMP11,,2007-12-31,Primary industries,Seasonally adjusted,,89254,Number,Number of filled jobs,0
+CPEMP11,,2007-12-31,Service industries,Actual,,1375174,Number,Number of filled jobs,0
+CPEMP11,,2007-12-31,Service industries,Seasonally adjusted,,1366766,Number,Number of filled jobs,0
+CPEMP11,,2008-01-31,All industries,Actual,,1800851,Number,Number of filled jobs,0
+CPEMP11,,2008-01-31,All industries,Seasonally adjusted,,1833083,Number,Number of filled jobs,0
+CPEMP11,,2008-01-31,Goods-producing industries,Actual,,367213,Number,Number of filled jobs,0
+CPEMP11,,2008-01-31,Goods-producing industries,Seasonally adjusted,,364172,Number,Number of filled jobs,0
+CPEMP11,,2008-01-31,Primary industries,Actual,,99933,Number,Number of filled jobs,0
+CPEMP11,,2008-01-31,Primary industries,Seasonally adjusted,,91354,Number,Number of filled jobs,0
+CPEMP11,,2008-01-31,Service industries,Actual,,1333705,Number,Number of filled jobs,0
+CPEMP11,,2008-01-31,Service industries,Seasonally adjusted,,1377516,Number,Number of filled jobs,0
+CPEMP11,,2008-02-29,All industries,Actual,,1813099,Number,Number of filled jobs,0
+CPEMP11,,2008-02-29,All industries,Seasonally adjusted,,1828346,Number,Number of filled jobs,0
+CPEMP11,,2008-02-29,Goods-producing industries,Actual,,368647,Number,Number of filled jobs,0
+CPEMP11,,2008-02-29,Goods-producing industries,Seasonally adjusted,,363565,Number,Number of filled jobs,0
+CPEMP11,,2008-02-29,Primary industries,Actual,,97539,Number,Number of filled jobs,0
+CPEMP11,,2008-02-29,Primary industries,Seasonally adjusted,,90819,Number,Number of filled jobs,0
+CPEMP11,,2008-02-29,Service industries,Actual,,1346913,Number,Number of filled jobs,0
+CPEMP11,,2008-02-29,Service industries,Seasonally adjusted,,1373928,Number,Number of filled jobs,0
+CPEMP11,,2008-03-31,All industries,Actual,,1830110,Number,Number of filled jobs,0
+CPEMP11,,2008-03-31,All industries,Seasonally adjusted,,1816579,Number,Number of filled jobs,0
+CPEMP11,,2008-03-31,Goods-producing industries,Actual,,367621,Number,Number of filled jobs,0
+CPEMP11,,2008-03-31,Goods-producing industries,Seasonally adjusted,,363047,Number,Number of filled jobs,0
+CPEMP11,,2008-03-31,Primary industries,Actual,,93801,Number,Number of filled jobs,0
+CPEMP11,,2008-03-31,Primary industries,Seasonally adjusted,,88979,Number,Number of filled jobs,0
+CPEMP11,,2008-03-31,Service industries,Actual,,1368688,Number,Number of filled jobs,0
+CPEMP11,,2008-03-31,Service industries,Seasonally adjusted,,1365172,Number,Number of filled jobs,0
+CPEMP11,,2008-04-30,All industries,Actual,,1845789,Number,Number of filled jobs,0
+CPEMP11,,2008-04-30,All industries,Seasonally adjusted,,1832652,Number,Number of filled jobs,0
+CPEMP11,,2008-04-30,Goods-producing industries,Actual,,367842,Number,Number of filled jobs,0
+CPEMP11,,2008-04-30,Goods-producing industries,Seasonally adjusted,,364424,Number,Number of filled jobs,0
+CPEMP11,,2008-04-30,Primary industries,Actual,,90240,Number,Number of filled jobs,0
+CPEMP11,,2008-04-30,Primary industries,Seasonally adjusted,,90225,Number,Number of filled jobs,0
+CPEMP11,,2008-04-30,Service industries,Actual,,1387707,Number,Number of filled jobs,0
+CPEMP11,,2008-04-30,Service industries,Seasonally adjusted,,1377962,Number,Number of filled jobs,0
+CPEMP11,,2008-05-31,All industries,Actual,,1843838,Number,Number of filled jobs,0
+CPEMP11,,2008-05-31,All industries,Seasonally adjusted,,1835587,Number,Number of filled jobs,0
+CPEMP11,,2008-05-31,Goods-producing industries,Actual,,367542,Number,Number of filled jobs,0
+CPEMP11,,2008-05-31,Goods-producing industries,Seasonally adjusted,,364942,Number,Number of filled jobs,0
+CPEMP11,,2008-05-31,Primary industries,Actual,,86883,Number,Number of filled jobs,0
+CPEMP11,,2008-05-31,Primary industries,Seasonally adjusted,,91597,Number,Number of filled jobs,0
+CPEMP11,,2008-05-31,Service industries,Actual,,1389413,Number,Number of filled jobs,0
+CPEMP11,,2008-05-31,Service industries,Seasonally adjusted,,1378944,Number,Number of filled jobs,0
+CPEMP11,,2008-06-30,All industries,Actual,,1823866,Number,Number of filled jobs,0
+CPEMP11,,2008-06-30,All industries,Seasonally adjusted,,1829108,Number,Number of filled jobs,0
+CPEMP11,,2008-06-30,Goods-producing industries,Actual,,362504,Number,Number of filled jobs,0
+CPEMP11,,2008-06-30,Goods-producing industries,Seasonally adjusted,,364165,Number,Number of filled jobs,0
+CPEMP11,,2008-06-30,Primary industries,Actual,,82929,Number,Number of filled jobs,0
+CPEMP11,,2008-06-30,Primary industries,Seasonally adjusted,,91275,Number,Number of filled jobs,0
+CPEMP11,,2008-06-30,Service industries,Actual,,1378433,Number,Number of filled jobs,0
+CPEMP11,,2008-06-30,Service industries,Seasonally adjusted,,1373596,Number,Number of filled jobs,0
+CPEMP11,,2008-07-31,All industries,Actual,,1825001,Number,Number of filled jobs,0
+CPEMP11,,2008-07-31,All industries,Seasonally adjusted,,1834855,Number,Number of filled jobs,0
+CPEMP11,,2008-07-31,Goods-producing industries,Actual,,359599,Number,Number of filled jobs,0
+CPEMP11,,2008-07-31,Goods-producing industries,Seasonally adjusted,,364018,Number,Number of filled jobs,0
+CPEMP11,,2008-07-31,Primary industries,Actual,,84806,Number,Number of filled jobs,0
+CPEMP11,,2008-07-31,Primary industries,Seasonally adjusted,,91691,Number,Number of filled jobs,0
+CPEMP11,,2008-07-31,Service industries,Actual,,1380596,Number,Number of filled jobs,0
+CPEMP11,,2008-07-31,Service industries,Seasonally adjusted,,1379100,Number,Number of filled jobs,0
+CPEMP11,,2008-08-31,All industries,Actual,,1810182,Number,Number of filled jobs,0
+CPEMP11,,2008-08-31,All industries,Seasonally adjusted,,1822442,Number,Number of filled jobs,0
+CPEMP11,,2008-08-31,Goods-producing industries,Actual,,352216,Number,Number of filled jobs,0
+CPEMP11,,2008-08-31,Goods-producing industries,Seasonally adjusted,,359128,Number,Number of filled jobs,0
+CPEMP11,,2008-08-31,Primary industries,Actual,,85587,Number,Number of filled jobs,0
+CPEMP11,,2008-08-31,Primary industries,Seasonally adjusted,,90962,Number,Number of filled jobs,0
+CPEMP11,,2008-08-31,Service industries,Actual,,1372379,Number,Number of filled jobs,0
+CPEMP11,,2008-08-31,Service industries,Seasonally adjusted,,1372005,Number,Number of filled jobs,0
+CPEMP11,,2008-09-30,All industries,Actual,,1815340,Number,Number of filled jobs,0
+CPEMP11,,2008-09-30,All industries,Seasonally adjusted,,1819267,Number,Number of filled jobs,0
+CPEMP11,,2008-09-30,Goods-producing industries,Actual,,351103,Number,Number of filled jobs,0
+CPEMP11,,2008-09-30,Goods-producing industries,Seasonally adjusted,,357899,Number,Number of filled jobs,0
+CPEMP11,,2008-09-30,Primary industries,Actual,,86747,Number,Number of filled jobs,0
+CPEMP11,,2008-09-30,Primary industries,Seasonally adjusted,,91600,Number,Number of filled jobs,0
+CPEMP11,,2008-09-30,Service industries,Actual,,1377490,Number,Number of filled jobs,0
+CPEMP11,,2008-09-30,Service industries,Seasonally adjusted,,1369969,Number,Number of filled jobs,0
+CPEMP11,,2008-10-31,All industries,Actual,,1825329,Number,Number of filled jobs,0
+CPEMP11,,2008-10-31,All industries,Seasonally adjusted,,1825669,Number,Number of filled jobs,0
+CPEMP11,,2008-10-31,Goods-producing industries,Actual,,352135,Number,Number of filled jobs,0
+CPEMP11,,2008-10-31,Goods-producing industries,Seasonally adjusted,,357238,Number,Number of filled jobs,0
+CPEMP11,,2008-10-31,Primary industries,Actual,,89517,Number,Number of filled jobs,0
+CPEMP11,,2008-10-31,Primary industries,Seasonally adjusted,,92724,Number,Number of filled jobs,0
+CPEMP11,,2008-10-31,Service industries,Actual,,1383677,Number,Number of filled jobs,0
+CPEMP11,,2008-10-31,Service industries,Seasonally adjusted,,1375729,Number,Number of filled jobs,0
+CPEMP11,,2008-11-30,All industries,Actual,,1840431,Number,Number of filled jobs,0
+CPEMP11,,2008-11-30,All industries,Seasonally adjusted,,1821432,Number,Number of filled jobs,0
+CPEMP11,,2008-11-30,Goods-producing industries,Actual,,356436,Number,Number of filled jobs,0
+CPEMP11,,2008-11-30,Goods-producing industries,Seasonally adjusted,,355792,Number,Number of filled jobs,0
+CPEMP11,,2008-11-30,Primary industries,Actual,,94966,Number,Number of filled jobs,0
+CPEMP11,,2008-11-30,Primary industries,Seasonally adjusted,,91855,Number,Number of filled jobs,0
+CPEMP11,,2008-11-30,Service industries,Actual,,1389029,Number,Number of filled jobs,0
+CPEMP11,,2008-11-30,Service industries,Seasonally adjusted,,1373899,Number,Number of filled jobs,0
+CPEMP11,,2008-12-31,All industries,Actual,,1838047,Number,Number of filled jobs,0
+CPEMP11,,2008-12-31,All industries,Seasonally adjusted,,1814093,Number,Number of filled jobs,0
+CPEMP11,,2008-12-31,Goods-producing industries,Actual,,358266,Number,Number of filled jobs,0
+CPEMP11,,2008-12-31,Goods-producing industries,Seasonally adjusted,,352551,Number,Number of filled jobs,0
+CPEMP11,,2008-12-31,Primary industries,Actual,,102925,Number,Number of filled jobs,0
+CPEMP11,,2008-12-31,Primary industries,Seasonally adjusted,,92834,Number,Number of filled jobs,0
+CPEMP11,,2008-12-31,Service industries,Actual,,1376856,Number,Number of filled jobs,0
+CPEMP11,,2008-12-31,Service industries,Seasonally adjusted,,1368325,Number,Number of filled jobs,0
+CPEMP11,,2009-01-31,All industries,Actual,,1775592,Number,Number of filled jobs,0
+CPEMP11,,2009-01-31,All industries,Seasonally adjusted,,1807148,Number,Number of filled jobs,0
+CPEMP11,,2009-01-31,Goods-producing industries,Actual,,352581,Number,Number of filled jobs,0
+CPEMP11,,2009-01-31,Goods-producing industries,Seasonally adjusted,,349645,Number,Number of filled jobs,0
+CPEMP11,,2009-01-31,Primary industries,Actual,,101060,Number,Number of filled jobs,0
+CPEMP11,,2009-01-31,Primary industries,Seasonally adjusted,,92497,Number,Number of filled jobs,0
+CPEMP11,,2009-01-31,Service industries,Actual,,1321951,Number,Number of filled jobs,0
+CPEMP11,,2009-01-31,Service industries,Seasonally adjusted,,1364827,Number,Number of filled jobs,0
+CPEMP11,,2009-02-28,All industries,Actual,,1782516,Number,Number of filled jobs,0
+CPEMP11,,2009-02-28,All industries,Seasonally adjusted,,1796327,Number,Number of filled jobs,0
+CPEMP11,,2009-02-28,Goods-producing industries,Actual,,351734,Number,Number of filled jobs,0
+CPEMP11,,2009-02-28,Goods-producing industries,Seasonally adjusted,,347001,Number,Number of filled jobs,0
+CPEMP11,,2009-02-28,Primary industries,Actual,,98516,Number,Number of filled jobs,0
+CPEMP11,,2009-02-28,Primary industries,Seasonally adjusted,,91853,Number,Number of filled jobs,0
+CPEMP11,,2009-02-28,Service industries,Actual,,1332266,Number,Number of filled jobs,0
+CPEMP11,,2009-02-28,Service industries,Seasonally adjusted,,1357598,Number,Number of filled jobs,0
+CPEMP11,,2009-03-31,All industries,Actual,,1803978,Number,Number of filled jobs,0
+CPEMP11,,2009-03-31,All industries,Seasonally adjusted,,1790878,Number,Number of filled jobs,0
+CPEMP11,,2009-03-31,Goods-producing industries,Actual,,347580,Number,Number of filled jobs,0
+CPEMP11,,2009-03-31,Goods-producing industries,Seasonally adjusted,,343285,Number,Number of filled jobs,0
+CPEMP11,,2009-03-31,Primary industries,Actual,,96084,Number,Number of filled jobs,0
+CPEMP11,,2009-03-31,Primary industries,Seasonally adjusted,,91276,Number,Number of filled jobs,0
+CPEMP11,,2009-03-31,Service industries,Actual,,1360314,Number,Number of filled jobs,0
+CPEMP11,,2009-03-31,Service industries,Seasonally adjusted,,1356680,Number,Number of filled jobs,0
+CPEMP11,,2009-04-30,All industries,Actual,,1805286,Number,Number of filled jobs,0
+CPEMP11,,2009-04-30,All industries,Seasonally adjusted,,1791236,Number,Number of filled jobs,0
+CPEMP11,,2009-04-30,Goods-producing industries,Actual,,342973,Number,Number of filled jobs,0
+CPEMP11,,2009-04-30,Goods-producing industries,Seasonally adjusted,,339666,Number,Number of filled jobs,0
+CPEMP11,,2009-04-30,Primary industries,Actual,,92731,Number,Number of filled jobs,0
+CPEMP11,,2009-04-30,Primary industries,Seasonally adjusted,,92484,Number,Number of filled jobs,0
+CPEMP11,,2009-04-30,Service industries,Actual,,1369582,Number,Number of filled jobs,0
+CPEMP11,,2009-04-30,Service industries,Seasonally adjusted,,1359103,Number,Number of filled jobs,0
+CPEMP11,,2009-05-31,All industries,Actual,,1786485,Number,Number of filled jobs,0
+CPEMP11,,2009-05-31,All industries,Seasonally adjusted,,1779149,Number,Number of filled jobs,0
+CPEMP11,,2009-05-31,Goods-producing industries,Actual,,338381,Number,Number of filled jobs,0
+CPEMP11,,2009-05-31,Goods-producing industries,Seasonally adjusted,,336041,Number,Number of filled jobs,0
+CPEMP11,,2009-05-31,Primary industries,Actual,,86052,Number,Number of filled jobs,0
+CPEMP11,,2009-05-31,Primary industries,Seasonally adjusted,,90565,Number,Number of filled jobs,0
+CPEMP11,,2009-05-31,Service industries,Actual,,1362052,Number,Number of filled jobs,0
+CPEMP11,,2009-05-31,Service industries,Seasonally adjusted,,1352551,Number,Number of filled jobs,0
+CPEMP11,,2009-06-30,All industries,Actual,,1772180,Number,Number of filled jobs,0
+CPEMP11,,2009-06-30,All industries,Seasonally adjusted,,1777352,Number,Number of filled jobs,0
+CPEMP11,,2009-06-30,Goods-producing industries,Actual,,332877,Number,Number of filled jobs,0
+CPEMP11,,2009-06-30,Goods-producing industries,Seasonally adjusted,,334427,Number,Number of filled jobs,0
+CPEMP11,,2009-06-30,Primary industries,Actual,,83192,Number,Number of filled jobs,0
+CPEMP11,,2009-06-30,Primary industries,Seasonally adjusted,,91395,Number,Number of filled jobs,0
+CPEMP11,,2009-06-30,Service industries,Actual,,1356111,Number,Number of filled jobs,0
+CPEMP11,,2009-06-30,Service industries,Seasonally adjusted,,1351592,Number,Number of filled jobs,0
+CPEMP11,,2009-07-31,All industries,Actual,,1770001,Number,Number of filled jobs,0
+CPEMP11,,2009-07-31,All industries,Seasonally adjusted,,1779580,Number,Number of filled jobs,0
+CPEMP11,,2009-07-31,Goods-producing industries,Actual,,328992,Number,Number of filled jobs,0
+CPEMP11,,2009-07-31,Goods-producing industries,Seasonally adjusted,,333022,Number,Number of filled jobs,0
+CPEMP11,,2009-07-31,Primary industries,Actual,,85167,Number,Number of filled jobs,0
+CPEMP11,,2009-07-31,Primary industries,Seasonally adjusted,,91897,Number,Number of filled jobs,0
+CPEMP11,,2009-07-31,Service industries,Actual,,1355842,Number,Number of filled jobs,0
+CPEMP11,,2009-07-31,Service industries,Seasonally adjusted,,1354593,Number,Number of filled jobs,0
+CPEMP11,,2009-08-31,All industries,Actual,,1759388,Number,Number of filled jobs,0
+CPEMP11,,2009-08-31,All industries,Seasonally adjusted,,1771894,Number,Number of filled jobs,0
+CPEMP11,,2009-08-31,Goods-producing industries,Actual,,324444,Number,Number of filled jobs,0
+CPEMP11,,2009-08-31,Goods-producing industries,Seasonally adjusted,,330797,Number,Number of filled jobs,0
+CPEMP11,,2009-08-31,Primary industries,Actual,,84709,Number,Number of filled jobs,0
+CPEMP11,,2009-08-31,Primary industries,Seasonally adjusted,,90085,Number,Number of filled jobs,0
+CPEMP11,,2009-08-31,Service industries,Actual,,1350235,Number,Number of filled jobs,0
+CPEMP11,,2009-08-31,Service industries,Seasonally adjusted,,1350581,Number,Number of filled jobs,0
+CPEMP11,,2009-09-30,All industries,Actual,,1766716,Number,Number of filled jobs,0
+CPEMP11,,2009-09-30,All industries,Seasonally adjusted,,1771905,Number,Number of filled jobs,0
+CPEMP11,,2009-09-30,Goods-producing industries,Actual,,323989,Number,Number of filled jobs,0
+CPEMP11,,2009-09-30,Goods-producing industries,Seasonally adjusted,,330272,Number,Number of filled jobs,0
+CPEMP11,,2009-09-30,Primary industries,Actual,,84145,Number,Number of filled jobs,0
+CPEMP11,,2009-09-30,Primary industries,Seasonally adjusted,,88999,Number,Number of filled jobs,0
+CPEMP11,,2009-09-30,Service industries,Actual,,1358582,Number,Number of filled jobs,0
+CPEMP11,,2009-09-30,Service industries,Seasonally adjusted,,1352517,Number,Number of filled jobs,0
+CPEMP11,,2009-10-31,All industries,Actual,,1769246,Number,Number of filled jobs,0
+CPEMP11,,2009-10-31,All industries,Seasonally adjusted,,1769201,Number,Number of filled jobs,0
+CPEMP11,,2009-10-31,Goods-producing industries,Actual,,324608,Number,Number of filled jobs,0
+CPEMP11,,2009-10-31,Goods-producing industries,Seasonally adjusted,,329242,Number,Number of filled jobs,0
+CPEMP11,,2009-10-31,Primary industries,Actual,,85590,Number,Number of filled jobs,0
+CPEMP11,,2009-10-31,Primary industries,Seasonally adjusted,,88813,Number,Number of filled jobs,0
+CPEMP11,,2009-10-31,Service industries,Actual,,1359048,Number,Number of filled jobs,0
+CPEMP11,,2009-10-31,Service industries,Seasonally adjusted,,1350821,Number,Number of filled jobs,0
+CPEMP11,,2009-11-30,All industries,Actual,,1783569,Number,Number of filled jobs,0
+CPEMP11,,2009-11-30,All industries,Seasonally adjusted,,1765129,Number,Number of filled jobs,0
+CPEMP11,,2009-11-30,Goods-producing industries,Actual,,328262,Number,Number of filled jobs,0
+CPEMP11,,2009-11-30,Goods-producing industries,Seasonally adjusted,,327798,Number,Number of filled jobs,0
+CPEMP11,,2009-11-30,Primary industries,Actual,,92079,Number,Number of filled jobs,0
+CPEMP11,,2009-11-30,Primary industries,Seasonally adjusted,,89152,Number,Number of filled jobs,0
+CPEMP11,,2009-11-30,Service industries,Actual,,1363228,Number,Number of filled jobs,0
+CPEMP11,,2009-11-30,Service industries,Seasonally adjusted,,1348222,Number,Number of filled jobs,0
+CPEMP11,,2009-12-31,All industries,Actual,,1766619,Number,Number of filled jobs,0
+CPEMP11,,2009-12-31,All industries,Seasonally adjusted,,1743426,Number,Number of filled jobs,0
+CPEMP11,,2009-12-31,Goods-producing industries,Actual,,334159,Number,Number of filled jobs,0
+CPEMP11,,2009-12-31,Goods-producing industries,Seasonally adjusted,,328845,Number,Number of filled jobs,0
+CPEMP11,,2009-12-31,Primary industries,Actual,,100351,Number,Number of filled jobs,0
+CPEMP11,,2009-12-31,Primary industries,Seasonally adjusted,,90399,Number,Number of filled jobs,0
+CPEMP11,,2009-12-31,Service industries,Actual,,1332109,Number,Number of filled jobs,0
+CPEMP11,,2009-12-31,Service industries,Seasonally adjusted,,1323663,Number,Number of filled jobs,0
+CPEMP11,,2010-01-31,All industries,Actual,,1738625,Number,Number of filled jobs,0
+CPEMP11,,2010-01-31,All industries,Seasonally adjusted,,1769273,Number,Number of filled jobs,0
+CPEMP11,,2010-01-31,Goods-producing industries,Actual,,330935,Number,Number of filled jobs,0
+CPEMP11,,2010-01-31,Goods-producing industries,Seasonally adjusted,,328138,Number,Number of filled jobs,0
+CPEMP11,,2010-01-31,Primary industries,Actual,,97682,Number,Number of filled jobs,0
+CPEMP11,,2010-01-31,Primary industries,Seasonally adjusted,,89491,Number,Number of filled jobs,0
+CPEMP11,,2010-01-31,Service industries,Actual,,1310008,Number,Number of filled jobs,0
+CPEMP11,,2010-01-31,Service industries,Seasonally adjusted,,1352088,Number,Number of filled jobs,0
+CPEMP11,,2010-02-28,All industries,Actual,,1764907,Number,Number of filled jobs,0
+CPEMP11,,2010-02-28,All industries,Seasonally adjusted,,1777676,Number,Number of filled jobs,0
+CPEMP11,,2010-02-28,Goods-producing industries,Actual,,332623,Number,Number of filled jobs,0
+CPEMP11,,2010-02-28,Goods-producing industries,Seasonally adjusted,,328167,Number,Number of filled jobs,0
+CPEMP11,,2010-02-28,Primary industries,Actual,,96843,Number,Number of filled jobs,0
+CPEMP11,,2010-02-28,Primary industries,Seasonally adjusted,,90361,Number,Number of filled jobs,0
+CPEMP11,,2010-02-28,Service industries,Actual,,1335441,Number,Number of filled jobs,0
+CPEMP11,,2010-02-28,Service industries,Seasonally adjusted,,1359722,Number,Number of filled jobs,0
+CPEMP11,,2010-03-31,All industries,Actual,,1794391,Number,Number of filled jobs,0
+CPEMP11,,2010-03-31,All industries,Seasonally adjusted,,1781589,Number,Number of filled jobs,0
+CPEMP11,,2010-03-31,Goods-producing industries,Actual,,333033,Number,Number of filled jobs,0
+CPEMP11,,2010-03-31,Goods-producing industries,Seasonally adjusted,,328854,Number,Number of filled jobs,0
+CPEMP11,,2010-03-31,Primary industries,Actual,,95903,Number,Number of filled jobs,0
+CPEMP11,,2010-03-31,Primary industries,Seasonally adjusted,,91259,Number,Number of filled jobs,0
+CPEMP11,,2010-03-31,Service industries,Actual,,1365455,Number,Number of filled jobs,0
+CPEMP11,,2010-03-31,Service industries,Seasonally adjusted,,1361766,Number,Number of filled jobs,0
+CPEMP11,,2010-04-30,All industries,Actual,,1794883,Number,Number of filled jobs,0
+CPEMP11,,2010-04-30,All industries,Seasonally adjusted,,1780509,Number,Number of filled jobs,0
+CPEMP11,,2010-04-30,Goods-producing industries,Actual,,332526,Number,Number of filled jobs,0
+CPEMP11,,2010-04-30,Goods-producing industries,Seasonally adjusted,,329289,Number,Number of filled jobs,0
+CPEMP11,,2010-04-30,Primary industries,Actual,,91437,Number,Number of filled jobs,0
+CPEMP11,,2010-04-30,Primary industries,Seasonally adjusted,,91080,Number,Number of filled jobs,0
+CPEMP11,,2010-04-30,Service industries,Actual,,1370920,Number,Number of filled jobs,0
+CPEMP11,,2010-04-30,Service industries,Seasonally adjusted,,1360198,Number,Number of filled jobs,0
+CPEMP11,,2010-05-31,All industries,Actual,,1781139,Number,Number of filled jobs,0
+CPEMP11,,2010-05-31,All industries,Seasonally adjusted,,1773938,Number,Number of filled jobs,0
+CPEMP11,,2010-05-31,Goods-producing industries,Actual,,330385,Number,Number of filled jobs,0
+CPEMP11,,2010-05-31,Goods-producing industries,Seasonally adjusted,,328205,Number,Number of filled jobs,0
+CPEMP11,,2010-05-31,Primary industries,Actual,,85565,Number,Number of filled jobs,0
+CPEMP11,,2010-05-31,Primary industries,Seasonally adjusted,,89842,Number,Number of filled jobs,0
+CPEMP11,,2010-05-31,Service industries,Actual,,1365189,Number,Number of filled jobs,0
+CPEMP11,,2010-05-31,Service industries,Seasonally adjusted,,1355897,Number,Number of filled jobs,0
+CPEMP11,,2010-06-30,All industries,Actual,,1774459,Number,Number of filled jobs,0
+CPEMP11,,2010-06-30,All industries,Seasonally adjusted,,1779490,Number,Number of filled jobs,0
+CPEMP11,,2010-06-30,Goods-producing industries,Actual,,326511,Number,Number of filled jobs,0
+CPEMP11,,2010-06-30,Goods-producing industries,Seasonally adjusted,,328035,Number,Number of filled jobs,0
+CPEMP11,,2010-06-30,Primary industries,Actual,,81993,Number,Number of filled jobs,0
+CPEMP11,,2010-06-30,Primary industries,Seasonally adjusted,,89949,Number,Number of filled jobs,0
+CPEMP11,,2010-06-30,Service industries,Actual,,1365955,Number,Number of filled jobs,0
+CPEMP11,,2010-06-30,Service industries,Seasonally adjusted,,1361385,Number,Number of filled jobs,0
+CPEMP11,,2010-07-31,All industries,Actual,,1768316,Number,Number of filled jobs,0
+CPEMP11,,2010-07-31,All industries,Seasonally adjusted,,1778241,Number,Number of filled jobs,0
+CPEMP11,,2010-07-31,Goods-producing industries,Actual,,322994,Number,Number of filled jobs,0
+CPEMP11,,2010-07-31,Goods-producing industries,Seasonally adjusted,,326946,Number,Number of filled jobs,0
+CPEMP11,,2010-07-31,Primary industries,Actual,,84446,Number,Number of filled jobs,0
+CPEMP11,,2010-07-31,Primary industries,Seasonally adjusted,,91003,Number,Number of filled jobs,0
+CPEMP11,,2010-07-31,Service industries,Actual,,1360876,Number,Number of filled jobs,0
+CPEMP11,,2010-07-31,Service industries,Seasonally adjusted,,1360058,Number,Number of filled jobs,0
+CPEMP11,,2010-08-31,All industries,Actual,,1763554,Number,Number of filled jobs,0
+CPEMP11,,2010-08-31,All industries,Seasonally adjusted,,1776121,Number,Number of filled jobs,0
+CPEMP11,,2010-08-31,Goods-producing industries,Actual,,320286,Number,Number of filled jobs,0
+CPEMP11,,2010-08-31,Goods-producing industries,Seasonally adjusted,,326422,Number,Number of filled jobs,0
+CPEMP11,,2010-08-31,Primary industries,Actual,,85401,Number,Number of filled jobs,0
+CPEMP11,,2010-08-31,Primary industries,Seasonally adjusted,,90802,Number,Number of filled jobs,0
+CPEMP11,,2010-08-31,Service industries,Actual,,1357867,Number,Number of filled jobs,0
+CPEMP11,,2010-08-31,Service industries,Seasonally adjusted,,1358611,Number,Number of filled jobs,0
+CPEMP11,,2010-09-30,All industries,Actual,,1773935,Number,Number of filled jobs,0
+CPEMP11,,2010-09-30,All industries,Seasonally adjusted,,1780226,Number,Number of filled jobs,0
+CPEMP11,,2010-09-30,Goods-producing industries,Actual,,320577,Number,Number of filled jobs,0
+CPEMP11,,2010-09-30,Goods-producing industries,Seasonally adjusted,,326692,Number,Number of filled jobs,0
+CPEMP11,,2010-09-30,Primary industries,Actual,,86128,Number,Number of filled jobs,0
+CPEMP11,,2010-09-30,Primary industries,Seasonally adjusted,,91201,Number,Number of filled jobs,0
+CPEMP11,,2010-09-30,Service industries,Actual,,1367230,Number,Number of filled jobs,0
+CPEMP11,,2010-09-30,Service industries,Seasonally adjusted,,1362272,Number,Number of filled jobs,0
+CPEMP11,,2010-10-31,All industries,Actual,,1778778,Number,Number of filled jobs,0
+CPEMP11,,2010-10-31,All industries,Seasonally adjusted,,1778381,Number,Number of filled jobs,0
+CPEMP11,,2010-10-31,Goods-producing industries,Actual,,322254,Number,Number of filled jobs,0
+CPEMP11,,2010-10-31,Goods-producing industries,Seasonally adjusted,,326756,Number,Number of filled jobs,0
+CPEMP11,,2010-10-31,Primary industries,Actual,,87745,Number,Number of filled jobs,0
+CPEMP11,,2010-10-31,Primary industries,Seasonally adjusted,,91140,Number,Number of filled jobs,0
+CPEMP11,,2010-10-31,Service industries,Actual,,1368779,Number,Number of filled jobs,0
+CPEMP11,,2010-10-31,Service industries,Seasonally adjusted,,1360164,Number,Number of filled jobs,0
+CPEMP11,,2010-11-30,All industries,Actual,,1801733,Number,Number of filled jobs,0
+CPEMP11,,2010-11-30,All industries,Seasonally adjusted,,1783289,Number,Number of filled jobs,0
+CPEMP11,,2010-11-30,Goods-producing industries,Actual,,327892,Number,Number of filled jobs,0
+CPEMP11,,2010-11-30,Goods-producing industries,Seasonally adjusted,,327693,Number,Number of filled jobs,0
+CPEMP11,,2010-11-30,Primary industries,Actual,,96227,Number,Number of filled jobs,0
+CPEMP11,,2010-11-30,Primary industries,Seasonally adjusted,,93259,Number,Number of filled jobs,0
+CPEMP11,,2010-11-30,Service industries,Actual,,1377614,Number,Number of filled jobs,0
+CPEMP11,,2010-11-30,Service industries,Seasonally adjusted,,1362382,Number,Number of filled jobs,0
+CPEMP11,,2010-12-31,All industries,Actual,,1814023,Number,Number of filled jobs,0
+CPEMP11,,2010-12-31,All industries,Seasonally adjusted,,1790159,Number,Number of filled jobs,0
+CPEMP11,,2010-12-31,Goods-producing industries,Actual,,332037,Number,Number of filled jobs,0
+CPEMP11,,2010-12-31,Goods-producing industries,Seasonally adjusted,,326890,Number,Number of filled jobs,0
+CPEMP11,,2010-12-31,Primary industries,Actual,,103299,Number,Number of filled jobs,0
+CPEMP11,,2010-12-31,Primary industries,Seasonally adjusted,,92982,Number,Number of filled jobs,0
+CPEMP11,,2010-12-31,Service industries,Actual,,1378687,Number,Number of filled jobs,0
+CPEMP11,,2010-12-31,Service industries,Seasonally adjusted,,1369731,Number,Number of filled jobs,0
+CPEMP11,,2011-01-31,All industries,Actual,,1750701,Number,Number of filled jobs,0
+CPEMP11,,2011-01-31,All industries,Seasonally adjusted,,1781143,Number,Number of filled jobs,0
+CPEMP11,,2011-01-31,Goods-producing industries,Actual,,328457,Number,Number of filled jobs,0
+CPEMP11,,2011-01-31,Goods-producing industries,Seasonally adjusted,,325610,Number,Number of filled jobs,0
+CPEMP11,,2011-01-31,Primary industries,Actual,,100192,Number,Number of filled jobs,0
+CPEMP11,,2011-01-31,Primary industries,Seasonally adjusted,,91832,Number,Number of filled jobs,0
+CPEMP11,,2011-01-31,Service industries,Actual,,1322052,Number,Number of filled jobs,0
+CPEMP11,,2011-01-31,Service industries,Seasonally adjusted,,1364029,Number,Number of filled jobs,0
+CPEMP11,,2011-02-28,All industries,Actual,,1775486,Number,Number of filled jobs,0
+CPEMP11,,2011-02-28,All industries,Seasonally adjusted,,1787649,Number,Number of filled jobs,0
+CPEMP11,,2011-02-28,Goods-producing industries,Actual,,329847,Number,Number of filled jobs,0
+CPEMP11,,2011-02-28,Goods-producing industries,Seasonally adjusted,,325477,Number,Number of filled jobs,0
+CPEMP11,,2011-02-28,Primary industries,Actual,,99392,Number,Number of filled jobs,0
+CPEMP11,,2011-02-28,Primary industries,Seasonally adjusted,,92779,Number,Number of filled jobs,0
+CPEMP11,,2011-02-28,Service industries,Actual,,1346247,Number,Number of filled jobs,0
+CPEMP11,,2011-02-28,Service industries,Seasonally adjusted,,1369900,Number,Number of filled jobs,0
+CPEMP11,,2011-03-31,All industries,Actual,,1805051,Number,Number of filled jobs,0
+CPEMP11,,2011-03-31,All industries,Seasonally adjusted,,1792787,Number,Number of filled jobs,0
+CPEMP11,,2011-03-31,Goods-producing industries,Actual,,331050,Number,Number of filled jobs,0
+CPEMP11,,2011-03-31,Goods-producing industries,Seasonally adjusted,,326847,Number,Number of filled jobs,0
+CPEMP11,,2011-03-31,Primary industries,Actual,,98106,Number,Number of filled jobs,0
+CPEMP11,,2011-03-31,Primary industries,Seasonally adjusted,,93555,Number,Number of filled jobs,0
+CPEMP11,,2011-03-31,Service industries,Actual,,1375895,Number,Number of filled jobs,0
+CPEMP11,,2011-03-31,Service industries,Seasonally adjusted,,1372504,Number,Number of filled jobs,0
+CPEMP11,,2011-04-30,All industries,Actual,,1802361,Number,Number of filled jobs,0
+CPEMP11,,2011-04-30,All industries,Seasonally adjusted,,1788215,Number,Number of filled jobs,0
+CPEMP11,,2011-04-30,Goods-producing industries,Actual,,329824,Number,Number of filled jobs,0
+CPEMP11,,2011-04-30,Goods-producing industries,Seasonally adjusted,,326629,Number,Number of filled jobs,0
+CPEMP11,,2011-04-30,Primary industries,Actual,,93301,Number,Number of filled jobs,0
+CPEMP11,,2011-04-30,Primary industries,Seasonally adjusted,,93016,Number,Number of filled jobs,0
+CPEMP11,,2011-04-30,Service industries,Actual,,1379236,Number,Number of filled jobs,0
+CPEMP11,,2011-04-30,Service industries,Seasonally adjusted,,1368651,Number,Number of filled jobs,0
+CPEMP11,,2011-05-31,All industries,Actual,,1791219,Number,Number of filled jobs,0
+CPEMP11,,2011-05-31,All industries,Seasonally adjusted,,1783071,Number,Number of filled jobs,0
+CPEMP11,,2011-05-31,Goods-producing industries,Actual,,328714,Number,Number of filled jobs,0
+CPEMP11,,2011-05-31,Goods-producing industries,Seasonally adjusted,,326581,Number,Number of filled jobs,0
+CPEMP11,,2011-05-31,Primary industries,Actual,,88836,Number,Number of filled jobs,0
+CPEMP11,,2011-05-31,Primary industries,Seasonally adjusted,,92972,Number,Number of filled jobs,0
+CPEMP11,,2011-05-31,Service industries,Actual,,1373669,Number,Number of filled jobs,0
+CPEMP11,,2011-05-31,Service industries,Seasonally adjusted,,1363687,Number,Number of filled jobs,0
+CPEMP11,,2011-06-30,All industries,Actual,,1784990,Number,Number of filled jobs,0
+CPEMP11,,2011-06-30,All industries,Seasonally adjusted,,1789950,Number,Number of filled jobs,0
+CPEMP11,,2011-06-30,Goods-producing industries,Actual,,325173,Number,Number of filled jobs,0
+CPEMP11,,2011-06-30,Goods-producing industries,Seasonally adjusted,,326723,Number,Number of filled jobs,0
+CPEMP11,,2011-06-30,Primary industries,Actual,,85458,Number,Number of filled jobs,0
+CPEMP11,,2011-06-30,Primary industries,Seasonally adjusted,,93645,Number,Number of filled jobs,0
+CPEMP11,,2011-06-30,Service industries,Actual,,1374359,Number,Number of filled jobs,0
+CPEMP11,,2011-06-30,Service industries,Seasonally adjusted,,1369724,Number,Number of filled jobs,0
+CPEMP11,,2011-07-31,All industries,Actual,,1777525,Number,Number of filled jobs,0
+CPEMP11,,2011-07-31,All industries,Seasonally adjusted,,1787944,Number,Number of filled jobs,0
+CPEMP11,,2011-07-31,Goods-producing industries,Actual,,321691,Number,Number of filled jobs,0
+CPEMP11,,2011-07-31,Goods-producing industries,Seasonally adjusted,,325614,Number,Number of filled jobs,0
+CPEMP11,,2011-07-31,Primary industries,Actual,,86199,Number,Number of filled jobs,0
+CPEMP11,,2011-07-31,Primary industries,Seasonally adjusted,,92838,Number,Number of filled jobs,0
+CPEMP11,,2011-07-31,Service industries,Actual,,1369635,Number,Number of filled jobs,0
+CPEMP11,,2011-07-31,Service industries,Seasonally adjusted,,1369289,Number,Number of filled jobs,0
+CPEMP11,,2011-08-31,All industries,Actual,,1786210,Number,Number of filled jobs,0
+CPEMP11,,2011-08-31,All industries,Seasonally adjusted,,1798986,Number,Number of filled jobs,0
+CPEMP11,,2011-08-31,Goods-producing industries,Actual,,322492,Number,Number of filled jobs,0
+CPEMP11,,2011-08-31,Goods-producing industries,Seasonally adjusted,,328486,Number,Number of filled jobs,0
+CPEMP11,,2011-08-31,Primary industries,Actual,,88072,Number,Number of filled jobs,0
+CPEMP11,,2011-08-31,Primary industries,Seasonally adjusted,,93627,Number,Number of filled jobs,0
+CPEMP11,,2011-08-31,Service industries,Actual,,1375646,Number,Number of filled jobs,0
+CPEMP11,,2011-08-31,Service industries,Seasonally adjusted,,1376772,Number,Number of filled jobs,0
+CPEMP11,,2011-09-30,All industries,Actual,,1793549,Number,Number of filled jobs,0
+CPEMP11,,2011-09-30,All industries,Seasonally adjusted,,1800420,Number,Number of filled jobs,0
+CPEMP11,,2011-09-30,Goods-producing industries,Actual,,322478,Number,Number of filled jobs,0
+CPEMP11,,2011-09-30,Goods-producing industries,Seasonally adjusted,,328391,Number,Number of filled jobs,0
+CPEMP11,,2011-09-30,Primary industries,Actual,,88434,Number,Number of filled jobs,0
+CPEMP11,,2011-09-30,Primary industries,Seasonally adjusted,,93663,Number,Number of filled jobs,0
+CPEMP11,,2011-09-30,Service industries,Actual,,1382637,Number,Number of filled jobs,0
+CPEMP11,,2011-09-30,Service industries,Seasonally adjusted,,1378443,Number,Number of filled jobs,0
+CPEMP11,,2011-10-31,All industries,Actual,,1797138,Number,Number of filled jobs,0
+CPEMP11,,2011-10-31,All industries,Seasonally adjusted,,1796486,Number,Number of filled jobs,0
+CPEMP11,,2011-10-31,Goods-producing industries,Actual,,322917,Number,Number of filled jobs,0
+CPEMP11,,2011-10-31,Goods-producing industries,Seasonally adjusted,,327312,Number,Number of filled jobs,0
+CPEMP11,,2011-10-31,Primary industries,Actual,,87923,Number,Number of filled jobs,0
+CPEMP11,,2011-10-31,Primary industries,Seasonally adjusted,,91296,Number,Number of filled jobs,0
+CPEMP11,,2011-10-31,Service industries,Actual,,1386298,Number,Number of filled jobs,0
+CPEMP11,,2011-10-31,Service industries,Seasonally adjusted,,1377509,Number,Number of filled jobs,0
+CPEMP11,,2011-11-30,All industries,Actual,,1819321,Number,Number of filled jobs,0
+CPEMP11,,2011-11-30,All industries,Seasonally adjusted,,1800936,Number,Number of filled jobs,0
+CPEMP11,,2011-11-30,Goods-producing industries,Actual,,327586,Number,Number of filled jobs,0
+CPEMP11,,2011-11-30,Goods-producing industries,Seasonally adjusted,,327589,Number,Number of filled jobs,0
+CPEMP11,,2011-11-30,Primary industries,Actual,,95946,Number,Number of filled jobs,0
+CPEMP11,,2011-11-30,Primary industries,Seasonally adjusted,,93042,Number,Number of filled jobs,0
+CPEMP11,,2011-11-30,Service industries,Actual,,1395789,Number,Number of filled jobs,0
+CPEMP11,,2011-11-30,Service industries,Seasonally adjusted,,1380377,Number,Number of filled jobs,0
+CPEMP11,,2011-12-31,All industries,Actual,,1835520,Number,Number of filled jobs,0
+CPEMP11,,2011-12-31,All industries,Seasonally adjusted,,1811663,Number,Number of filled jobs,0
+CPEMP11,,2011-12-31,Goods-producing industries,Actual,,335266,Number,Number of filled jobs,0
+CPEMP11,,2011-12-31,Goods-producing industries,Seasonally adjusted,,330398,Number,Number of filled jobs,0
+CPEMP11,,2011-12-31,Primary industries,Actual,,102824,Number,Number of filled jobs,0
+CPEMP11,,2011-12-31,Primary industries,Seasonally adjusted,,92537,Number,Number of filled jobs,0
+CPEMP11,,2011-12-31,Service industries,Actual,,1397430,Number,Number of filled jobs,0
+CPEMP11,,2011-12-31,Service industries,Seasonally adjusted,,1388211,Number,Number of filled jobs,0
+CPEMP11,,2012-01-31,All industries,Actual,,1770063,Number,Number of filled jobs,0
+CPEMP11,,2012-01-31,All industries,Seasonally adjusted,,1799823,Number,Number of filled jobs,0
+CPEMP11,,2012-01-31,Goods-producing industries,Actual,,332241,Number,Number of filled jobs,0
+CPEMP11,,2012-01-31,Goods-producing industries,Seasonally adjusted,,329266,Number,Number of filled jobs,0
+CPEMP11,,2012-01-31,Primary industries,Actual,,102038,Number,Number of filled jobs,0
+CPEMP11,,2012-01-31,Primary industries,Seasonally adjusted,,93461,Number,Number of filled jobs,0
+CPEMP11,,2012-01-31,Service industries,Actual,,1335784,Number,Number of filled jobs,0
+CPEMP11,,2012-01-31,Service industries,Seasonally adjusted,,1377304,Number,Number of filled jobs,0
+CPEMP11,,2012-02-29,All industries,Actual,,1792134,Number,Number of filled jobs,0
+CPEMP11,,2012-02-29,All industries,Seasonally adjusted,,1804084,Number,Number of filled jobs,0
+CPEMP11,,2012-02-29,Goods-producing industries,Actual,,334952,Number,Number of filled jobs,0
+CPEMP11,,2012-02-29,Goods-producing industries,Seasonally adjusted,,330559,Number,Number of filled jobs,0
+CPEMP11,,2012-02-29,Primary industries,Actual,,99899,Number,Number of filled jobs,0
+CPEMP11,,2012-02-29,Primary industries,Seasonally adjusted,,93286,Number,Number of filled jobs,0
+CPEMP11,,2012-02-29,Service industries,Actual,,1357283,Number,Number of filled jobs,0
+CPEMP11,,2012-02-29,Service industries,Seasonally adjusted,,1380656,Number,Number of filled jobs,0
+CPEMP11,,2012-03-31,All industries,Actual,,1811479,Number,Number of filled jobs,0
+CPEMP11,,2012-03-31,All industries,Seasonally adjusted,,1800156,Number,Number of filled jobs,0
+CPEMP11,,2012-03-31,Goods-producing industries,Actual,,334607,Number,Number of filled jobs,0
+CPEMP11,,2012-03-31,Goods-producing industries,Seasonally adjusted,,330338,Number,Number of filled jobs,0
+CPEMP11,,2012-03-31,Primary industries,Actual,,98031,Number,Number of filled jobs,0
+CPEMP11,,2012-03-31,Primary industries,Seasonally adjusted,,93813,Number,Number of filled jobs,0
+CPEMP11,,2012-03-31,Service industries,Actual,,1378841,Number,Number of filled jobs,0
+CPEMP11,,2012-03-31,Service industries,Seasonally adjusted,,1375968,Number,Number of filled jobs,0
+CPEMP11,,2012-04-30,All industries,Actual,,1816414,Number,Number of filled jobs,0
+CPEMP11,,2012-04-30,All industries,Seasonally adjusted,,1802562,Number,Number of filled jobs,0
+CPEMP11,,2012-04-30,Goods-producing industries,Actual,,333890,Number,Number of filled jobs,0
+CPEMP11,,2012-04-30,Goods-producing industries,Seasonally adjusted,,330713,Number,Number of filled jobs,0
+CPEMP11,,2012-04-30,Primary industries,Actual,,94687,Number,Number of filled jobs,0
+CPEMP11,,2012-04-30,Primary industries,Seasonally adjusted,,94557,Number,Number of filled jobs,0
+CPEMP11,,2012-04-30,Service industries,Actual,,1387837,Number,Number of filled jobs,0
+CPEMP11,,2012-04-30,Service industries,Seasonally adjusted,,1377374,Number,Number of filled jobs,0
+CPEMP11,,2012-05-31,All industries,Actual,,1824025,Number,Number of filled jobs,0
+CPEMP11,,2012-05-31,All industries,Seasonally adjusted,,1814601,Number,Number of filled jobs,0
+CPEMP11,,2012-05-31,Goods-producing industries,Actual,,335367,Number,Number of filled jobs,0
+CPEMP11,,2012-05-31,Goods-producing industries,Seasonally adjusted,,333262,Number,Number of filled jobs,0
+CPEMP11,,2012-05-31,Primary industries,Actual,,91564,Number,Number of filled jobs,0
+CPEMP11,,2012-05-31,Primary industries,Seasonally adjusted,,95539,Number,Number of filled jobs,0
+CPEMP11,,2012-05-31,Service industries,Actual,,1397094,Number,Number of filled jobs,0
+CPEMP11,,2012-05-31,Service industries,Seasonally adjusted,,1386178,Number,Number of filled jobs,0
+CPEMP11,,2012-06-30,All industries,Actual,,1808064,Number,Number of filled jobs,0
+CPEMP11,,2012-06-30,All industries,Seasonally adjusted,,1813149,Number,Number of filled jobs,0
+CPEMP11,,2012-06-30,Goods-producing industries,Actual,,331517,Number,Number of filled jobs,0
+CPEMP11,,2012-06-30,Goods-producing industries,Seasonally adjusted,,333239,Number,Number of filled jobs,0
+CPEMP11,,2012-06-30,Primary industries,Actual,,86723,Number,Number of filled jobs,0
+CPEMP11,,2012-06-30,Primary industries,Seasonally adjusted,,94887,Number,Number of filled jobs,0
+CPEMP11,,2012-06-30,Service industries,Actual,,1389824,Number,Number of filled jobs,0
+CPEMP11,,2012-06-30,Service industries,Seasonally adjusted,,1385131,Number,Number of filled jobs,0
+CPEMP11,,2012-07-31,All industries,Actual,,1797276,Number,Number of filled jobs,0
+CPEMP11,,2012-07-31,All industries,Seasonally adjusted,,1808053,Number,Number of filled jobs,0
+CPEMP11,,2012-07-31,Goods-producing industries,Actual,,328590,Number,Number of filled jobs,0
+CPEMP11,,2012-07-31,Goods-producing industries,Seasonally adjusted,,332530,Number,Number of filled jobs,0
+CPEMP11,,2012-07-31,Primary industries,Actual,,87599,Number,Number of filled jobs,0
+CPEMP11,,2012-07-31,Primary industries,Seasonally adjusted,,94373,Number,Number of filled jobs,0
+CPEMP11,,2012-07-31,Service industries,Actual,,1381087,Number,Number of filled jobs,0
+CPEMP11,,2012-07-31,Service industries,Seasonally adjusted,,1380966,Number,Number of filled jobs,0
+CPEMP11,,2012-08-31,All industries,Actual,,1800948,Number,Number of filled jobs,0
+CPEMP11,,2012-08-31,All industries,Seasonally adjusted,,1813770,Number,Number of filled jobs,0
+CPEMP11,,2012-08-31,Goods-producing industries,Actual,,327172,Number,Number of filled jobs,0
+CPEMP11,,2012-08-31,Goods-producing industries,Seasonally adjusted,,332980,Number,Number of filled jobs,0
+CPEMP11,,2012-08-31,Primary industries,Actual,,89307,Number,Number of filled jobs,0
+CPEMP11,,2012-08-31,Primary industries,Seasonally adjusted,,94919,Number,Number of filled jobs,0
+CPEMP11,,2012-08-31,Service industries,Actual,,1384469,Number,Number of filled jobs,0
+CPEMP11,,2012-08-31,Service industries,Seasonally adjusted,,1385958,Number,Number of filled jobs,0
+CPEMP11,,2012-09-30,All industries,Actual,,1803195,Number,Number of filled jobs,0
+CPEMP11,,2012-09-30,All industries,Seasonally adjusted,,1810371,Number,Number of filled jobs,0
+CPEMP11,,2012-09-30,Goods-producing industries,Actual,,327522,Number,Number of filled jobs,0
+CPEMP11,,2012-09-30,Goods-producing industries,Seasonally adjusted,,333148,Number,Number of filled jobs,0
+CPEMP11,,2012-09-30,Primary industries,Actual,,89688,Number,Number of filled jobs,0
+CPEMP11,,2012-09-30,Primary industries,Seasonally adjusted,,94987,Number,Number of filled jobs,0
+CPEMP11,,2012-09-30,Service industries,Actual,,1385985,Number,Number of filled jobs,0
+CPEMP11,,2012-09-30,Service industries,Seasonally adjusted,,1382520,Number,Number of filled jobs,0
+CPEMP11,,2012-10-31,All industries,Actual,,1817176,Number,Number of filled jobs,0
+CPEMP11,,2012-10-31,All industries,Seasonally adjusted,,1816314,Number,Number of filled jobs,0
+CPEMP11,,2012-10-31,Goods-producing industries,Actual,,330440,Number,Number of filled jobs,0
+CPEMP11,,2012-10-31,Goods-producing industries,Seasonally adjusted,,334745,Number,Number of filled jobs,0
+CPEMP11,,2012-10-31,Primary industries,Actual,,91325,Number,Number of filled jobs,0
+CPEMP11,,2012-10-31,Primary industries,Seasonally adjusted,,94675,Number,Number of filled jobs,0
+CPEMP11,,2012-10-31,Service industries,Actual,,1395411,Number,Number of filled jobs,0
+CPEMP11,,2012-10-31,Service industries,Seasonally adjusted,,1386721,Number,Number of filled jobs,0
+CPEMP11,,2012-11-30,All industries,Actual,,1836272,Number,Number of filled jobs,0
+CPEMP11,,2012-11-30,All industries,Seasonally adjusted,,1818315,Number,Number of filled jobs,0
+CPEMP11,,2012-11-30,Goods-producing industries,Actual,,334843,Number,Number of filled jobs,0
+CPEMP11,,2012-11-30,Goods-producing industries,Seasonally adjusted,,335014,Number,Number of filled jobs,0
+CPEMP11,,2012-11-30,Primary industries,Actual,,96226,Number,Number of filled jobs,0
+CPEMP11,,2012-11-30,Primary industries,Seasonally adjusted,,93317,Number,Number of filled jobs,0
+CPEMP11,,2012-11-30,Service industries,Actual,,1405203,Number,Number of filled jobs,0
+CPEMP11,,2012-11-30,Service industries,Seasonally adjusted,,1390116,Number,Number of filled jobs,0
+CPEMP11,,2012-12-31,All industries,Actual,,1837742,Number,Number of filled jobs,0
+CPEMP11,,2012-12-31,All industries,Seasonally adjusted,,1814457,Number,Number of filled jobs,0
+CPEMP11,,2012-12-31,Goods-producing industries,Actual,,339058,Number,Number of filled jobs,0
+CPEMP11,,2012-12-31,Goods-producing industries,Seasonally adjusted,,334585,Number,Number of filled jobs,0
+CPEMP11,,2012-12-31,Primary industries,Actual,,102470,Number,Number of filled jobs,0
+CPEMP11,,2012-12-31,Primary industries,Seasonally adjusted,,92288,Number,Number of filled jobs,0
+CPEMP11,,2012-12-31,Service industries,Actual,,1396214,Number,Number of filled jobs,0
+CPEMP11,,2012-12-31,Service industries,Seasonally adjusted,,1387133,Number,Number of filled jobs,0
+CPEMP11,,2013-01-31,All industries,Actual,,1795555,Number,Number of filled jobs,0
+CPEMP11,,2013-01-31,All industries,Seasonally adjusted,,1824084,Number,Number of filled jobs,0
+CPEMP11,,2013-01-31,Goods-producing industries,Actual,,340659,Number,Number of filled jobs,0
+CPEMP11,,2013-01-31,Goods-producing industries,Seasonally adjusted,,337589,Number,Number of filled jobs,0
+CPEMP11,,2013-01-31,Primary industries,Actual,,103112,Number,Number of filled jobs,0
+CPEMP11,,2013-01-31,Primary industries,Seasonally adjusted,,94270,Number,Number of filled jobs,0
+CPEMP11,,2013-01-31,Service industries,Actual,,1351784,Number,Number of filled jobs,0
+CPEMP11,,2013-01-31,Service industries,Seasonally adjusted,,1392100,Number,Number of filled jobs,0
+CPEMP11,,2013-02-28,All industries,Actual,,1810499,Number,Number of filled jobs,0
+CPEMP11,,2013-02-28,All industries,Seasonally adjusted,,1822421,Number,Number of filled jobs,0
+CPEMP11,,2013-02-28,Goods-producing industries,Actual,,342404,Number,Number of filled jobs,0
+CPEMP11,,2013-02-28,Goods-producing industries,Seasonally adjusted,,337936,Number,Number of filled jobs,0
+CPEMP11,,2013-02-28,Primary industries,Actual,,100789,Number,Number of filled jobs,0
+CPEMP11,,2013-02-28,Primary industries,Seasonally adjusted,,94203,Number,Number of filled jobs,0
+CPEMP11,,2013-02-28,Service industries,Actual,,1367306,Number,Number of filled jobs,0
+CPEMP11,,2013-02-28,Service industries,Seasonally adjusted,,1390464,Number,Number of filled jobs,0
+CPEMP11,,2013-03-31,All industries,Actual,,1835405,Number,Number of filled jobs,0
+CPEMP11,,2013-03-31,All industries,Seasonally adjusted,,1824723,Number,Number of filled jobs,0
+CPEMP11,,2013-03-31,Goods-producing industries,Actual,,342378,Number,Number of filled jobs,0
+CPEMP11,,2013-03-31,Goods-producing industries,Seasonally adjusted,,338073,Number,Number of filled jobs,0
+CPEMP11,,2013-03-31,Primary industries,Actual,,97381,Number,Number of filled jobs,0
+CPEMP11,,2013-03-31,Primary industries,Seasonally adjusted,,93530,Number,Number of filled jobs,0
+CPEMP11,,2013-03-31,Service industries,Actual,,1395646,Number,Number of filled jobs,0
+CPEMP11,,2013-03-31,Service industries,Seasonally adjusted,,1393105,Number,Number of filled jobs,0
+CPEMP11,,2013-04-30,All industries,Actual,,1846149,Number,Number of filled jobs,0
+CPEMP11,,2013-04-30,All industries,Seasonally adjusted,,1832479,Number,Number of filled jobs,0
+CPEMP11,,2013-04-30,Goods-producing industries,Actual,,342314,Number,Number of filled jobs,0
+CPEMP11,,2013-04-30,Goods-producing industries,Seasonally adjusted,,339162,Number,Number of filled jobs,0
+CPEMP11,,2013-04-30,Primary industries,Actual,,93665,Number,Number of filled jobs,0
+CPEMP11,,2013-04-30,Primary industries,Seasonally adjusted,,93684,Number,Number of filled jobs,0
+CPEMP11,,2013-04-30,Service industries,Actual,,1410170,Number,Number of filled jobs,0
+CPEMP11,,2013-04-30,Service industries,Seasonally adjusted,,1399652,Number,Number of filled jobs,0
+CPEMP11,,2013-05-31,All industries,Actual,,1852821,Number,Number of filled jobs,0
+CPEMP11,,2013-05-31,All industries,Seasonally adjusted,,1842192,Number,Number of filled jobs,0
+CPEMP11,,2013-05-31,Goods-producing industries,Actual,,341382,Number,Number of filled jobs,0
+CPEMP11,,2013-05-31,Goods-producing industries,Seasonally adjusted,,339273,Number,Number of filled jobs,0
+CPEMP11,,2013-05-31,Primary industries,Actual,,91481,Number,Number of filled jobs,0
+CPEMP11,,2013-05-31,Primary industries,Seasonally adjusted,,95222,Number,Number of filled jobs,0
+CPEMP11,,2013-05-31,Service industries,Actual,,1419958,Number,Number of filled jobs,0
+CPEMP11,,2013-05-31,Service industries,Seasonally adjusted,,1408147,Number,Number of filled jobs,0
+CPEMP11,,2013-06-30,All industries,Actual,,1835985,Number,Number of filled jobs,0
+CPEMP11,,2013-06-30,All industries,Seasonally adjusted,,1841216,Number,Number of filled jobs,0
+CPEMP11,,2013-06-30,Goods-producing industries,Actual,,338479,Number,Number of filled jobs,0
+CPEMP11,,2013-06-30,Goods-producing industries,Seasonally adjusted,,340346,Number,Number of filled jobs,0
+CPEMP11,,2013-06-30,Primary industries,Actual,,86913,Number,Number of filled jobs,0
+CPEMP11,,2013-06-30,Primary industries,Seasonally adjusted,,94965,Number,Number of filled jobs,0
+CPEMP11,,2013-06-30,Service industries,Actual,,1410593,Number,Number of filled jobs,0
+CPEMP11,,2013-06-30,Service industries,Seasonally adjusted,,1405859,Number,Number of filled jobs,0
+CPEMP11,,2013-07-31,All industries,Actual,,1838932,Number,Number of filled jobs,0
+CPEMP11,,2013-07-31,All industries,Seasonally adjusted,,1850018,Number,Number of filled jobs,0
+CPEMP11,,2013-07-31,Goods-producing industries,Actual,,337993,Number,Number of filled jobs,0
+CPEMP11,,2013-07-31,Goods-producing industries,Seasonally adjusted,,341969,Number,Number of filled jobs,0
+CPEMP11,,2013-07-31,Primary industries,Actual,,89308,Number,Number of filled jobs,0
+CPEMP11,,2013-07-31,Primary industries,Seasonally adjusted,,96310,Number,Number of filled jobs,0
+CPEMP11,,2013-07-31,Service industries,Actual,,1411631,Number,Number of filled jobs,0
+CPEMP11,,2013-07-31,Service industries,Seasonally adjusted,,1411627,Number,Number of filled jobs,0
+CPEMP11,,2013-08-31,All industries,Actual,,1838660,Number,Number of filled jobs,0
+CPEMP11,,2013-08-31,All industries,Seasonally adjusted,,1852040,Number,Number of filled jobs,0
+CPEMP11,,2013-08-31,Goods-producing industries,Actual,,336988,Number,Number of filled jobs,0
+CPEMP11,,2013-08-31,Goods-producing industries,Seasonally adjusted,,342707,Number,Number of filled jobs,0
+CPEMP11,,2013-08-31,Primary industries,Actual,,91033,Number,Number of filled jobs,0
+CPEMP11,,2013-08-31,Primary industries,Seasonally adjusted,,96810,Number,Number of filled jobs,0
+CPEMP11,,2013-08-31,Service industries,Actual,,1410639,Number,Number of filled jobs,0
+CPEMP11,,2013-08-31,Service industries,Seasonally adjusted,,1412696,Number,Number of filled jobs,0
+CPEMP11,,2013-09-30,All industries,Actual,,1844353,Number,Number of filled jobs,0
+CPEMP11,,2013-09-30,All industries,Seasonally adjusted,,1852157,Number,Number of filled jobs,0
+CPEMP11,,2013-09-30,Goods-producing industries,Actual,,337403,Number,Number of filled jobs,0
+CPEMP11,,2013-09-30,Goods-producing industries,Seasonally adjusted,,342855,Number,Number of filled jobs,0
+CPEMP11,,2013-09-30,Primary industries,Actual,,91392,Number,Number of filled jobs,0
+CPEMP11,,2013-09-30,Primary industries,Seasonally adjusted,,96766,Number,Number of filled jobs,0
+CPEMP11,,2013-09-30,Service industries,Actual,,1415558,Number,Number of filled jobs,0
+CPEMP11,,2013-09-30,Service industries,Seasonally adjusted,,1412945,Number,Number of filled jobs,0
+CPEMP11,,2013-10-31,All industries,Actual,,1862191,Number,Number of filled jobs,0
+CPEMP11,,2013-10-31,All industries,Seasonally adjusted,,1861481,Number,Number of filled jobs,0
+CPEMP11,,2013-10-31,Goods-producing industries,Actual,,339812,Number,Number of filled jobs,0
+CPEMP11,,2013-10-31,Goods-producing industries,Seasonally adjusted,,344005,Number,Number of filled jobs,0
+CPEMP11,,2013-10-31,Primary industries,Actual,,94660,Number,Number of filled jobs,0
+CPEMP11,,2013-10-31,Primary industries,Seasonally adjusted,,97908,Number,Number of filled jobs,0
+CPEMP11,,2013-10-31,Service industries,Actual,,1427719,Number,Number of filled jobs,0
+CPEMP11,,2013-10-31,Service industries,Seasonally adjusted,,1419578,Number,Number of filled jobs,0
+CPEMP11,,2013-11-30,All industries,Actual,,1879626,Number,Number of filled jobs,0
+CPEMP11,,2013-11-30,All industries,Seasonally adjusted,,1861456,Number,Number of filled jobs,0
+CPEMP11,,2013-11-30,Goods-producing industries,Actual,,344333,Number,Number of filled jobs,0
+CPEMP11,,2013-11-30,Goods-producing industries,Seasonally adjusted,,344445,Number,Number of filled jobs,0
+CPEMP11,,2013-11-30,Primary industries,Actual,,101485,Number,Number of filled jobs,0
+CPEMP11,,2013-11-30,Primary industries,Seasonally adjusted,,98338,Number,Number of filled jobs,0
+CPEMP11,,2013-11-30,Service industries,Actual,,1433808,Number,Number of filled jobs,0
+CPEMP11,,2013-11-30,Service industries,Seasonally adjusted,,1418778,Number,Number of filled jobs,0
+CPEMP11,,2013-12-31,All industries,Actual,,1889510,Number,Number of filled jobs,0
+CPEMP11,,2013-12-31,All industries,Seasonally adjusted,,1865759,Number,Number of filled jobs,0
+CPEMP11,,2013-12-31,Goods-producing industries,Actual,,349062,Number,Number of filled jobs,0
+CPEMP11,,2013-12-31,Goods-producing industries,Seasonally adjusted,,344906,Number,Number of filled jobs,0
+CPEMP11,,2013-12-31,Primary industries,Actual,,109346,Number,Number of filled jobs,0
+CPEMP11,,2013-12-31,Primary industries,Seasonally adjusted,,98419,Number,Number of filled jobs,0
+CPEMP11,,2013-12-31,Service industries,Actual,,1431102,Number,Number of filled jobs,0
+CPEMP11,,2013-12-31,Service industries,Seasonally adjusted,,1421740,Number,Number of filled jobs,0
+CPEMP11,,2014-01-31,All industries,Actual,,1844988,Number,Number of filled jobs,0
+CPEMP11,,2014-01-31,All industries,Seasonally adjusted,,1872777,Number,Number of filled jobs,0
+CPEMP11,,2014-01-31,Goods-producing industries,Actual,,349210,Number,Number of filled jobs,0
+CPEMP11,,2014-01-31,Goods-producing industries,Seasonally adjusted,,346187,Number,Number of filled jobs,0
+CPEMP11,,2014-01-31,Primary industries,Actual,,108682,Number,Number of filled jobs,0
+CPEMP11,,2014-01-31,Primary industries,Seasonally adjusted,,99193,Number,Number of filled jobs,0
+CPEMP11,,2014-01-31,Service industries,Actual,,1387096,Number,Number of filled jobs,0
+CPEMP11,,2014-01-31,Service industries,Seasonally adjusted,,1426198,Number,Number of filled jobs,0
+CPEMP11,,2014-02-28,All industries,Actual,,1859001,Number,Number of filled jobs,0
+CPEMP11,,2014-02-28,All industries,Seasonally adjusted,,1871444,Number,Number of filled jobs,0
+CPEMP11,,2014-02-28,Goods-producing industries,Actual,,349976,Number,Number of filled jobs,0
+CPEMP11,,2014-02-28,Goods-producing industries,Seasonally adjusted,,345458,Number,Number of filled jobs,0
+CPEMP11,,2014-02-28,Primary industries,Actual,,107464,Number,Number of filled jobs,0
+CPEMP11,,2014-02-28,Primary industries,Seasonally adjusted,,100686,Number,Number of filled jobs,0
+CPEMP11,,2014-02-28,Service industries,Actual,,1401561,Number,Number of filled jobs,0
+CPEMP11,,2014-02-28,Service industries,Seasonally adjusted,,1425192,Number,Number of filled jobs,0
+CPEMP11,,2014-03-31,All industries,Actual,,1883366,Number,Number of filled jobs,0
+CPEMP11,,2014-03-31,All industries,Seasonally adjusted,,1872509,Number,Number of filled jobs,0
+CPEMP11,,2014-03-31,Goods-producing industries,Actual,,351090,Number,Number of filled jobs,0
+CPEMP11,,2014-03-31,Goods-producing industries,Seasonally adjusted,,346720,Number,Number of filled jobs,0
+CPEMP11,,2014-03-31,Primary industries,Actual,,103597,Number,Number of filled jobs,0
+CPEMP11,,2014-03-31,Primary industries,Seasonally adjusted,,99887,Number,Number of filled jobs,0
+CPEMP11,,2014-03-31,Service industries,Actual,,1428679,Number,Number of filled jobs,0
+CPEMP11,,2014-03-31,Service industries,Seasonally adjusted,,1425825,Number,Number of filled jobs,0
+CPEMP11,,2014-04-30,All industries,Actual,,1890288,Number,Number of filled jobs,0
+CPEMP11,,2014-04-30,All industries,Seasonally adjusted,,1876221,Number,Number of filled jobs,0
+CPEMP11,,2014-04-30,Goods-producing industries,Actual,,351143,Number,Number of filled jobs,0
+CPEMP11,,2014-04-30,Goods-producing industries,Seasonally adjusted,,348067,Number,Number of filled jobs,0
+CPEMP11,,2014-04-30,Primary industries,Actual,,98899,Number,Number of filled jobs,0
+CPEMP11,,2014-04-30,Primary industries,Seasonally adjusted,,98956,Number,Number of filled jobs,0
+CPEMP11,,2014-04-30,Service industries,Actual,,1440246,Number,Number of filled jobs,0
+CPEMP11,,2014-04-30,Service industries,Seasonally adjusted,,1429252,Number,Number of filled jobs,0
+CPEMP11,,2014-05-31,All industries,Actual,,1893016,Number,Number of filled jobs,0
+CPEMP11,,2014-05-31,All industries,Seasonally adjusted,,1881908,Number,Number of filled jobs,0
+CPEMP11,,2014-05-31,Goods-producing industries,Actual,,350945,Number,Number of filled jobs,0
+CPEMP11,,2014-05-31,Goods-producing industries,Seasonally adjusted,,348904,Number,Number of filled jobs,0
+CPEMP11,,2014-05-31,Primary industries,Actual,,96354,Number,Number of filled jobs,0
+CPEMP11,,2014-05-31,Primary industries,Seasonally adjusted,,100193,Number,Number of filled jobs,0
+CPEMP11,,2014-05-31,Service industries,Actual,,1445717,Number,Number of filled jobs,0
+CPEMP11,,2014-05-31,Service industries,Seasonally adjusted,,1433571,Number,Number of filled jobs,0
+CPEMP11,,2014-06-30,All industries,Actual,,1875822,Number,Number of filled jobs,0
+CPEMP11,,2014-06-30,All industries,Seasonally adjusted,,1881162,Number,Number of filled jobs,0
+CPEMP11,,2014-06-30,Goods-producing industries,Actual,,347399,Number,Number of filled jobs,0
+CPEMP11,,2014-06-30,Goods-producing industries,Seasonally adjusted,,349388,Number,Number of filled jobs,0
+CPEMP11,,2014-06-30,Primary industries,Actual,,91916,Number,Number of filled jobs,0
+CPEMP11,,2014-06-30,Primary industries,Seasonally adjusted,,100261,Number,Number of filled jobs,0
+CPEMP11,,2014-06-30,Service industries,Actual,,1436507,Number,Number of filled jobs,0
+CPEMP11,,2014-06-30,Service industries,Seasonally adjusted,,1431740,Number,Number of filled jobs,0
+CPEMP11,,2014-07-31,All industries,Actual,,1880159,Number,Number of filled jobs,0
+CPEMP11,,2014-07-31,All industries,Seasonally adjusted,,1891686,Number,Number of filled jobs,0
+CPEMP11,,2014-07-31,Goods-producing industries,Actual,,347043,Number,Number of filled jobs,0
+CPEMP11,,2014-07-31,Goods-producing industries,Seasonally adjusted,,351064,Number,Number of filled jobs,0
+CPEMP11,,2014-07-31,Primary industries,Actual,,93461,Number,Number of filled jobs,0
+CPEMP11,,2014-07-31,Primary industries,Seasonally adjusted,,100894,Number,Number of filled jobs,0
+CPEMP11,,2014-07-31,Service industries,Actual,,1439655,Number,Number of filled jobs,0
+CPEMP11,,2014-07-31,Service industries,Seasonally adjusted,,1439939,Number,Number of filled jobs,0
+CPEMP11,,2014-08-31,All industries,Actual,,1876827,Number,Number of filled jobs,0
+CPEMP11,,2014-08-31,All industries,Seasonally adjusted,,1890862,Number,Number of filled jobs,0
+CPEMP11,,2014-08-31,Goods-producing industries,Actual,,345815,Number,Number of filled jobs,0
+CPEMP11,,2014-08-31,Goods-producing industries,Seasonally adjusted,,351388,Number,Number of filled jobs,0
+CPEMP11,,2014-08-31,Primary industries,Actual,,94482,Number,Number of filled jobs,0
+CPEMP11,,2014-08-31,Primary industries,Seasonally adjusted,,100530,Number,Number of filled jobs,0
+CPEMP11,,2014-08-31,Service industries,Actual,,1436530,Number,Number of filled jobs,0
+CPEMP11,,2014-08-31,Service industries,Seasonally adjusted,,1439329,Number,Number of filled jobs,0
+CPEMP11,,2014-09-30,All industries,Actual,,1900319,Number,Number of filled jobs,0
+CPEMP11,,2014-09-30,All industries,Seasonally adjusted,,1908720,Number,Number of filled jobs,0
+CPEMP11,,2014-09-30,Goods-producing industries,Actual,,348261,Number,Number of filled jobs,0
+CPEMP11,,2014-09-30,Goods-producing industries,Seasonally adjusted,,353547,Number,Number of filled jobs,0
+CPEMP11,,2014-09-30,Primary industries,Actual,,95502,Number,Number of filled jobs,0
+CPEMP11,,2014-09-30,Primary industries,Seasonally adjusted,,101165,Number,Number of filled jobs,0
+CPEMP11,,2014-09-30,Service industries,Actual,,1456556,Number,Number of filled jobs,0
+CPEMP11,,2014-09-30,Service industries,Seasonally adjusted,,1454602,Number,Number of filled jobs,0
+CPEMP11,,2014-10-31,All industries,Actual,,1907652,Number,Number of filled jobs,0
+CPEMP11,,2014-10-31,All industries,Seasonally adjusted,,1907900,Number,Number of filled jobs,0
+CPEMP11,,2014-10-31,Goods-producing industries,Actual,,350552,Number,Number of filled jobs,0
+CPEMP11,,2014-10-31,Goods-producing industries,Seasonally adjusted,,354679,Number,Number of filled jobs,0
+CPEMP11,,2014-10-31,Primary industries,Actual,,98069,Number,Number of filled jobs,0
+CPEMP11,,2014-10-31,Primary industries,Seasonally adjusted,,101250,Number,Number of filled jobs,0
+CPEMP11,,2014-10-31,Service industries,Actual,,1459031,Number,Number of filled jobs,0
+CPEMP11,,2014-10-31,Service industries,Seasonally adjusted,,1452226,Number,Number of filled jobs,0
+CPEMP11,,2014-11-30,All industries,Actual,,1924348,Number,Number of filled jobs,0
+CPEMP11,,2014-11-30,All industries,Seasonally adjusted,,1905815,Number,Number of filled jobs,0
+CPEMP11,,2014-11-30,Goods-producing industries,Actual,,355137,Number,Number of filled jobs,0
+CPEMP11,,2014-11-30,Goods-producing industries,Seasonally adjusted,,355032,Number,Number of filled jobs,0
+CPEMP11,,2014-11-30,Primary industries,Actual,,104279,Number,Number of filled jobs,0
+CPEMP11,,2014-11-30,Primary industries,Seasonally adjusted,,100753,Number,Number of filled jobs,0
+CPEMP11,,2014-11-30,Service industries,Actual,,1464932,Number,Number of filled jobs,0
+CPEMP11,,2014-11-30,Service industries,Seasonally adjusted,,1450212,Number,Number of filled jobs,0
+CPEMP11,,2014-12-31,All industries,Actual,,1934006,Number,Number of filled jobs,0
+CPEMP11,,2014-12-31,All industries,Seasonally adjusted,,1909511,Number,Number of filled jobs,0
+CPEMP11,,2014-12-31,Goods-producing industries,Actual,,359440,Number,Number of filled jobs,0
+CPEMP11,,2014-12-31,Goods-producing industries,Seasonally adjusted,,355412,Number,Number of filled jobs,0
+CPEMP11,,2014-12-31,Primary industries,Actual,,113413,Number,Number of filled jobs,0
+CPEMP11,,2014-12-31,Primary industries,Seasonally adjusted,,101998,Number,Number of filled jobs,0
+CPEMP11,,2014-12-31,Service industries,Actual,,1461153,Number,Number of filled jobs,0
+CPEMP11,,2014-12-31,Service industries,Seasonally adjusted,,1451470,Number,Number of filled jobs,0
+CPEMP11,,2015-01-31,All industries,Actual,,1888760,Number,Number of filled jobs,0
+CPEMP11,,2015-01-31,All industries,Seasonally adjusted,,1915887,Number,Number of filled jobs,0
+CPEMP11,,2015-01-31,Goods-producing industries,Actual,,361550,Number,Number of filled jobs,0
+CPEMP11,,2015-01-31,Goods-producing industries,Seasonally adjusted,,358723,Number,Number of filled jobs,0
+CPEMP11,,2015-01-31,Primary industries,Actual,,112213,Number,Number of filled jobs,0
+CPEMP11,,2015-01-31,Primary industries,Seasonally adjusted,,102393,Number,Number of filled jobs,0
+CPEMP11,,2015-01-31,Service industries,Actual,,1414997,Number,Number of filled jobs,0
+CPEMP11,,2015-01-31,Service industries,Seasonally adjusted,,1451994,Number,Number of filled jobs,0
+CPEMP11,,2015-02-28,All industries,Actual,,1907847,Number,Number of filled jobs,0
+CPEMP11,,2015-02-28,All industries,Seasonally adjusted,,1920028,Number,Number of filled jobs,0
+CPEMP11,,2015-02-28,Goods-producing industries,Actual,,364787,Number,Number of filled jobs,0
+CPEMP11,,2015-02-28,Goods-producing industries,Seasonally adjusted,,360231,Number,Number of filled jobs,0
+CPEMP11,,2015-02-28,Primary industries,Actual,,108486,Number,Number of filled jobs,0
+CPEMP11,,2015-02-28,Primary industries,Seasonally adjusted,,101975,Number,Number of filled jobs,0
+CPEMP11,,2015-02-28,Service industries,Actual,,1434574,Number,Number of filled jobs,0
+CPEMP11,,2015-02-28,Service industries,Seasonally adjusted,,1457785,Number,Number of filled jobs,0
+CPEMP11,,2015-03-31,All industries,Actual,,1936749,Number,Number of filled jobs,0
+CPEMP11,,2015-03-31,All industries,Seasonally adjusted,,1924972,Number,Number of filled jobs,0
+CPEMP11,,2015-03-31,Goods-producing industries,Actual,,365553,Number,Number of filled jobs,0
+CPEMP11,,2015-03-31,Goods-producing industries,Seasonally adjusted,,361098,Number,Number of filled jobs,0
+CPEMP11,,2015-03-31,Primary industries,Actual,,104556,Number,Number of filled jobs,0
+CPEMP11,,2015-03-31,Primary industries,Seasonally adjusted,,100993,Number,Number of filled jobs,0
+CPEMP11,,2015-03-31,Service industries,Actual,,1466640,Number,Number of filled jobs,0
+CPEMP11,,2015-03-31,Service industries,Seasonally adjusted,,1462934,Number,Number of filled jobs,0
+CPEMP11,,2015-04-30,All industries,Actual,,1946535,Number,Number of filled jobs,0
+CPEMP11,,2015-04-30,All industries,Seasonally adjusted,,1932238,Number,Number of filled jobs,0
+CPEMP11,,2015-04-30,Goods-producing industries,Actual,,364705,Number,Number of filled jobs,0
+CPEMP11,,2015-04-30,Goods-producing industries,Seasonally adjusted,,361692,Number,Number of filled jobs,0
+CPEMP11,,2015-04-30,Primary industries,Actual,,102544,Number,Number of filled jobs,0
+CPEMP11,,2015-04-30,Primary industries,Seasonally adjusted,,102572,Number,Number of filled jobs,0
+CPEMP11,,2015-04-30,Service industries,Actual,,1479286,Number,Number of filled jobs,0
+CPEMP11,,2015-04-30,Service industries,Seasonally adjusted,,1468085,Number,Number of filled jobs,0
+CPEMP11,,2015-05-31,All industries,Actual,,1935030,Number,Number of filled jobs,0
+CPEMP11,,2015-05-31,All industries,Seasonally adjusted,,1923967,Number,Number of filled jobs,0
+CPEMP11,,2015-05-31,Goods-producing industries,Actual,,361583,Number,Number of filled jobs,0
+CPEMP11,,2015-05-31,Goods-producing industries,Seasonally adjusted,,359566,Number,Number of filled jobs,0
+CPEMP11,,2015-05-31,Primary industries,Actual,,97607,Number,Number of filled jobs,0
+CPEMP11,,2015-05-31,Primary industries,Seasonally adjusted,,101525,Number,Number of filled jobs,0
+CPEMP11,,2015-05-31,Service industries,Actual,,1475840,Number,Number of filled jobs,0
+CPEMP11,,2015-05-31,Service industries,Seasonally adjusted,,1463684,Number,Number of filled jobs,0
+CPEMP11,,2015-06-30,All industries,Actual,,1930508,Number,Number of filled jobs,0
+CPEMP11,,2015-06-30,All industries,Seasonally adjusted,,1935726,Number,Number of filled jobs,0
+CPEMP11,,2015-06-30,Goods-producing industries,Actual,,360488,Number,Number of filled jobs,0
+CPEMP11,,2015-06-30,Goods-producing industries,Seasonally adjusted,,362498,Number,Number of filled jobs,0
+CPEMP11,,2015-06-30,Primary industries,Actual,,93850,Number,Number of filled jobs,0
+CPEMP11,,2015-06-30,Primary industries,Seasonally adjusted,,102271,Number,Number of filled jobs,0
+CPEMP11,,2015-06-30,Service industries,Actual,,1476170,Number,Number of filled jobs,0
+CPEMP11,,2015-06-30,Service industries,Seasonally adjusted,,1471249,Number,Number of filled jobs,0
+CPEMP11,,2015-07-31,All industries,Actual,,1930848,Number,Number of filled jobs,0
+CPEMP11,,2015-07-31,All industries,Seasonally adjusted,,1943638,Number,Number of filled jobs,0
+CPEMP11,,2015-07-31,Goods-producing industries,Actual,,360093,Number,Number of filled jobs,0
+CPEMP11,,2015-07-31,Goods-producing industries,Seasonally adjusted,,364285,Number,Number of filled jobs,0
+CPEMP11,,2015-07-31,Primary industries,Actual,,94645,Number,Number of filled jobs,0
+CPEMP11,,2015-07-31,Primary industries,Seasonally adjusted,,102357,Number,Number of filled jobs,0
+CPEMP11,,2015-07-31,Service industries,Actual,,1476110,Number,Number of filled jobs,0
+CPEMP11,,2015-07-31,Service industries,Seasonally adjusted,,1477371,Number,Number of filled jobs,0
+CPEMP11,,2015-08-31,All industries,Actual,,1925346,Number,Number of filled jobs,0
+CPEMP11,,2015-08-31,All industries,Seasonally adjusted,,1940263,Number,Number of filled jobs,0
+CPEMP11,,2015-08-31,Goods-producing industries,Actual,,358723,Number,Number of filled jobs,0
+CPEMP11,,2015-08-31,Goods-producing industries,Seasonally adjusted,,364235,Number,Number of filled jobs,0
+CPEMP11,,2015-08-31,Primary industries,Actual,,94936,Number,Number of filled jobs,0
+CPEMP11,,2015-08-31,Primary industries,Seasonally adjusted,,101026,Number,Number of filled jobs,0
+CPEMP11,,2015-08-31,Service industries,Actual,,1471687,Number,Number of filled jobs,0
+CPEMP11,,2015-08-31,Service industries,Seasonally adjusted,,1475410,Number,Number of filled jobs,0
+CPEMP11,,2015-09-30,All industries,Actual,,1939637,Number,Number of filled jobs,0
+CPEMP11,,2015-09-30,All industries,Seasonally adjusted,,1948883,Number,Number of filled jobs,0
+CPEMP11,,2015-09-30,Goods-producing industries,Actual,,360384,Number,Number of filled jobs,0
+CPEMP11,,2015-09-30,Goods-producing industries,Seasonally adjusted,,365616,Number,Number of filled jobs,0
+CPEMP11,,2015-09-30,Primary industries,Actual,,95140,Number,Number of filled jobs,0
+CPEMP11,,2015-09-30,Primary industries,Seasonally adjusted,,100753,Number,Number of filled jobs,0
+CPEMP11,,2015-09-30,Service industries,Actual,,1484113,Number,Number of filled jobs,0
+CPEMP11,,2015-09-30,Service industries,Seasonally adjusted,,1483096,Number,Number of filled jobs,0
+CPEMP11,,2015-10-31,All industries,Actual,,1947913,Number,Number of filled jobs,0
+CPEMP11,,2015-10-31,All industries,Seasonally adjusted,,1949292,Number,Number of filled jobs,0
+CPEMP11,,2015-10-31,Goods-producing industries,Actual,,361257,Number,Number of filled jobs,0
+CPEMP11,,2015-10-31,Goods-producing industries,Seasonally adjusted,,365296,Number,Number of filled jobs,0
+CPEMP11,,2015-10-31,Primary industries,Actual,,98286,Number,Number of filled jobs,0
+CPEMP11,,2015-10-31,Primary industries,Seasonally adjusted,,101240,Number,Number of filled jobs,0
+CPEMP11,,2015-10-31,Service industries,Actual,,1488370,Number,Number of filled jobs,0
+CPEMP11,,2015-10-31,Service industries,Seasonally adjusted,,1483175,Number,Number of filled jobs,0
+CPEMP11,,2015-11-30,All industries,Actual,,1972923,Number,Number of filled jobs,0
+CPEMP11,,2015-11-30,All industries,Seasonally adjusted,,1953759,Number,Number of filled jobs,0
+CPEMP11,,2015-11-30,Goods-producing industries,Actual,,365994,Number,Number of filled jobs,0
+CPEMP11,,2015-11-30,Goods-producing industries,Seasonally adjusted,,365540,Number,Number of filled jobs,0
+CPEMP11,,2015-11-30,Primary industries,Actual,,105527,Number,Number of filled jobs,0
+CPEMP11,,2015-11-30,Primary industries,Seasonally adjusted,,101579,Number,Number of filled jobs,0
+CPEMP11,,2015-11-30,Service industries,Actual,,1501402,Number,Number of filled jobs,0
+CPEMP11,,2015-11-30,Service industries,Seasonally adjusted,,1486932,Number,Number of filled jobs,0
+CPEMP11,,2015-12-31,All industries,Actual,,1988521,Number,Number of filled jobs,0
+CPEMP11,,2015-12-31,All industries,Seasonally adjusted,,1962292,Number,Number of filled jobs,0
+CPEMP11,,2015-12-31,Goods-producing industries,Actual,,369068,Number,Number of filled jobs,0
+CPEMP11,,2015-12-31,Goods-producing industries,Seasonally adjusted,,364922,Number,Number of filled jobs,0
+CPEMP11,,2015-12-31,Primary industries,Actual,,114920,Number,Number of filled jobs,0
+CPEMP11,,2015-12-31,Primary industries,Seasonally adjusted,,103292,Number,Number of filled jobs,0
+CPEMP11,,2015-12-31,Service industries,Actual,,1504533,Number,Number of filled jobs,0
+CPEMP11,,2015-12-31,Service industries,Seasonally adjusted,,1493987,Number,Number of filled jobs,0
+CPEMP11,,2016-01-31,All industries,Actual,,1926849,Number,Number of filled jobs,0
+CPEMP11,,2016-01-31,All industries,Seasonally adjusted,,1953529,Number,Number of filled jobs,0
+CPEMP11,,2016-01-31,Goods-producing industries,Actual,,366431,Number,Number of filled jobs,0
+CPEMP11,,2016-01-31,Goods-producing industries,Seasonally adjusted,,364035,Number,Number of filled jobs,0
+CPEMP11,,2016-01-31,Primary industries,Actual,,111282,Number,Number of filled jobs,0
+CPEMP11,,2016-01-31,Primary industries,Seasonally adjusted,,101597,Number,Number of filled jobs,0
+CPEMP11,,2016-01-31,Service industries,Actual,,1449136,Number,Number of filled jobs,0
+CPEMP11,,2016-01-31,Service industries,Seasonally adjusted,,1483752,Number,Number of filled jobs,0
+CPEMP11,,2016-02-29,All industries,Actual,,1963851,Number,Number of filled jobs,0
+CPEMP11,,2016-02-29,All industries,Seasonally adjusted,,1974972,Number,Number of filled jobs,0
+CPEMP11,,2016-02-29,Goods-producing industries,Actual,,373866,Number,Number of filled jobs,0
+CPEMP11,,2016-02-29,Goods-producing industries,Seasonally adjusted,,369406,Number,Number of filled jobs,0
+CPEMP11,,2016-02-29,Primary industries,Actual,,107869,Number,Number of filled jobs,0
+CPEMP11,,2016-02-29,Primary industries,Seasonally adjusted,,101757,Number,Number of filled jobs,0
+CPEMP11,,2016-02-29,Service industries,Actual,,1482116,Number,Number of filled jobs,0
+CPEMP11,,2016-02-29,Service industries,Seasonally adjusted,,1504284,Number,Number of filled jobs,0
+CPEMP11,,2016-03-31,All industries,Actual,,1997067,Number,Number of filled jobs,0
+CPEMP11,,2016-03-31,All industries,Seasonally adjusted,,1984298,Number,Number of filled jobs,0
+CPEMP11,,2016-03-31,Goods-producing industries,Actual,,375167,Number,Number of filled jobs,0
+CPEMP11,,2016-03-31,Goods-producing industries,Seasonally adjusted,,370800,Number,Number of filled jobs,0
+CPEMP11,,2016-03-31,Primary industries,Actual,,106026,Number,Number of filled jobs,0
+CPEMP11,,2016-03-31,Primary industries,Seasonally adjusted,,102636,Number,Number of filled jobs,0
+CPEMP11,,2016-03-31,Service industries,Actual,,1515874,Number,Number of filled jobs,0
+CPEMP11,,2016-03-31,Service industries,Seasonally adjusted,,1511160,Number,Number of filled jobs,0
+CPEMP11,,2016-04-30,All industries,Actual,,2000996,Number,Number of filled jobs,0
+CPEMP11,,2016-04-30,All industries,Seasonally adjusted,,1986738,Number,Number of filled jobs,0
+CPEMP11,,2016-04-30,Goods-producing industries,Actual,,374670,Number,Number of filled jobs,0
+CPEMP11,,2016-04-30,Goods-producing industries,Seasonally adjusted,,371802,Number,Number of filled jobs,0
+CPEMP11,,2016-04-30,Primary industries,Actual,,102430,Number,Number of filled jobs,0
+CPEMP11,,2016-04-30,Primary industries,Seasonally adjusted,,102487,Number,Number of filled jobs,0
+CPEMP11,,2016-04-30,Service industries,Actual,,1523896,Number,Number of filled jobs,0
+CPEMP11,,2016-04-30,Service industries,Seasonally adjusted,,1512664,Number,Number of filled jobs,0
+CPEMP11,,2016-05-31,All industries,Actual,,1995470,Number,Number of filled jobs,0
+CPEMP11,,2016-05-31,All industries,Seasonally adjusted,,1984731,Number,Number of filled jobs,0
+CPEMP11,,2016-05-31,Goods-producing industries,Actual,,374497,Number,Number of filled jobs,0
+CPEMP11,,2016-05-31,Goods-producing industries,Seasonally adjusted,,372493,Number,Number of filled jobs,0
+CPEMP11,,2016-05-31,Primary industries,Actual,,97515,Number,Number of filled jobs,0
+CPEMP11,,2016-05-31,Primary industries,Seasonally adjusted,,101490,Number,Number of filled jobs,0
+CPEMP11,,2016-05-31,Service industries,Actual,,1523458,Number,Number of filled jobs,0
+CPEMP11,,2016-05-31,Service industries,Seasonally adjusted,,1511528,Number,Number of filled jobs,0
+CPEMP11,,2016-06-30,All industries,Actual,,1991421,Number,Number of filled jobs,0
+CPEMP11,,2016-06-30,All industries,Seasonally adjusted,,1996480,Number,Number of filled jobs,0
+CPEMP11,,2016-06-30,Goods-producing industries,Actual,,371969,Number,Number of filled jobs,0
+CPEMP11,,2016-06-30,Goods-producing industries,Seasonally adjusted,,373888,Number,Number of filled jobs,0
+CPEMP11,,2016-06-30,Primary industries,Actual,,93634,Number,Number of filled jobs,0
+CPEMP11,,2016-06-30,Primary industries,Seasonally adjusted,,101869,Number,Number of filled jobs,0
+CPEMP11,,2016-06-30,Service industries,Actual,,1525818,Number,Number of filled jobs,0
+CPEMP11,,2016-06-30,Service industries,Seasonally adjusted,,1520885,Number,Number of filled jobs,0
+CPEMP11,,2016-07-31,All industries,Actual,,1982941,Number,Number of filled jobs,0
+CPEMP11,,2016-07-31,All industries,Seasonally adjusted,,1997557,Number,Number of filled jobs,0
+CPEMP11,,2016-07-31,Goods-producing industries,Actual,,370060,Number,Number of filled jobs,0
+CPEMP11,,2016-07-31,Goods-producing industries,Seasonally adjusted,,374323,Number,Number of filled jobs,0
+CPEMP11,,2016-07-31,Primary industries,Actual,,93679,Number,Number of filled jobs,0
+CPEMP11,,2016-07-31,Primary industries,Seasonally adjusted,,101414,Number,Number of filled jobs,0
+CPEMP11,,2016-07-31,Service industries,Actual,,1519202,Number,Number of filled jobs,0
+CPEMP11,,2016-07-31,Service industries,Seasonally adjusted,,1522077,Number,Number of filled jobs,0
+CPEMP11,,2016-08-31,All industries,Actual,,1994074,Number,Number of filled jobs,0
+CPEMP11,,2016-08-31,All industries,Seasonally adjusted,,2010122,Number,Number of filled jobs,0
+CPEMP11,,2016-08-31,Goods-producing industries,Actual,,371542,Number,Number of filled jobs,0
+CPEMP11,,2016-08-31,Goods-producing industries,Seasonally adjusted,,376982,Number,Number of filled jobs,0
+CPEMP11,,2016-08-31,Primary industries,Actual,,96058,Number,Number of filled jobs,0
+CPEMP11,,2016-08-31,Primary industries,Seasonally adjusted,,102178,Number,Number of filled jobs,0
+CPEMP11,,2016-08-31,Service industries,Actual,,1526474,Number,Number of filled jobs,0
+CPEMP11,,2016-08-31,Service industries,Seasonally adjusted,,1531342,Number,Number of filled jobs,0
+CPEMP11,,2016-09-30,All industries,Actual,,2002527,Number,Number of filled jobs,0
+CPEMP11,,2016-09-30,All industries,Seasonally adjusted,,2012916,Number,Number of filled jobs,0
+CPEMP11,,2016-09-30,Goods-producing industries,Actual,,372645,Number,Number of filled jobs,0
+CPEMP11,,2016-09-30,Goods-producing industries,Seasonally adjusted,,377903,Number,Number of filled jobs,0
+CPEMP11,,2016-09-30,Primary industries,Actual,,96657,Number,Number of filled jobs,0
+CPEMP11,,2016-09-30,Primary industries,Seasonally adjusted,,102287,Number,Number of filled jobs,0
+CPEMP11,,2016-09-30,Service industries,Actual,,1533225,Number,Number of filled jobs,0
+CPEMP11,,2016-09-30,Service industries,Seasonally adjusted,,1533237,Number,Number of filled jobs,0
+CPEMP11,,2016-10-31,All industries,Actual,,2010910,Number,Number of filled jobs,0
+CPEMP11,,2016-10-31,All industries,Seasonally adjusted,,2013804,Number,Number of filled jobs,0
+CPEMP11,,2016-10-31,Goods-producing industries,Actual,,374559,Number,Number of filled jobs,0
+CPEMP11,,2016-10-31,Goods-producing industries,Seasonally adjusted,,378550,Number,Number of filled jobs,0
+CPEMP11,,2016-10-31,Primary industries,Actual,,98668,Number,Number of filled jobs,0
+CPEMP11,,2016-10-31,Primary industries,Seasonally adjusted,,101379,Number,Number of filled jobs,0
+CPEMP11,,2016-10-31,Service industries,Actual,,1537683,Number,Number of filled jobs,0
+CPEMP11,,2016-10-31,Service industries,Seasonally adjusted,,1534311,Number,Number of filled jobs,0
+CPEMP11,,2016-11-30,All industries,Actual,,2047142,Number,Number of filled jobs,0
+CPEMP11,,2016-11-30,All industries,Seasonally adjusted,,2026832,Number,Number of filled jobs,0
+CPEMP11,,2016-11-30,Goods-producing industries,Actual,,381598,Number,Number of filled jobs,0
+CPEMP11,,2016-11-30,Goods-producing industries,Seasonally adjusted,,380694,Number,Number of filled jobs,0
+CPEMP11,,2016-11-30,Primary industries,Actual,,106600,Number,Number of filled jobs,0
+CPEMP11,,2016-11-30,Primary industries,Seasonally adjusted,,102139,Number,Number of filled jobs,0
+CPEMP11,,2016-11-30,Service industries,Actual,,1558944,Number,Number of filled jobs,0
+CPEMP11,,2016-11-30,Service industries,Seasonally adjusted,,1544404,Number,Number of filled jobs,0
+CPEMP11,,2016-12-31,All industries,Actual,,2060873,Number,Number of filled jobs,0
+CPEMP11,,2016-12-31,All industries,Seasonally adjusted,,2032008,Number,Number of filled jobs,0
+CPEMP11,,2016-12-31,Goods-producing industries,Actual,,386453,Number,Number of filled jobs,0
+CPEMP11,,2016-12-31,Goods-producing industries,Seasonally adjusted,,381960,Number,Number of filled jobs,0
+CPEMP11,,2016-12-31,Primary industries,Actual,,113761,Number,Number of filled jobs,0
+CPEMP11,,2016-12-31,Primary industries,Seasonally adjusted,,102288,Number,Number of filled jobs,0
+CPEMP11,,2016-12-31,Service industries,Actual,,1560659,Number,Number of filled jobs,0
+CPEMP11,,2016-12-31,Service industries,Seasonally adjusted,,1548443,Number,Number of filled jobs,0
+CPEMP11,,2017-01-31,All industries,Actual,,2000338,Number,Number of filled jobs,0
+CPEMP11,,2017-01-31,All industries,Seasonally adjusted,,2026645,Number,Number of filled jobs,0
+CPEMP11,,2017-01-31,Goods-producing industries,Actual,,384252,Number,Number of filled jobs,0
+CPEMP11,,2017-01-31,Goods-producing industries,Seasonally adjusted,,382356,Number,Number of filled jobs,0
+CPEMP11,,2017-01-31,Primary industries,Actual,,110888,Number,Number of filled jobs,0
+CPEMP11,,2017-01-31,Primary industries,Seasonally adjusted,,101425,Number,Number of filled jobs,0
+CPEMP11,,2017-01-31,Service industries,Actual,,1505198,Number,Number of filled jobs,0
+CPEMP11,,2017-01-31,Service industries,Seasonally adjusted,,1537449,Number,Number of filled jobs,0
+CPEMP11,,2017-02-28,All industries,Actual,,2022517,Number,Number of filled jobs,0
+CPEMP11,,2017-02-28,All industries,Seasonally adjusted,,2031226,Number,Number of filled jobs,0
+CPEMP11,,2017-02-28,Goods-producing industries,Actual,,387461,Number,Number of filled jobs,0
+CPEMP11,,2017-02-28,Goods-producing industries,Seasonally adjusted,,383027,Number,Number of filled jobs,0
+CPEMP11,,2017-02-28,Primary industries,Actual,,106541,Number,Number of filled jobs,0
+CPEMP11,,2017-02-28,Primary industries,Seasonally adjusted,,100895,Number,Number of filled jobs,0
+CPEMP11,,2017-02-28,Service industries,Actual,,1528515,Number,Number of filled jobs,0
+CPEMP11,,2017-02-28,Service industries,Seasonally adjusted,,1548522,Number,Number of filled jobs,0
+CPEMP11,,2017-03-31,All industries,Actual,,2059662,Number,Number of filled jobs,0
+CPEMP11,,2017-03-31,All industries,Seasonally adjusted,,2046694,Number,Number of filled jobs,0
+CPEMP11,,2017-03-31,Goods-producing industries,Actual,,389735,Number,Number of filled jobs,0
+CPEMP11,,2017-03-31,Goods-producing industries,Seasonally adjusted,,385585,Number,Number of filled jobs,0
+CPEMP11,,2017-03-31,Primary industries,Actual,,105166,Number,Number of filled jobs,0
+CPEMP11,,2017-03-31,Primary industries,Seasonally adjusted,,102019,Number,Number of filled jobs,0
+CPEMP11,,2017-03-31,Service industries,Actual,,1564761,Number,Number of filled jobs,0
+CPEMP11,,2017-03-31,Service industries,Seasonally adjusted,,1559502,Number,Number of filled jobs,0
+CPEMP11,,2017-04-30,All industries,Actual,,2064201,Number,Number of filled jobs,0
+CPEMP11,,2017-04-30,All industries,Seasonally adjusted,,2050837,Number,Number of filled jobs,0
+CPEMP11,,2017-04-30,Goods-producing industries,Actual,,388885,Number,Number of filled jobs,0
+CPEMP11,,2017-04-30,Goods-producing industries,Seasonally adjusted,,386214,Number,Number of filled jobs,0
+CPEMP11,,2017-04-30,Primary industries,Actual,,102239,Number,Number of filled jobs,0
+CPEMP11,,2017-04-30,Primary industries,Seasonally adjusted,,102432,Number,Number of filled jobs,0
+CPEMP11,,2017-04-30,Service industries,Actual,,1573077,Number,Number of filled jobs,0
+CPEMP11,,2017-04-30,Service industries,Seasonally adjusted,,1562514,Number,Number of filled jobs,0
+CPEMP11,,2017-05-31,All industries,Actual,,2071282,Number,Number of filled jobs,0
+CPEMP11,,2017-05-31,All industries,Seasonally adjusted,,2060910,Number,Number of filled jobs,0
+CPEMP11,,2017-05-31,Goods-producing industries,Actual,,390712,Number,Number of filled jobs,0
+CPEMP11,,2017-05-31,Goods-producing industries,Seasonally adjusted,,388668,Number,Number of filled jobs,0
+CPEMP11,,2017-05-31,Primary industries,Actual,,99221,Number,Number of filled jobs,0
+CPEMP11,,2017-05-31,Primary industries,Seasonally adjusted,,103287,Number,Number of filled jobs,0
+CPEMP11,,2017-05-31,Service industries,Actual,,1581349,Number,Number of filled jobs,0
+CPEMP11,,2017-05-31,Service industries,Seasonally adjusted,,1569586,Number,Number of filled jobs,0
+CPEMP11,,2017-06-30,All industries,Actual,,2061836,Number,Number of filled jobs,0
+CPEMP11,,2017-06-30,All industries,Seasonally adjusted,,2066760,Number,Number of filled jobs,0
+CPEMP11,,2017-06-30,Goods-producing industries,Actual,,388247,Number,Number of filled jobs,0
+CPEMP11,,2017-06-30,Goods-producing industries,Seasonally adjusted,,389897,Number,Number of filled jobs,0
+CPEMP11,,2017-06-30,Primary industries,Actual,,94759,Number,Number of filled jobs,0
+CPEMP11,,2017-06-30,Primary industries,Seasonally adjusted,,102940,Number,Number of filled jobs,0
+CPEMP11,,2017-06-30,Service industries,Actual,,1578830,Number,Number of filled jobs,0
+CPEMP11,,2017-06-30,Service industries,Seasonally adjusted,,1574198,Number,Number of filled jobs,0
+CPEMP11,,2017-07-31,All industries,Actual,,2050432,Number,Number of filled jobs,0
+CPEMP11,,2017-07-31,All industries,Seasonally adjusted,,2067493,Number,Number of filled jobs,0
+CPEMP11,,2017-07-31,Goods-producing industries,Actual,,385891,Number,Number of filled jobs,0
+CPEMP11,,2017-07-31,Goods-producing industries,Seasonally adjusted,,390152,Number,Number of filled jobs,0
+CPEMP11,,2017-07-31,Primary industries,Actual,,94283,Number,Number of filled jobs,0
+CPEMP11,,2017-07-31,Primary industries,Seasonally adjusted,,102064,Number,Number of filled jobs,0
+CPEMP11,,2017-07-31,Service industries,Actual,,1570258,Number,Number of filled jobs,0
+CPEMP11,,2017-07-31,Service industries,Seasonally adjusted,,1575436,Number,Number of filled jobs,0
+CPEMP11,,2017-08-31,All industries,Actual,,2061724,Number,Number of filled jobs,0
+CPEMP11,,2017-08-31,All industries,Seasonally adjusted,,2078648,Number,Number of filled jobs,0
+CPEMP11,,2017-08-31,Goods-producing industries,Actual,,386790,Number,Number of filled jobs,0
+CPEMP11,,2017-08-31,Goods-producing industries,Seasonally adjusted,,392225,Number,Number of filled jobs,0
+CPEMP11,,2017-08-31,Primary industries,Actual,,96948,Number,Number of filled jobs,0
+CPEMP11,,2017-08-31,Primary industries,Seasonally adjusted,,102921,Number,Number of filled jobs,0
+CPEMP11,,2017-08-31,Service industries,Actual,,1577986,Number,Number of filled jobs,0
+CPEMP11,,2017-08-31,Service industries,Seasonally adjusted,,1583739,Number,Number of filled jobs,0
+CPEMP11,,2017-09-30,All industries,Actual,,2071829,Number,Number of filled jobs,0
+CPEMP11,,2017-09-30,All industries,Seasonally adjusted,,2084166,Number,Number of filled jobs,0
+CPEMP11,,2017-09-30,Goods-producing industries,Actual,,387589,Number,Number of filled jobs,0
+CPEMP11,,2017-09-30,Goods-producing industries,Seasonally adjusted,,393044,Number,Number of filled jobs,0
+CPEMP11,,2017-09-30,Primary industries,Actual,,97661,Number,Number of filled jobs,0
+CPEMP11,,2017-09-30,Primary industries,Seasonally adjusted,,103171,Number,Number of filled jobs,0
+CPEMP11,,2017-09-30,Service industries,Actual,,1586579,Number,Number of filled jobs,0
+CPEMP11,,2017-09-30,Service industries,Seasonally adjusted,,1588197,Number,Number of filled jobs,0
+CPEMP11,,2017-10-31,All industries,Actual,,2079017,Number,Number of filled jobs,0
+CPEMP11,,2017-10-31,All industries,Seasonally adjusted,,2082462,Number,Number of filled jobs,0
+CPEMP11,,2017-10-31,Goods-producing industries,Actual,,390334,Number,Number of filled jobs,0
+CPEMP11,,2017-10-31,Goods-producing industries,Seasonally adjusted,,394285,Number,Number of filled jobs,0
+CPEMP11,,2017-10-31,Primary industries,Actual,,100685,Number,Number of filled jobs,0
+CPEMP11,,2017-10-31,Primary industries,Seasonally adjusted,,103138,Number,Number of filled jobs,0
+CPEMP11,,2017-10-31,Service industries,Actual,,1587998,Number,Number of filled jobs,0
+CPEMP11,,2017-10-31,Service industries,Seasonally adjusted,,1585780,Number,Number of filled jobs,0
+CPEMP11,,2017-11-30,All industries,Actual,,2112199,Number,Number of filled jobs,0
+CPEMP11,,2017-11-30,All industries,Seasonally adjusted,,2090916,Number,Number of filled jobs,0
+CPEMP11,,2017-11-30,Goods-producing industries,Actual,,397973,Number,Number of filled jobs,0
+CPEMP11,,2017-11-30,Goods-producing industries,Seasonally adjusted,,396655,Number,Number of filled jobs,0
+CPEMP11,,2017-11-30,Primary industries,Actual,,109078,Number,Number of filled jobs,0
+CPEMP11,,2017-11-30,Primary industries,Seasonally adjusted,,104174,Number,Number of filled jobs,0
+CPEMP11,,2017-11-30,Service industries,Actual,,1605148,Number,Number of filled jobs,0
+CPEMP11,,2017-11-30,Service industries,Seasonally adjusted,,1590436,Number,Number of filled jobs,0
+CPEMP11,,2017-12-31,All industries,Actual,,2118991,Number,Number of filled jobs,0
+CPEMP11,,2017-12-31,All industries,Seasonally adjusted,,2086829,Number,Number of filled jobs,0
+CPEMP11,,2017-12-31,Goods-producing industries,Actual,,402756,Number,Number of filled jobs,0
+CPEMP11,,2017-12-31,Goods-producing industries,Seasonally adjusted,,397774,Number,Number of filled jobs,0
+CPEMP11,,2017-12-31,Primary industries,Actual,,114868,Number,Number of filled jobs,0
+CPEMP11,,2017-12-31,Primary industries,Seasonally adjusted,,103298,Number,Number of filled jobs,0
+CPEMP11,,2017-12-31,Service industries,Actual,,1601367,Number,Number of filled jobs,0
+CPEMP11,,2017-12-31,Service industries,Seasonally adjusted,,1586707,Number,Number of filled jobs,0
+CPEMP11,,2018-01-31,All industries,Actual,,2082486,Number,Number of filled jobs,0
+CPEMP11,,2018-01-31,All industries,Seasonally adjusted,,2107996,Number,Number of filled jobs,0
+CPEMP11,,2018-01-31,Goods-producing industries,Actual,,402351,Number,Number of filled jobs,0
+CPEMP11,,2018-01-31,Goods-producing industries,Seasonally adjusted,,401030,Number,Number of filled jobs,0
+CPEMP11,,2018-01-31,Primary industries,Actual,,113194,Number,Number of filled jobs,0
+CPEMP11,,2018-01-31,Primary industries,Seasonally adjusted,,103852,Number,Number of filled jobs,0
+CPEMP11,,2018-01-31,Service industries,Actual,,1566941,Number,Number of filled jobs,0
+CPEMP11,,2018-01-31,Service industries,Seasonally adjusted,,1596808,Number,Number of filled jobs,0
+CPEMP11,,2018-02-28,All industries,Actual,,2094910,Number,Number of filled jobs,0
+CPEMP11,,2018-02-28,All industries,Seasonally adjusted,,2101016,Number,Number of filled jobs,0
+CPEMP11,,2018-02-28,Goods-producing industries,Actual,,404069,Number,Number of filled jobs,0
+CPEMP11,,2018-02-28,Goods-producing industries,Seasonally adjusted,,399632,Number,Number of filled jobs,0
+CPEMP11,,2018-02-28,Primary industries,Actual,,109339,Number,Number of filled jobs,0
+CPEMP11,,2018-02-28,Primary industries,Seasonally adjusted,,103929,Number,Number of filled jobs,0
+CPEMP11,,2018-02-28,Service industries,Actual,,1581502,Number,Number of filled jobs,0
+CPEMP11,,2018-02-28,Service industries,Seasonally adjusted,,1599194,Number,Number of filled jobs,0
+CPEMP11,,2018-03-31,All industries,Actual,,2115684,Number,Number of filled jobs,0
+CPEMP11,,2018-03-31,All industries,Seasonally adjusted,,2103648,Number,Number of filled jobs,0
+CPEMP11,,2018-03-31,Goods-producing industries,Actual,,404331,Number,Number of filled jobs,0
+CPEMP11,,2018-03-31,Goods-producing industries,Seasonally adjusted,,400544,Number,Number of filled jobs,0
+CPEMP11,,2018-03-31,Primary industries,Actual,,107582,Number,Number of filled jobs,0
+CPEMP11,,2018-03-31,Primary industries,Seasonally adjusted,,104704,Number,Number of filled jobs,0
+CPEMP11,,2018-03-31,Service industries,Actual,,1603771,Number,Number of filled jobs,0
+CPEMP11,,2018-03-31,Service industries,Seasonally adjusted,,1598788,Number,Number of filled jobs,0
+CPEMP11,,2018-04-30,All industries,Actual,,2116668,Number,Number of filled jobs,0
+CPEMP11,,2018-04-30,All industries,Seasonally adjusted,,2104973,Number,Number of filled jobs,0
+CPEMP11,,2018-04-30,Goods-producing industries,Actual,,403746,Number,Number of filled jobs,0
+CPEMP11,,2018-04-30,Goods-producing industries,Seasonally adjusted,,401309,Number,Number of filled jobs,0
+CPEMP11,,2018-04-30,Primary industries,Actual,,104002,Number,Number of filled jobs,0
+CPEMP11,,2018-04-30,Primary industries,Seasonally adjusted,,104512,Number,Number of filled jobs,0
+CPEMP11,,2018-04-30,Service industries,Actual,,1608920,Number,Number of filled jobs,0
+CPEMP11,,2018-04-30,Service industries,Seasonally adjusted,,1599571,Number,Number of filled jobs,0
+CPEMP11,,2018-05-31,All industries,Actual,,2123559,Number,Number of filled jobs,0
+CPEMP11,,2018-05-31,All industries,Seasonally adjusted,,2114093,Number,Number of filled jobs,0
+CPEMP11,,2018-05-31,Goods-producing industries,Actual,,404426,Number,Number of filled jobs,0
+CPEMP11,,2018-05-31,Goods-producing industries,Seasonally adjusted,,402467,Number,Number of filled jobs,0
+CPEMP11,,2018-05-31,Primary industries,Actual,,99848,Number,Number of filled jobs,0
+CPEMP11,,2018-05-31,Primary industries,Seasonally adjusted,,103883,Number,Number of filled jobs,0
+CPEMP11,,2018-05-31,Service industries,Actual,,1619285,Number,Number of filled jobs,0
+CPEMP11,,2018-05-31,Service industries,Seasonally adjusted,,1608166,Number,Number of filled jobs,0
+CPEMP11,,2018-06-30,All industries,Actual,,2109300,Number,Number of filled jobs,0
+CPEMP11,,2018-06-30,All industries,Seasonally adjusted,,2114334,Number,Number of filled jobs,0
+CPEMP11,,2018-06-30,Goods-producing industries,Actual,,401679,Number,Number of filled jobs,0
+CPEMP11,,2018-06-30,Goods-producing industries,Seasonally adjusted,,402960,Number,Number of filled jobs,0
+CPEMP11,,2018-06-30,Primary industries,Actual,,95523,Number,Number of filled jobs,0
+CPEMP11,,2018-06-30,Primary industries,Seasonally adjusted,,103546,Number,Number of filled jobs,0
+CPEMP11,,2018-06-30,Service industries,Actual,,1612098,Number,Number of filled jobs,0
+CPEMP11,,2018-06-30,Service industries,Seasonally adjusted,,1608234,Number,Number of filled jobs,0
+CPEMP11,,2018-07-31,All industries,Actual,,2099953,Number,Number of filled jobs,0
+CPEMP11,,2018-07-31,All industries,Seasonally adjusted,,2118608,Number,Number of filled jobs,0
+CPEMP11,,2018-07-31,Goods-producing industries,Actual,,399784,Number,Number of filled jobs,0
+CPEMP11,,2018-07-31,Goods-producing industries,Seasonally adjusted,,403693,Number,Number of filled jobs,0
+CPEMP11,,2018-07-31,Primary industries,Actual,,95814,Number,Number of filled jobs,0
+CPEMP11,,2018-07-31,Primary industries,Seasonally adjusted,,103497,Number,Number of filled jobs,0
+CPEMP11,,2018-07-31,Service industries,Actual,,1604355,Number,Number of filled jobs,0
+CPEMP11,,2018-07-31,Service industries,Seasonally adjusted,,1611529,Number,Number of filled jobs,0
+CPEMP11,,2018-08-31,All industries,Actual,,2106309,Number,Number of filled jobs,0
+CPEMP11,,2018-08-31,All industries,Seasonally adjusted,,2123715,Number,Number of filled jobs,0
+CPEMP11,,2018-08-31,Goods-producing industries,Actual,,399878,Number,Number of filled jobs,0
+CPEMP11,,2018-08-31,Goods-producing industries,Seasonally adjusted,,405317,Number,Number of filled jobs,0
+CPEMP11,,2018-08-31,Primary industries,Actual,,98626,Number,Number of filled jobs,0
+CPEMP11,,2018-08-31,Primary industries,Seasonally adjusted,,104438,Number,Number of filled jobs,0
+CPEMP11,,2018-08-31,Service industries,Actual,,1607805,Number,Number of filled jobs,0
+CPEMP11,,2018-08-31,Service industries,Seasonally adjusted,,1614070,Number,Number of filled jobs,0
+CPEMP11,,2018-09-30,All industries,Actual,,2110076,Number,Number of filled jobs,0
+CPEMP11,,2018-09-30,All industries,Seasonally adjusted,,2124169,Number,Number of filled jobs,0
+CPEMP11,,2018-09-30,Goods-producing industries,Actual,,399953,Number,Number of filled jobs,0
+CPEMP11,,2018-09-30,Goods-producing industries,Seasonally adjusted,,405660,Number,Number of filled jobs,0
+CPEMP11,,2018-09-30,Primary industries,Actual,,98996,Number,Number of filled jobs,0
+CPEMP11,,2018-09-30,Primary industries,Seasonally adjusted,,104360,Number,Number of filled jobs,0
+CPEMP11,,2018-09-30,Service industries,Actual,,1611127,Number,Number of filled jobs,0
+CPEMP11,,2018-09-30,Service industries,Seasonally adjusted,,1614202,Number,Number of filled jobs,0
+CPEMP11,,2018-10-31,All industries,Actual,,2132730,Number,Number of filled jobs,0
+CPEMP11,,2018-10-31,All industries,Seasonally adjusted,,2136142,Number,Number of filled jobs,0
+CPEMP11,,2018-10-31,Goods-producing industries,Actual,,404142,Number,Number of filled jobs,0
+CPEMP11,,2018-10-31,Goods-producing industries,Seasonally adjusted,,408011,Number,Number of filled jobs,0
+CPEMP11,,2018-10-31,Primary industries,Actual,,103537,Number,Number of filled jobs,0
+CPEMP11,,2018-10-31,Primary industries,Seasonally adjusted,,105759,Number,Number of filled jobs,0
+CPEMP11,,2018-10-31,Service industries,Actual,,1625051,Number,Number of filled jobs,0
+CPEMP11,,2018-10-31,Service industries,Seasonally adjusted,,1623453,Number,Number of filled jobs,0
+CPEMP11,,2018-11-30,All industries,Actual,,2153579,Number,Number of filled jobs,0
+CPEMP11,,2018-11-30,All industries,Seasonally adjusted,,2131517,Number,Number of filled jobs,0
+CPEMP11,,2018-11-30,Goods-producing industries,Actual,,408144,Number,Number of filled jobs,0
+CPEMP11,,2018-11-30,Goods-producing industries,Seasonally adjusted,,406440,Number,Number of filled jobs,0
+CPEMP11,,2018-11-30,Primary industries,Actual,,109241,Number,Number of filled jobs,0
+CPEMP11,,2018-11-30,Primary industries,Seasonally adjusted,,103992,Number,Number of filled jobs,0
+CPEMP11,,2018-11-30,Service industries,Actual,,1636194,Number,Number of filled jobs,0
+CPEMP11,,2018-11-30,Service industries,Seasonally adjusted,,1621219,Number,Number of filled jobs,0
+CPEMP11,,2018-12-31,All industries,Actual,,2163501,Number,Number of filled jobs,0
+CPEMP11,,2018-12-31,All industries,Seasonally adjusted,,2128445,Number,Number of filled jobs,0
+CPEMP11,,2018-12-31,Goods-producing industries,Actual,,411398,Number,Number of filled jobs,0
+CPEMP11,,2018-12-31,Goods-producing industries,Seasonally adjusted,,406041,Number,Number of filled jobs,0
+CPEMP11,,2018-12-31,Primary industries,Actual,,115764,Number,Number of filled jobs,0
+CPEMP11,,2018-12-31,Primary industries,Seasonally adjusted,,104186,Number,Number of filled jobs,0
+CPEMP11,,2018-12-31,Service industries,Actual,,1636339,Number,Number of filled jobs,0
+CPEMP11,,2018-12-31,Service industries,Seasonally adjusted,,1618834,Number,Number of filled jobs,0
+CPEMP11,,2019-01-31,All industries,Actual,,2133612,Number,Number of filled jobs,0
+CPEMP11,,2019-01-31,All industries,Seasonally adjusted,,2156827,Number,Number of filled jobs,0
+CPEMP11,,2019-01-31,Goods-producing industries,Actual,,413189,Number,Number of filled jobs,0
+CPEMP11,,2019-01-31,Goods-producing industries,Seasonally adjusted,,412505,Number,Number of filled jobs,0
+CPEMP11,,2019-01-31,Primary industries,Actual,,115461,Number,Number of filled jobs,0
+CPEMP11,,2019-01-31,Primary industries,Seasonally adjusted,,106404,Number,Number of filled jobs,0
+CPEMP11,,2019-01-31,Service industries,Actual,,1604962,Number,Number of filled jobs,0
+CPEMP11,,2019-01-31,Service industries,Seasonally adjusted,,1632362,Number,Number of filled jobs,0
+CPEMP11,,2019-02-28,All industries,Actual,,2144000,Number,Number of filled jobs,0
+CPEMP11,,2019-02-28,All industries,Seasonally adjusted,,2147558,Number,Number of filled jobs,0
+CPEMP11,,2019-02-28,Goods-producing industries,Actual,,413726,Number,Number of filled jobs,0
+CPEMP11,,2019-02-28,Goods-producing industries,Seasonally adjusted,,409349,Number,Number of filled jobs,0
+CPEMP11,,2019-02-28,Primary industries,Actual,,111514,Number,Number of filled jobs,0
+CPEMP11,,2019-02-28,Primary industries,Seasonally adjusted,,106377,Number,Number of filled jobs,0
+CPEMP11,,2019-02-28,Service industries,Actual,,1618760,Number,Number of filled jobs,0
+CPEMP11,,2019-02-28,Service industries,Seasonally adjusted,,1633799,Number,Number of filled jobs,0
+CPEMP11,,2019-03-31,All industries,Actual,,2157545,Number,Number of filled jobs,0
+CPEMP11,,2019-03-31,All industries,Seasonally adjusted,,2147245,Number,Number of filled jobs,0
+CPEMP11,,2019-03-31,Goods-producing industries,Actual,,412436,Number,Number of filled jobs,0
+CPEMP11,,2019-03-31,Goods-producing industries,Seasonally adjusted,,409126,Number,Number of filled jobs,0
+CPEMP11,,2019-03-31,Primary industries,Actual,,107095,Number,Number of filled jobs,0
+CPEMP11,,2019-03-31,Primary industries,Seasonally adjusted,,104547,Number,Number of filled jobs,0
+CPEMP11,,2019-03-31,Service industries,Actual,,1638014,Number,Number of filled jobs,0
+CPEMP11,,2019-03-31,Service industries,Seasonally adjusted,,1633856,Number,Number of filled jobs,0
+CPEMP11,,2019-04-30,All industries,Actual,,2166023,Number,Number of filled jobs,0
+CPEMP11,,2019-04-30,All industries,Seasonally adjusted,,2156846,Number,Number of filled jobs,0
+CPEMP11,,2019-04-30,Goods-producing industries,Actual,,413027,Number,Number of filled jobs,0
+CPEMP11,,2019-04-30,Goods-producing industries,Seasonally adjusted,,410849,Number,Number of filled jobs,0
+CPEMP11,,2019-04-30,Primary industries,Actual,,103417,Number,Number of filled jobs,0
+CPEMP11,,2019-04-30,Primary industries,Seasonally adjusted,,104240,Number,Number of filled jobs,0
+CPEMP11,,2019-04-30,Service industries,Actual,,1649579,Number,Number of filled jobs,0
+CPEMP11,,2019-04-30,Service industries,Seasonally adjusted,,1642090,Number,Number of filled jobs,0
+CPEMP11,,2019-05-31,All industries,Actual,,2171460,Number,Number of filled jobs,0
+CPEMP11,,2019-05-31,All industries,Seasonally adjusted,,2163961,Number,Number of filled jobs,0
+CPEMP11,,2019-05-31,Goods-producing industries,Actual,,413361,Number,Number of filled jobs,0
+CPEMP11,,2019-05-31,Goods-producing industries,Seasonally adjusted,,411674,Number,Number of filled jobs,0
+CPEMP11,,2019-05-31,Primary industries,Actual,,100648,Number,Number of filled jobs,0
+CPEMP11,,2019-05-31,Primary industries,Seasonally adjusted,,104622,Number,Number of filled jobs,0
+CPEMP11,,2019-05-31,Service industries,Actual,,1657451,Number,Number of filled jobs,0
+CPEMP11,,2019-05-31,Service industries,Seasonally adjusted,,1647821,Number,Number of filled jobs,0
+CPEMP11,,2019-06-30,All industries,Actual,,2157969,Number,Number of filled jobs,0
+CPEMP11,,2019-06-30,All industries,Seasonally adjusted,,2163067,Number,Number of filled jobs,0
+CPEMP11,,2019-06-30,Goods-producing industries,Actual,,411076,Number,Number of filled jobs,0
+CPEMP11,,2019-06-30,Goods-producing industries,Seasonally adjusted,,411914,Number,Number of filled jobs,0
+CPEMP11,,2019-06-30,Primary industries,Actual,,96875,Number,Number of filled jobs,0
+CPEMP11,,2019-06-30,Primary industries,Seasonally adjusted,,104809,Number,Number of filled jobs,0
+CPEMP11,,2019-06-30,Service industries,Actual,,1650018,Number,Number of filled jobs,0
+CPEMP11,,2019-06-30,Service industries,Seasonally adjusted,,1646847,Number,Number of filled jobs,0
+CPEMP11,,2019-07-31,All industries,Actual,,2150982,Number,Number of filled jobs,0
+CPEMP11,,2019-07-31,All industries,Seasonally adjusted,,2170326,Number,Number of filled jobs,0
+CPEMP11,,2019-07-31,Goods-producing industries,Actual,,409567,Number,Number of filled jobs,0
+CPEMP11,,2019-07-31,Goods-producing industries,Seasonally adjusted,,412875,Number,Number of filled jobs,0
+CPEMP11,,2019-07-31,Primary industries,Actual,,97481,Number,Number of filled jobs,0
+CPEMP11,,2019-07-31,Primary industries,Seasonally adjusted,,104979,Number,Number of filled jobs,0
+CPEMP11,,2019-07-31,Service industries,Actual,,1643934,Number,Number of filled jobs,0
+CPEMP11,,2019-07-31,Service industries,Seasonally adjusted,,1652431,Number,Number of filled jobs,0
+CPEMP11,,2019-08-31,All industries,Actual,,2152762,Number,Number of filled jobs,0
+CPEMP11,,2019-08-31,All industries,Seasonally adjusted,,2170403,Number,Number of filled jobs,0
+CPEMP11,,2019-08-31,Goods-producing industries,Actual,,408233,Number,Number of filled jobs,0
+CPEMP11,,2019-08-31,Goods-producing industries,Seasonally adjusted,,413624,Number,Number of filled jobs,0
+CPEMP11,,2019-08-31,Primary industries,Actual,,98085,Number,Number of filled jobs,0
+CPEMP11,,2019-08-31,Primary industries,Seasonally adjusted,,103579,Number,Number of filled jobs,0
+CPEMP11,,2019-08-31,Service industries,Actual,,1646444,Number,Number of filled jobs,0
+CPEMP11,,2019-08-31,Service industries,Seasonally adjusted,,1652940,Number,Number of filled jobs,0
+CPEMP11,,2019-09-30,All industries,Actual,,2165388,Number,Number of filled jobs,0
+CPEMP11,,2019-09-30,All industries,Seasonally adjusted,,2180985,Number,Number of filled jobs,0
+CPEMP11,,2019-09-30,Goods-producing industries,Actual,,409601,Number,Number of filled jobs,0
+CPEMP11,,2019-09-30,Goods-producing industries,Seasonally adjusted,,415467,Number,Number of filled jobs,0
+CPEMP11,,2019-09-30,Primary industries,Actual,,98884,Number,Number of filled jobs,0
+CPEMP11,,2019-09-30,Primary industries,Seasonally adjusted,,104021,Number,Number of filled jobs,0
+CPEMP11,,2019-09-30,Service industries,Actual,,1656903,Number,Number of filled jobs,0
+CPEMP11,,2019-09-30,Service industries,Seasonally adjusted,,1661241,Number,Number of filled jobs,0
+CPEMP11,,2019-10-31,All industries,Actual,,2176842,Number,Number of filled jobs,0
+CPEMP11,,2019-10-31,All industries,Seasonally adjusted,,2178997,Number,Number of filled jobs,0
+CPEMP11,,2019-10-31,Goods-producing industries,Actual,,413230,Number,Number of filled jobs,0
+CPEMP11,,2019-10-31,Goods-producing industries,Seasonally adjusted,,416947,Number,Number of filled jobs,0
+CPEMP11,,2019-10-31,Primary industries,Actual,,101756,Number,Number of filled jobs,0
+CPEMP11,,2019-10-31,Primary industries,Seasonally adjusted,,103643,Number,Number of filled jobs,0
+CPEMP11,,2019-10-31,Service industries,Actual,,1661856,Number,Number of filled jobs,0
+CPEMP11,,2019-10-31,Service industries,Seasonally adjusted,,1659668,Number,Number of filled jobs,0
+CPEMP11,,2019-11-30,All industries,Actual,,2218385,Number,Number of filled jobs,0
+CPEMP11,,2019-11-30,All industries,Seasonally adjusted,,2195687,Number,Number of filled jobs,0
+CPEMP11,,2019-11-30,Goods-producing industries,Actual,,420287,Number,Number of filled jobs,0
+CPEMP11,,2019-11-30,Goods-producing industries,Seasonally adjusted,,418404,Number,Number of filled jobs,0
+CPEMP11,,2019-11-30,Primary industries,Actual,,110343,Number,Number of filled jobs,0
+CPEMP11,,2019-11-30,Primary industries,Seasonally adjusted,,104921,Number,Number of filled jobs,0
+CPEMP11,,2019-11-30,Service industries,Actual,,1687755,Number,Number of filled jobs,0
+CPEMP11,,2019-11-30,Service industries,Seasonally adjusted,,1672230,Number,Number of filled jobs,0
+CPEMP11,,2019-12-31,All industries,Actual,,2240698,Number,Number of filled jobs,0
+CPEMP11,,2019-12-31,All industries,Seasonally adjusted,,2202357,Number,Number of filled jobs,0
+CPEMP11,,2019-12-31,Goods-producing industries,Actual,,423684,Number,Number of filled jobs,0
+CPEMP11,,2019-12-31,Goods-producing industries,Seasonally adjusted,,417952,Number,Number of filled jobs,0
+CPEMP11,,2019-12-31,Primary industries,Actual,,116528,Number,Number of filled jobs,0
+CPEMP11,,2019-12-31,Primary industries,Seasonally adjusted,,104942,Number,Number of filled jobs,0
+CPEMP11,,2019-12-31,Service industries,Actual,,1700486,Number,Number of filled jobs,0
+CPEMP11,,2019-12-31,Service industries,Seasonally adjusted,,1679908,Number,Number of filled jobs,0
+CPEMP11,,2020-01-31,All industries,Actual,,2184153,Number,Number of filled jobs,0
+CPEMP11,,2020-01-31,All industries,Seasonally adjusted,,2205067,Number,Number of filled jobs,0
+CPEMP11,,2020-01-31,Goods-producing industries,Actual,,417068,Number,Number of filled jobs,0
+CPEMP11,,2020-01-31,Goods-producing industries,Seasonally adjusted,,416945,Number,Number of filled jobs,0
+CPEMP11,,2020-01-31,Primary industries,Actual,,113153,Number,Number of filled jobs,0
+CPEMP11,,2020-01-31,Primary industries,Seasonally adjusted,,104666,Number,Number of filled jobs,0
+CPEMP11,,2020-01-31,Service industries,Actual,,1653932,Number,Number of filled jobs,0
+CPEMP11,,2020-01-31,Service industries,Seasonally adjusted,,1679940,Number,Number of filled jobs,0
+CPEMP11,,2020-02-29,All industries,Actual,,2212353,Number,Number of filled jobs,0
+CPEMP11,,2020-02-29,All industries,Seasonally adjusted,,2214341,Number,Number of filled jobs,0
+CPEMP11,,2020-02-29,Goods-producing industries,Actual,,424305,Number,Number of filled jobs,0
+CPEMP11,,2020-02-29,Goods-producing industries,Seasonally adjusted,,419943,Number,Number of filled jobs,0
+CPEMP11,,2020-02-29,Primary industries,Actual,,109798,Number,Number of filled jobs,0
+CPEMP11,,2020-02-29,Primary industries,Seasonally adjusted,,105006,Number,Number of filled jobs,0
+CPEMP11,,2020-02-29,Service industries,Actual,,1678250,Number,Number of filled jobs,0
+CPEMP11,,2020-02-29,Service industries,Seasonally adjusted,,1691328,Number,Number of filled jobs,0
+CPEMP11,,2020-03-31,All industries,Actual,,2215455,Number,Number of filled jobs,0
+CPEMP11,,2020-03-31,All industries,Seasonally adjusted,,2207153,Number,Number of filled jobs,0
+CPEMP11,,2020-03-31,Goods-producing industries,Actual,,423737,Number,Number of filled jobs,0
+CPEMP11,,2020-03-31,Goods-producing industries,Seasonally adjusted,,420826,Number,Number of filled jobs,0
+CPEMP11,,2020-03-31,Primary industries,Actual,,107934,Number,Number of filled jobs,0
+CPEMP11,,2020-03-31,Primary industries,Seasonally adjusted,,105730,Number,Number of filled jobs,0
+CPEMP11,,2020-03-31,Service industries,Actual,,1683784,Number,Number of filled jobs,0
+CPEMP11,,2020-03-31,Service industries,Seasonally adjusted,,1680888,Number,Number of filled jobs,0
+CPEMP11,,2020-04-30,All industries,Actual,,2180714,Number,Number of filled jobs,0
+CPEMP11,,2020-04-30,All industries,Seasonally adjusted,,2173919,Number,Number of filled jobs,0
+CPEMP11,,2020-04-30,Goods-producing industries,Actual,,418250,Number,Number of filled jobs,0
+CPEMP11,,2020-04-30,Goods-producing industries,Seasonally adjusted,,416297,Number,Number of filled jobs,0
+CPEMP11,,2020-04-30,Primary industries,Actual,,102363,Number,Number of filled jobs,0
+CPEMP11,,2020-04-30,Primary industries,Seasonally adjusted,,103439,Number,Number of filled jobs,0
+CPEMP11,,2020-04-30,Service industries,Actual,,1660101,Number,Number of filled jobs,0
+CPEMP11,,2020-04-30,Service industries,Seasonally adjusted,,1654400,Number,Number of filled jobs,0
+CPEMP11,,2020-05-31,All industries,Actual,,2195122,Number,Number of filled jobs,0
+CPEMP11,,2020-05-31,All industries,Seasonally adjusted,,2190293,Number,Number of filled jobs,0
+CPEMP11,,2020-05-31,Goods-producing industries,Actual,,422491,Number,Number of filled jobs,0
+CPEMP11,,2020-05-31,Goods-producing industries,Seasonally adjusted,,421140,Number,Number of filled jobs,0
+CPEMP11,,2020-05-31,Primary industries,Actual,,103547,Number,Number of filled jobs,0
+CPEMP11,,2020-05-31,Primary industries,Seasonally adjusted,,107550,Number,Number of filled jobs,0
+CPEMP11,,2020-05-31,Service industries,Actual,,1669084,Number,Number of filled jobs,0
+CPEMP11,,2020-05-31,Service industries,Seasonally adjusted,,1661761,Number,Number of filled jobs,0
+CPEMP11,,2020-06-30,All industries,Actual,,2193077,Number,Number of filled jobs,0
+CPEMP11,,2020-06-30,All industries,Seasonally adjusted,,2198290,Number,Number of filled jobs,0
+CPEMP11,,2020-06-30,Goods-producing industries,Actual,,422423,Number,Number of filled jobs,0
+CPEMP11,,2020-06-30,Goods-producing industries,Seasonally adjusted,,422904,Number,Number of filled jobs,0
+CPEMP11,,2020-06-30,Primary industries,Actual,,101987,Number,Number of filled jobs,0
+CPEMP11,,2020-06-30,Primary industries,Seasonally adjusted,,110081,Number,Number of filled jobs,0
+CPEMP11,,2020-06-30,Service industries,Actual,,1668667,Number,Number of filled jobs,0
+CPEMP11,,2020-06-30,Service industries,Seasonally adjusted,,1665990,Number,Number of filled jobs,0
+CPEMP11,,2020-07-31,All industries,Actual,,2176330,Number,Number of filled jobs,0
+CPEMP11,,2020-07-31,All industries,Seasonally adjusted,,2195214,Number,Number of filled jobs,0
+CPEMP11,,2020-07-31,Goods-producing industries,Actual,,420308,Number,Number of filled jobs,0
+CPEMP11,,2020-07-31,Goods-producing industries,Seasonally adjusted,,422958,Number,Number of filled jobs,0
+CPEMP11,,2020-07-31,Primary industries,Actual,,101503,Number,Number of filled jobs,0
+CPEMP11,,2020-07-31,Primary industries,Seasonally adjusted,,108938,Number,Number of filled jobs,0
+CPEMP11,,2020-07-31,Service industries,Actual,,1654519,Number,Number of filled jobs,0
+CPEMP11,,2020-07-31,Service industries,Seasonally adjusted,,1663387,Number,Number of filled jobs,0
+CPEMP11,,2020-08-31,All industries,Actual,,2176793,Number,Number of filled jobs,0
+CPEMP11,,2020-08-31,All industries,Seasonally adjusted,,2194415,Number,Number of filled jobs,0
+CPEMP11,,2020-08-31,Goods-producing industries,Actual,,416357,Number,Number of filled jobs,0
+CPEMP11,,2020-08-31,Goods-producing industries,Seasonally adjusted,,421748,Number,Number of filled jobs,0
+CPEMP11,,2020-08-31,Primary industries,Actual,,103586,Number,Number of filled jobs,0
+CPEMP11,,2020-08-31,Primary industries,Seasonally adjusted,,109217,Number,Number of filled jobs,0
+CPEMP11,,2020-08-31,Service industries,Actual,,1656850,Number,Number of filled jobs,0
+CPEMP11,,2020-08-31,Service industries,Seasonally adjusted,,1663280,Number,Number of filled jobs,0
+CPEMP11,,2020-09-30,All industries,Actual,,2176375,Number,Number of filled jobs,0
+CPEMP11,,2020-09-30,All industries,Seasonally adjusted,,2192179,Number,Number of filled jobs,0
+CPEMP11,,2020-09-30,Goods-producing industries,Actual,,415641,Number,Number of filled jobs,0
+CPEMP11,,2020-09-30,Goods-producing industries,Seasonally adjusted,,421548,Number,Number of filled jobs,0
+CPEMP11,,2020-09-30,Primary industries,Actual,,103044,Number,Number of filled jobs,0
+CPEMP11,,2020-09-30,Primary industries,Seasonally adjusted,,108224,Number,Number of filled jobs,0
+CPEMP11,,2020-09-30,Service industries,Actual,,1657690,Number,Number of filled jobs,0
+CPEMP11,,2020-09-30,Service industries,Seasonally adjusted,,1662343,Number,Number of filled jobs,0
+CPEMP11,,2020-10-31,All industries,Actual,,2199609,Number,Number of filled jobs,0
+CPEMP11,,2020-10-31,All industries,Seasonally adjusted,,2201009,Number,Number of filled jobs,0
+CPEMP11,,2020-10-31,Goods-producing industries,Actual,,417569,Number,Number of filled jobs,0
+CPEMP11,,2020-10-31,Goods-producing industries,Seasonally adjusted,,421128,Number,Number of filled jobs,0
+CPEMP11,,2020-10-31,Primary industries,Actual,,106424,Number,Number of filled jobs,0
+CPEMP11,,2020-10-31,Primary industries,Seasonally adjusted,,108229,Number,Number of filled jobs,0
+CPEMP11,,2020-10-31,Service industries,Actual,,1675616,Number,Number of filled jobs,0
+CPEMP11,,2020-10-31,Service industries,Seasonally adjusted,,1673025,Number,Number of filled jobs,0
+CPEMP11,,2020-11-30,All industries,Actual,,2216427,Number,Number of filled jobs,0
+CPEMP11,,2020-11-30,All industries,Seasonally adjusted,,2193443,Number,Number of filled jobs,0
+CPEMP11,,2020-11-30,Goods-producing industries,Actual,,424255,Number,Number of filled jobs,0
+CPEMP11,,2020-11-30,Goods-producing industries,Seasonally adjusted,,422231,Number,Number of filled jobs,0
+CPEMP11,,2020-11-30,Primary industries,Actual,,113487,Number,Number of filled jobs,0
+CPEMP11,,2020-11-30,Primary industries,Seasonally adjusted,,107792,Number,Number of filled jobs,0
+CPEMP11,,2020-11-30,Service industries,Actual,,1678685,Number,Number of filled jobs,0
+CPEMP11,,2020-11-30,Service industries,Seasonally adjusted,,1662901,Number,Number of filled jobs,0
+CPEMP11,,2020-12-31,All industries,Actual,,2247620,Number,Number of filled jobs,0
+CPEMP11,,2020-12-31,All industries,Seasonally adjusted,,2207796,Number,Number of filled jobs,0
+CPEMP11,,2020-12-31,Goods-producing industries,Actual,,430531,Number,Number of filled jobs,0
+CPEMP11,,2020-12-31,Goods-producing industries,Seasonally adjusted,,424700,Number,Number of filled jobs,0
+CPEMP11,,2020-12-31,Primary industries,Actual,,120603,Number,Number of filled jobs,0
+CPEMP11,,2020-12-31,Primary industries,Seasonally adjusted,,108657,Number,Number of filled jobs,0
+CPEMP11,,2020-12-31,Service industries,Actual,,1696486,Number,Number of filled jobs,0
+CPEMP11,,2020-12-31,Service industries,Seasonally adjusted,,1673887,Number,Number of filled jobs,0
+CPEMP11,,2021-01-31,All industries,Actual,,2186709,Number,Number of filled jobs,0
+CPEMP11,,2021-01-31,All industries,Seasonally adjusted,,2205251,Number,Number of filled jobs,0
+CPEMP11,,2021-01-31,Goods-producing industries,Actual,,424685,Number,Number of filled jobs,0
+CPEMP11,,2021-01-31,Goods-producing industries,Seasonally adjusted,,425022,Number,Number of filled jobs,0
+CPEMP11,,2021-01-31,Primary industries,Actual,,114792,Number,Number of filled jobs,0
+CPEMP11,,2021-01-31,Primary industries,Seasonally adjusted,,106524,Number,Number of filled jobs,0
+CPEMP11,,2021-01-31,Service industries,Actual,,1647233,Number,Number of filled jobs,0
+CPEMP11,,2021-01-31,Service industries,Seasonally adjusted,,1672011,Number,Number of filled jobs,0
+CPEMP11,,2021-02-28,All industries,Actual,,2211764,Number,Number of filled jobs,0
+CPEMP11,,2021-02-28,All industries,Seasonally adjusted,,2212958,Number,Number of filled jobs,0
+CPEMP11,,2021-02-28,Goods-producing industries,Actual,,432103,Number,Number of filled jobs,0
+CPEMP11,,2021-02-28,Goods-producing industries,Seasonally adjusted,,427732,Number,Number of filled jobs,0
+CPEMP11,,2021-02-28,Primary industries,Actual,,111954,Number,Number of filled jobs,0
+CPEMP11,,2021-02-28,Primary industries,Seasonally adjusted,,107316,Number,Number of filled jobs,0
+CPEMP11,,2021-02-28,Service industries,Actual,,1667707,Number,Number of filled jobs,0
+CPEMP11,,2021-02-28,Service industries,Seasonally adjusted,,1679079,Number,Number of filled jobs,0
+CPEMP11,,2021-03-31,All industries,Actual,,2225663,Number,Number of filled jobs,0
+CPEMP11,,2021-03-31,All industries,Seasonally adjusted,,2218955,Number,Number of filled jobs,0
+CPEMP11,,2021-03-31,Goods-producing industries,Actual,,432047,Number,Number of filled jobs,0
+CPEMP11,,2021-03-31,Goods-producing industries,Seasonally adjusted,,429391,Number,Number of filled jobs,0
+CPEMP11,,2021-03-31,Primary industries,Actual,,109756,Number,Number of filled jobs,0
+CPEMP11,,2021-03-31,Primary industries,Seasonally adjusted,,107747,Number,Number of filled jobs,0
+CPEMP11,,2021-03-31,Service industries,Actual,,1683860,Number,Number of filled jobs,0
+CPEMP11,,2021-03-31,Service industries,Seasonally adjusted,,1681910,Number,Number of filled jobs,0
+CPEMP11,,2021-04-30,All industries,Actual,,2231726,Number,Number of filled jobs,0
+CPEMP11,,2021-04-30,All industries,Seasonally adjusted,,2226844,Number,Number of filled jobs,0
+CPEMP11,,2021-04-30,Goods-producing industries,Actual,,433033,Number,Number of filled jobs,0
+CPEMP11,,2021-04-30,Goods-producing industries,Seasonally adjusted,,431199,Number,Number of filled jobs,0
+CPEMP11,,2021-04-30,Primary industries,Actual,,105967,Number,Number of filled jobs,0
+CPEMP11,,2021-04-30,Primary industries,Seasonally adjusted,,107183,Number,Number of filled jobs,0
+CPEMP11,,2021-04-30,Service industries,Actual,,1692726,Number,Number of filled jobs,0
+CPEMP11,,2021-04-30,Service industries,Seasonally adjusted,,1688543,Number,Number of filled jobs,0
+CPEMP11,,2021-05-31,All industries,Actual,,2236527,Number,Number of filled jobs,0
+CPEMP11,,2021-05-31,All industries,Seasonally adjusted,,2234626,Number,Number of filled jobs,0
+CPEMP11,,2021-05-31,Goods-producing industries,Actual,,434328,Number,Number of filled jobs,0
+CPEMP11,,2021-05-31,Goods-producing industries,Seasonally adjusted,,433308,Number,Number of filled jobs,0
+CPEMP11,,2021-05-31,Primary industries,Actual,,103438,Number,Number of filled jobs,0
+CPEMP11,,2021-05-31,Primary industries,Seasonally adjusted,,107349,Number,Number of filled jobs,0
+CPEMP11,,2021-05-31,Service industries,Actual,,1698761,Number,Number of filled jobs,0
+CPEMP11,,2021-05-31,Service industries,Seasonally adjusted,,1693918,Number,Number of filled jobs,0
+CPEMP11,,2021-06-30,All industries,Actual,,2244127,Number,Number of filled jobs,0
+CPEMP11,,2021-06-30,All industries,Seasonally adjusted,,2249161,Number,Number of filled jobs,0
+CPEMP11,,2021-06-30,Goods-producing industries,Actual,,435904,Number,Number of filled jobs,0
+CPEMP11,,2021-06-30,Goods-producing industries,Seasonally adjusted,,436064,Number,Number of filled jobs,0
+CPEMP11,,2021-06-30,Primary industries,Actual,,100587,Number,Number of filled jobs,0
+CPEMP11,,2021-06-30,Primary industries,Seasonally adjusted,,108408,Number,Number of filled jobs,0
+CPEMP11,,2021-06-30,Service industries,Actual,,1707636,Number,Number of filled jobs,0
+CPEMP11,,2021-06-30,Service industries,Seasonally adjusted,,1704940,Number,Number of filled jobs,0
+CPEMP11,,2021-07-31,All industries,Actual,,2242264,Number,Number of filled jobs,0
+CPEMP11,,2021-07-31,All industries,Seasonally adjusted,,2261062,Number,Number of filled jobs,0
+CPEMP11,,2021-07-31,Goods-producing industries,Actual,,437045,Number,Number of filled jobs,0
+CPEMP11,,2021-07-31,Goods-producing industries,Seasonally adjusted,,439250,Number,Number of filled jobs,0
+CPEMP11,,2021-07-31,Primary industries,Actual,,101019,Number,Number of filled jobs,0
+CPEMP11,,2021-07-31,Primary industries,Seasonally adjusted,,108175,Number,Number of filled jobs,0
+CPEMP11,,2021-07-31,Service industries,Actual,,1704200,Number,Number of filled jobs,0
+CPEMP11,,2021-07-31,Service industries,Seasonally adjusted,,1713369,Number,Number of filled jobs,0
+CPEMP11,,2021-08-31,All industries,Actual,,2253962,Number,Number of filled jobs,0
+CPEMP11,,2021-08-31,All industries,Seasonally adjusted,,2271559,Number,Number of filled jobs,0
+CPEMP11,,2021-08-31,Goods-producing industries,Actual,,434884,Number,Number of filled jobs,0
+CPEMP11,,2021-08-31,Goods-producing industries,Seasonally adjusted,,440376,Number,Number of filled jobs,0
+CPEMP11,,2021-08-31,Primary industries,Actual,,102754,Number,Number of filled jobs,0
+CPEMP11,,2021-08-31,Primary industries,Seasonally adjusted,,108245,Number,Number of filled jobs,0
+CPEMP11,,2021-08-31,Service industries,Actual,,1716324,Number,Number of filled jobs,0
+CPEMP11,,2021-08-31,Service industries,Seasonally adjusted,,1722514,Number,Number of filled jobs,0
+CPEMP11,,2021-09-30,All industries,Actual,,2257642,Number,Number of filled jobs,0
+CPEMP11,,2021-09-30,All industries,Seasonally adjusted,,2273775,Number,Number of filled jobs,0
+CPEMP11,,2021-09-30,Goods-producing industries,Actual,,435616,Number,Number of filled jobs,0
+CPEMP11,,2021-09-30,Goods-producing industries,Seasonally adjusted,,441713,Number,Number of filled jobs,0
+CPEMP11,,2021-09-30,Primary industries,Actual,,103549,Number,Number of filled jobs,0
+CPEMP11,,2021-09-30,Primary industries,Seasonally adjusted,,108679,Number,Number of filled jobs,0
+CPEMP11,,2021-09-30,Service industries,Actual,,1718477,Number,Number of filled jobs,0
+CPEMP11,,2021-09-30,Service industries,Seasonally adjusted,,1723238,Number,Number of filled jobs,0
+CPEMP11,,2021-10-31,All industries,Actual,,2276338,Number,Number of filled jobs,0
+CPEMP11,,2021-10-31,All industries,Seasonally adjusted,,2276993,Number,Number of filled jobs,0
+CPEMP11,,2021-10-31,Goods-producing industries,Actual,,440317,Number,Number of filled jobs,0
+CPEMP11,,2021-10-31,Goods-producing industries,Seasonally adjusted,,443997,Number,Number of filled jobs,0
+CPEMP11,,2021-10-31,Primary industries,Actual,,107764,Number,Number of filled jobs,0
+CPEMP11,,2021-10-31,Primary industries,Seasonally adjusted,,109564,Number,Number of filled jobs,0
+CPEMP11,,2021-10-31,Service industries,Actual,,1728257,Number,Number of filled jobs,0
+CPEMP11,,2021-10-31,Service industries,Seasonally adjusted,,1725016,Number,Number of filled jobs,0
+CPEMP11,,2021-11-30,All industries,Actual,,2308470,Number,Number of filled jobs,0
+CPEMP11,,2021-11-30,All industries,Seasonally adjusted,,2284341,Number,Number of filled jobs,0
+CPEMP11,,2021-11-30,Goods-producing industries,Actual,,447269,Number,Number of filled jobs,0
+CPEMP11,,2021-11-30,Goods-producing industries,Seasonally adjusted,,445109,Number,Number of filled jobs,0
+CPEMP11,,2021-11-30,Primary industries,Actual,,113331,Number,Number of filled jobs,0
+CPEMP11,,2021-11-30,Primary industries,Seasonally adjusted,,107596,Number,Number of filled jobs,0
+CPEMP11,,2021-11-30,Service industries,Actual,,1747870,Number,Number of filled jobs,0
+CPEMP11,,2021-11-30,Service industries,Seasonally adjusted,,1731161,Number,Number of filled jobs,0
+CPEMP11,,2021-12-31,All industries,Actual,,2324890,Number,Number of filled jobs,0
+CPEMP11,,2021-12-31,All industries,Seasonally adjusted,,2282476,Number,Number of filled jobs,0
+CPEMP11,,2021-12-31,Goods-producing industries,Actual,,451956,Number,Number of filled jobs,0
+CPEMP11,,2021-12-31,Goods-producing industries,Seasonally adjusted,,445832,Number,Number of filled jobs,0
+CPEMP11,,2021-12-31,Primary industries,Actual,,117790,Number,Number of filled jobs,0
+CPEMP11,,2021-12-31,Primary industries,Seasonally adjusted,,106068,Number,Number of filled jobs,0
+CPEMP11,,2021-12-31,Service industries,Actual,,1755145,Number,Number of filled jobs,0
+CPEMP11,,2021-12-31,Service industries,Seasonally adjusted,,1730234,Number,Number of filled jobs,0
+CPEMP11,,2022-01-31,All industries,Actual,,2274554,Number,Number of filled jobs,0
+CPEMP11,,2022-01-31,All industries,Seasonally adjusted,,2292651,Number,Number of filled jobs,0
+CPEMP11,,2022-01-31,Goods-producing industries,Actual,,444822,Number,Number of filled jobs,0
+CPEMP11,,2022-01-31,Goods-producing industries,Seasonally adjusted,,445465,Number,Number of filled jobs,0
+CPEMP11,,2022-01-31,Primary industries,Actual,,113979,Number,Number of filled jobs,0
+CPEMP11,,2022-01-31,Primary industries,Seasonally adjusted,,105968,Number,Number of filled jobs,0
+CPEMP11,,2022-01-31,Service industries,Actual,,1715753,Number,Number of filled jobs,0
+CPEMP11,,2022-01-31,Service industries,Seasonally adjusted,,1741201,Number,Number of filled jobs,0
+CPEMP11,,2022-02-28,All industries,Actual,,2283727,Number,Number of filled jobs,0
+CPEMP11,,2022-02-28,All industries,Seasonally adjusted,,2285182,Number,Number of filled jobs,0
+CPEMP11,,2022-02-28,Goods-producing industries,Actual,,451658,Number,Number of filled jobs,0
+CPEMP11,,2022-02-28,Goods-producing industries,Seasonally adjusted,,447180,Number,Number of filled jobs,0
+CPEMP11,,2022-02-28,Primary industries,Actual,,110177,Number,Number of filled jobs,0
+CPEMP11,,2022-02-28,Primary industries,Seasonally adjusted,,105754,Number,Number of filled jobs,0
+CPEMP11,,2022-02-28,Service industries,Actual,,1721893,Number,Number of filled jobs,0
+CPEMP11,,2022-02-28,Service industries,Seasonally adjusted,,1732978,Number,Number of filled jobs,0
+CPEMP11,,2022-03-31,All industries,Actual,,2282754,Number,Number of filled jobs,0
+CPEMP11,,2022-03-31,All industries,Seasonally adjusted,,2276771,Number,Number of filled jobs,0
+CPEMP11,,2022-03-31,Goods-producing industries,Actual,,450109,Number,Number of filled jobs,0
+CPEMP11,,2022-03-31,Goods-producing industries,Seasonally adjusted,,447474,Number,Number of filled jobs,0
+CPEMP11,,2022-03-31,Primary industries,Actual,,108382,Number,Number of filled jobs,0
+CPEMP11,,2022-03-31,Primary industries,Seasonally adjusted,,106492,Number,Number of filled jobs,0
+CPEMP11,,2022-03-31,Service industries,Actual,,1724263,Number,Number of filled jobs,0
+CPEMP11,,2022-03-31,Service industries,Seasonally adjusted,,1722994,Number,Number of filled jobs,0
+CPEMP11,,2022-04-30,All industries,Actual,,2290888,Number,Number of filled jobs,0
+CPEMP11,,2022-04-30,All industries,Seasonally adjusted,,2287175,Number,Number of filled jobs,0
+CPEMP11,,2022-04-30,Goods-producing industries,Actual,,450072,Number,Number of filled jobs,0
+CPEMP11,,2022-04-30,Goods-producing industries,Seasonally adjusted,,448297,Number,Number of filled jobs,0
+CPEMP11,,2022-04-30,Primary industries,Actual,,106473,Number,Number of filled jobs,0
+CPEMP11,,2022-04-30,Primary industries,Seasonally adjusted,,107733,Number,Number of filled jobs,0
+CPEMP11,,2022-04-30,Service industries,Actual,,1734343,Number,Number of filled jobs,0
+CPEMP11,,2022-04-30,Service industries,Seasonally adjusted,,1731115,Number,Number of filled jobs,0
+CPEMP11,,2022-05-31,All industries,Actual,,2291118,Number,Number of filled jobs,0
+CPEMP11,,2022-05-31,All industries,Seasonally adjusted,,2291262,Number,Number of filled jobs,0
+CPEMP11,,2022-05-31,Goods-producing industries,Actual,,449194,Number,Number of filled jobs,0
+CPEMP11,,2022-05-31,Goods-producing industries,Seasonally adjusted,,448363,Number,Number of filled jobs,0
+CPEMP11,,2022-05-31,Primary industries,Actual,,104358,Number,Number of filled jobs,0
+CPEMP11,,2022-05-31,Primary industries,Seasonally adjusted,,108223,Number,Number of filled jobs,0
+CPEMP11,,2022-05-31,Service industries,Actual,,1737566,Number,Number of filled jobs,0
+CPEMP11,,2022-05-31,Service industries,Seasonally adjusted,,1734468,Number,Number of filled jobs,0
+CPEMP11,,2022-06-30,All industries,Actual,,2300454,Number,Number of filled jobs,0
+CPEMP11,,2022-06-30,All industries,Seasonally adjusted,,2305325,Number,Number of filled jobs,0
+CPEMP11,,2022-06-30,Goods-producing industries,Actual,,451351,Number,Number of filled jobs,0
+CPEMP11,,2022-06-30,Goods-producing industries,Seasonally adjusted,,451318,Number,Number of filled jobs,0
+CPEMP11,,2022-06-30,Primary industries,Actual,,100245,Number,Number of filled jobs,0
+CPEMP11,,2022-06-30,Primary industries,Seasonally adjusted,,107911,Number,Number of filled jobs,0
+CPEMP11,,2022-06-30,Service industries,Actual,,1748859,Number,Number of filled jobs,0
+CPEMP11,,2022-06-30,Service industries,Seasonally adjusted,,1745920,Number,Number of filled jobs,0

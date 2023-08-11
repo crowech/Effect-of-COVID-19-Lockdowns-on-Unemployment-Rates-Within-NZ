@@ -1,0 +1,277 @@
+---
+title: "The Effect of COVID-19 Lockdowns on Unemployment Rates Within NZ"
+author: "Group 1: Chloe Crowe 300539785, Fugo Takefusa 300543407 & Anna Toney Halton 300532770"
+classoption: 11pt
+linestretch: 1.2
+
+header-includes:
+    - \usepackage{newpxtext,eulerpx}
+    - \usepackage{bm,bbm}
+    
+output: bookdown::pdf_document2
+extra_dependencies: ["flafter"]
+toc: true
+---
+
+```{r, warning=FALSE, message=FALSE, echo = FALSE}
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(xts)
+library(lubridate)
+library(timetk)
+library(wktmo)
+library(seasonal)
+library(MASS)
+library(vars)
+library(forecast)
+library(xtable)
+library(gridExtra)
+```
+ 
+
+# Background and Data 
+
+The datasets we have chosen to work with in this project are:
+
++ Monthly Filled Jobs
+
++ Unemployment Rate by Sex
+
+These datasets were sourced from the COVID-19 Data Portal and Stats Employment websites. These sites are managed and run by Stats NZ, New Zealand’s official data agency. Our goal with these datasets is to use them in a way that tells us how COVID-19 has impacted New Zealand’s working population in terms of unemployment rates. Specifically, the impact and continued effect since the occurrence of the 2020 lockdown. From these datasets we will be able to draw accurate conclusions as to the effect of this time. Throughout this project we have kept both datasets separate.  
+
+  
+
+The first dataset we chose to work with is Monthly Filled Jobs. We believe that this dataset is valuable as it has the recorded the number of positions filled in the time period selected. We will be able to determine any trends over the years from this dataset. This information will allow us to draw better conclusions about the effect of the 2020 lockdown. This dataset contains time series, numerical and categorical data in the form of ‘Resource ID,’ ‘Period,’ ‘Label 1’ which refers to the industry types, ‘Label 2’ which is the seasonally adjusted and actual data, ‘Value’, ‘Unit’, and ‘Measure’ which is the number of filled jobs.  
+
+  
+
+The next dataset we have chosen to work with is Unemployment Rate by Sex. This dataset is helpful as it allows us to visualise trends in unemployment data from March 2007 to 2022. In addition, this data will enable us to draw an excellent overall understanding of any disparities that are found between sexes. Especially during the period of the 2020 lockdown, which we are particularly interested in. This dataset contains time series and numerical data in the form of ‘Quarter’ which is each year quarter, ‘Men,’ ‘Women,’ and ‘Total’ which is the unemployment rate for both men and women.  
+
+  
+
+Due to these datasets being sourced from New Zealand’s official data agency, Stats NZ, there are no missing data or errors found in the data. However, Stats NZ would be careful not to release any data that had obvious flaws and errors, as that would reflect poorly upon them as a government agency. This meant we did not need to clean or fix the data in anyway.  
+
+  
+
+To make comments about both datasets, the unemployment rates dataset was reformatted so that the date object was set to be a quarter. This was because the other dataset is formatted in this way and is easier to work with. Then the variable ‘Period’ was set as a date object for the Monthly Filled Jobs dataset. This way, there are no inconsistencies or issues when we are working with the datasets to build our own conclusions in the project.  
+
+
+
+# Ethics 
+
+Stats New Zealand, have their own privacy, security, and confidentiality statements. They include Stats New Zealand will not identify individuals in published statistics or research, anyone using Stats NZ data must apply the same standards of practice and data collection. Data is only kept for as long as it has statistical or research value.  
+
+As we are using data collected and stored by them, we will follow their privacy, security, and confidentiality guidelines. 
+
+  
+
+Within our data, we will not identify individuals. The dataset has been carefully anonymised by Stats NZ; An individual’s information is protected by Stats NZ and the New Zealand Government's legislations and safeguards. By using data from Stat’s NZ, we are agreeing that we will not attempt to identify any individual. As the datasets we are using are publicly available, we can use them without getting informed consent. We will not make assumptions or statements about any individual piece of data other than concerning the sample.  
+
+  
+
+Stats NZ is a government agency, they would be incredibly careful not to release any data that have obvious flaws. Although we cannot assume there are none. Within Stats Terms and Conditions, they state that all information within their datasets is accurate and up to date, although they cannot guarantee it. We will be looking into the dataset ourselves and decide if the dataset is suitable before we use it.  
+
+Stats NZ's ethical statements make us assume that there is no added bias in the dataset. No bias has been intentionally created although we cannot rule out any underlying bias. There is concern that our dataset is biased and not a true representation of our population.  
+
+  
+
+Stat’s NZ allows us to use their data for any statistical or research purposes. Considering this we will state only what we have discovered and will not plagiarise our results. We will not be using our findings to give any official advice and we will only share our results with those within Victoria University of Wellington.  
+
+  
+
+Throughout our findings, we will be transparent about our processes. We will state our data source and explain how and what we discover.Following Stat’s NZ statements, we will only keep copies of the data for as long as it has statistical or research value. When the data is no longer needed, all copies will be destroyed.  
+
+  
+
+To keep our project secure we are only keeping copies of our work on our machines and in the cloud. Within the cloud, access to our findings is restricted to our team. This includes our dataset, code, and reports. We are using Git to store files with word documents being stored in OneDrive. Code and reports will only be made editable to those within the group.  
+
+Our dataset has been retrieved from a public source (Stats NZ) which means that our data is not private to our group. Although we will be keeping a copy of the datasets on Git and our local machine.  
+
+Once the project is completed, we will be uploading a copy to be marked. Our findings are purely for educational purposes and should not be used for any decision-making. We will be giving a copy of our report to the university and may use them as work exemplars. This project will not be shared with the public.
+
+# EDA on NZ Unemployment Rate (and Number of Filled Jobs)
+
+```{r, warning=FALSE, message=FALSE, echo = FALSE}
+unemp.rate <- read.csv("../Data/unemployment_rate.csv")
+
+#set quarter as date object
+unemp.rate$Quarter <- yq(as.yearqtr(unemp.rate$Quarter, format = "%b-%y"))
+```
+
+
+## Unemployment Rate 2007-2020
+
+The unemployment rate data contains quarterly unemployment rate from January 2007 to January 2022. It has four variables: Quarter(Quarter when data was recorded), Total(total unemployment rate), Men(unemployment rate for men) and Women(Unemployment rate for women). There are 61 records in total.
+
+
+### Summary Table
+
+```{r, echo=FALSE}
+#xtable(substring(summary(unemp.rate)[, 2:4], 9, 13))
+```
+
+Table \@ref(tab:unemp) shows the Tukey summary statistics of the unemployment data. The ranges of unemployment rate for all variables are about to be between 3% and 7%. Women has higher median and mean unemployment rate compared to men. 
+
+\begin{table}[ht]
+\caption {Summary Statistic of Unemployment Rate by Sex}
+\centering 
+\begin{tabular}{rlll}
+  \hline
+ &      Men &     Women &     Total \\ 
+  \hline
+Minimum & 3.100 & 3.300 & 3.200 \\ 
+1st Quantile & 3.900 & 4.400 & 4.200 \\ 
+Median & 4.700 & 5.500 & 5.000 \\ 
+Mean & 4.725 & 5.311 & 5.013 \\ 
+3rd Quantile & 5.500 & 6.300 & 5.800 \\ 
+Maximum& 6.700 & 6.900 & 6.700 \\ 
+   \hline
+\end{tabular} (\#tab:unemp)
+\end{table}
+
+### Line graph
+
+The top part of Figure&nbsp;\@ref(fig:lp) shows the total unemployment rate over time. From 2010 to 2020 the unemployment rate was somewhat decreasing. However there is a sharp rise in the rate immediately after the first lock down and the rate started to be decreasing again. The bottom part of Figure&nbsp;\@ref(fig:lp) shows the unemployment rate by sex. Women generally have higher unemployment rate than men over time. Both women and men show clear rise in the rate right after the first lockdown. The unemployment rates are similar for both women and men at the end of the period. 
+
+```{r lp, fig.height = 8, fig.width=7, fig.cap="Line Graph for Unemployment Rate", fig.pos="center", echo=FALSE, warning=FALSE}
+p1 <- unemp.rate %>%
+  gather(Sex, rate, Men, Women, Total) %>%
+  filter(Sex == "Total") %>%
+  ggplot() +
+  geom_line(aes(x=Quarter, y= rate)) +
+  geom_vline(xintercept = date("2020-03-29")) +
+  geom_vline(xintercept = date("2021-08-17")) +
+  expand_limits(y = 0) +
+  annotate("text", x=date("2020-01-01"), y=2, label="1st Lockdown", angle=90) +
+  annotate("text", x=date("2021-05-01"), y=2, label="2nd Lockdown", angle=90) +
+  labs(y="Unemployment Rate %", title = "Quarterly Total Unemployment Rate")
+p2 <- unemp.rate %>%
+  gather(Sex, rate, Men, Women, Total) %>%
+  filter(Sex %in% c("Men", "Women")) %>%
+  ggplot() +
+  geom_line(aes(x=Quarter, y= rate, linetype= Sex)) +
+  geom_vline(xintercept = date("2020-03-29")) +
+  geom_vline(xintercept = date("2021-08-17")) +
+  expand_limits(y = 0) +
+  annotate("text", x=date("2020-01-01"), y=2, label="1st Lockdown", angle=90) +
+  annotate("text", x=date("2021-05-01"), y=2, label="2nd Lockdown", angle=90) +
+  labs(y="Unemployment Rate %", title = "Quarterly Unemployment Rate by Sex")
+
+grid.arrange(p1, p2, nrow=2)
+```
+
+
+
+### Seasonal plot
+
+Figure&nbsp;\@ref(fig:sp) shows seasonal sub-series plot of unemployment rate. The unemployment rate were separated by each quarter. The straight horizontal bar indicates a mean employment rate for each quarter. Since the horizontal bars do not change by quarters, there are not much seasonal pattern in unemployment rate. 
+
+```{r sp, fig.height= 6, fig.cap="Seasonal Subseries Plot of Unemployment Rate", fig.pos="center", echo=FALSE, warning=FALSE}
+year <- as.numeric(format(unemp.rate$Quarter[1], "%Y"))
+monthnum <- as.numeric(format(unemp.rate$Quarter[1], "%m"))
+tstot <- ts(unemp.rate$Total, start=c(year,monthnum), frequency=4)
+tsmen <- ts(unemp.rate$Men, start=c(year,monthnum), frequency=4)
+tswomen <- ts(unemp.rate$Women, start=c(year,monthnum), frequency=4)
+
+p1 <- ggsubseriesplot(tstot) +
+  labs(y = NULL, x=NULL,title ="Total Unemployment Rate")+
+  expand_limits(y = 0)
+p2 <- ggsubseriesplot(tsmen) +
+  labs(y = NULL, x=NULL,title ="Unemployment Rate for Men")+
+  expand_limits(y = 0)
+p3 <- ggsubseriesplot(tswomen) +
+  labs(y = NULL, x=NULL, title ="Unemployment Rate for Women")+
+  expand_limits(y = 0)
+
+grid.arrange(p1,p2,p3, nrow = 3, left="Unemployment Rate %", bottom= "Quarter")
+```
+
+
+
+## Number of filled jobs quarterly 2007-2020
+
+The next dataset we chose was Monthly Filled Jobs. The dataset has 10 variables in total but for our analysis, we only used four variables:  'Period', 'Label1', 'Label2' and 'Value'. 'Period' indicates date the data is recorded. ‘Label 1’ refers to the industry types and ‘Label 2’ shows whether seasonally adjusted and actual data (we will only use actual data for our analysis since we can explore seasonal pattern). 'Value' shows the number of filled jobs in that period.  Monthly data were converted into quarterly data by using mean of three months' number of filled jobs. The quarterly data have 60 records for each industry type from January 2007 to October 2021.
+
+```{r, echo=FALSE, warning = FALSE, message=FALSE}
+filled.jobs <- read.csv("../Data/Monthly_filled_jpbs.csv")
+
+#set every Period as date objects
+filled.jobs$Period <- as.Date(filled.jobs$Period)
+```
+
+
+### Line Graph
+
+Figure&nbsp;\@ref(fig:fj) shows a line graph of number of filled jobs for each industry type and their total. Service-industries have the highest number of filled jobs followed by Goods-producing and primary industries. The number was raising for service-industries over the period while the other industries stayed fairly stable. It seems there are no significant change in the numbers due to the lockdowns.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+start <- unemp.rate$Quarter[1]
+end <- last(unemp.rate$Quarter)
+
+q.filled.jobs <- filled.jobs %>%
+  filter_by_time(.date_var = Period, .start_date = start,
+                 .end_date = end) %>%
+  group_by(Label1, Label2) %>%
+  summarise_by_time(.date_var = Period,
+                    .by = "quarter",
+                    MeanJobs = mean(Value)) %>%
+  rename(Quarter = Period) %>%
+  filter(Label2=="Actual")
+
+```
+
+
+```{r fj, fig.cap="Number of Filled Jobs 2007-2020", fig.height = 6,  fig.width = 9, fig.pos="center", echo=FALSE, warning=FALSE}
+q.filled.jobs$Label1 <- factor(q.filled.jobs$Label1, levels = c("All industries", "Service industries", "Goods-producing industries", "Primary industries"))
+q.filled.jobs %>%
+  rename(Industry_Type = Label1) %>%
+  filter(Label2 == "Actual") %>%
+  ggplot() +
+  geom_line(aes(x=Quarter, y= MeanJobs, linetype= Industry_Type)) +
+  geom_vline(xintercept = date("2020-03-29")) +
+  geom_vline(xintercept = date("2021-08-17")) +
+  labs(y="Number of Filled Jobs", title = "Number of Filled Jobs 2007-2020")+
+  annotate("text", x=date("2020-01-01"), y=1000000, label="1st Lockdown", angle=90) +
+  annotate("text", x=date("2021-05-01"), y=1000000, label="2nd Lockdown", angle=90)
+```
+
+### Seasonal pattern
+
+Figure&nbsp;\@ref(fig:sp2) shows seasonal sub-series plot of number of filled jobs for all industries (total number of filled jobs).  The data were separated by quarters and the straight horizontal bar indicates a mean number of filled job over the period for each quarter. The horizontal bar for the first quarter is lower than that for the fourth quarter, indicating a seasonal pattern that the number of filled jobs tend to be lower for a first quarter than that for a fourth quarter.
+
+```{r sp2, fig.cap="Seasonal Sub-series Plot of Total Number of Filled jobs", fig.pos="center", echo=FALSE, warning=FALSE}
+year <- as.numeric(format(q.filled.jobs$Quarter[1], "%Y"))
+monthnum <- as.numeric(format(q.filled.jobs$Quarter[1], "%m"))
+
+all.act.jobs <- q.filled.jobs %>%
+  filter(Label1 == "All industries", Label2 == "Actual")
+
+tsaaj <- ts(all.act.jobs$MeanJobs, start=c(year,monthnum), frequency=4)
+
+ggsubseriesplot(tsaaj) +
+  labs(y="Total Number of Filled Jobs", title = "Seasonal  Plot of Total Number of Filled jobs")
+```
+
+# References
+
+Stats New Zealand. (n.d.-a). COVID-19 data portal | Stats NZ. Retrieved from www.stats.govt.nz website:
+https://www.stats.govt.nz/experimental/covid-19-data-portal 
+
+Stats New Zealand. (n.d.-b). Privacy, security, and confidentiality of survey data | Stats NZ. Retrieved September 1, 2022, from www.stats.govt.nz website: https://www.stats.govt.nz/help-with-surveys/privacy-security-and-confidentiality-of-survey-data/ 
+
+Stats New Zealand. (n.d.-c). Privacy statement for stats.govt.nz | Stats NZ. Retrieved September 1, 2022, from www.stats.govt.nz website: https://www.stats.govt.nz/about-us/privacy-statement/ 
+
+Stats New Zealand. (n.d.-d). Terms and conditions | Stats NZ. Retrieved September 1, 2022, from www.stats.govt.nz website: https://www.stats.govt.nz/about-us/terms-and-conditions/ 
+
+\
+
+**Individual contributions:**
+
+Anna Toney Halton contributed the Background and Data section of this project. Anna created a Literature review in the project planning stage. 
+
+Chloe Crowe contributed the Ethics and Privacy section within the project. Chloe set up the Git Repository, Trello board and Teams channel. 
+
+Fugo Takefusa created the exploratory Data Analysis, this included Data preparation. 
+
+Together we all contributed to the creation of this report. 
